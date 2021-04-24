@@ -15,8 +15,21 @@
 	<description>Proyecto challenge para el spring day </description>
 	<properties>
 		<java.version>11</java.version>
+        <google.guava.version>30.1.1-jre</google.guava.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <spring.fox.version>3.0.0</spring.fox.version>
 	</properties>
 	<dependencies>
+        <dependency>
+            <groupId>io.springfox</groupId>
+            <artifactId>springfox-boot-starter</artifactId>
+            <version>${spring.fox.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>${google.guava.version}</version>
+        </dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
