@@ -1,6 +1,7 @@
 package com.perales.spring.day.covid.service;
 
 
+import com.google.common.collect.Iterables;
 import com.perales.spring.day.covid.model.Modelo;
 import com.perales.spring.day.covid.util.Parser;
 import lombok.extern.log4j.Log4j2;
@@ -36,7 +37,7 @@ public class ModeloService {
     public void loadModelo(MultipartFile file){
         EntityManager em = emf.createEntityManager();
         try (BufferedReader br = new BufferedReader( new InputStreamReader( file.getInputStream() , "UTF-8") )) {
-            List<Modelo> colonias = br.lines().parallel()
+            List<Modelo> modelos = br.lines().parallel()
                     .filter( line -> !line.contains(Parser.TEXT_FOR_DETECT_FIRST_LINE) )
                     .filter( line -> !line.contains(Parser.TEXT_FOR_DETECT_FIELD_DESCRIPTION) )
                     .map( line -> {
@@ -52,31 +53,30 @@ public class ModeloService {
                         } catch (ParseException e) {
                             e.printStackTrace();
                         }
-                        if(modelo != null){
-                            log.info( modelo.toString() );
-                        }else{
-                            log.error("No fue posible guardar el siguiente registro: " + list);
-                        }
                         return modelo;
-                    }).filter( modelo -> modelo != null )
+                    })
                     .collect( Collectors.toList() );
-        
-//            Iterables.partition(colonias, 1000).forEach( coloniasBatch -> {
-//                em.getTransaction().begin();
-//                for(Modelo modelo : modelosBatch){
-//                    try {
-//                        revisarModelo(modelo, em);
-//                    }catch (Exception e){
-//                        e.printStackTrace();
-//                    }
-//                }
-//                em.getTransaction().commit();
-//                em.close();
-//            });
+            log.info("****Termino el preprocesamiento y comenzamos a persistir la informacion***");
+            Iterables.partition(modelos, 10000).forEach(modelosBatch -> {
+                em.getTransaction().begin();
+                for(Modelo modelo : modelosBatch){
+                    try {
+                        persistirModelo(modelo, em);
+                    }catch (Exception e){
+                        e.printStackTrace();
+                    }
+                }
+                em.getTransaction().commit();
+                em.close();
+            });
         } catch (UnsupportedEncodingException e) {
             e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
         }
+    }
+    
+    private void persistirModelo(Modelo modelo, EntityManager em) {
+        em.persist(modelo);
     }
 }
