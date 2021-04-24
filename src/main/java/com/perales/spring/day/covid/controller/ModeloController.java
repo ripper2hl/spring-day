@@ -1,12 +1,13 @@
 package com.perales.spring.day.covid.controller;
 
+import com.perales.spring.day.covid.model.Modelo;
 import com.perales.spring.day.covid.service.ModeloService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestPart;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
+
+import java.util.List;
+import java.util.Optional;
 
 @RestController
 @RequestMapping("modelo/")
@@ -20,4 +21,18 @@ public class ModeloController {
         modeloService.loadModelo(file);
     }
     
+    @GetMapping
+    public List<Modelo> search(Modelo modelo ){
+        return modeloService.search(modelo);
+    }
+    
+    @GetMapping("/{id}")
+    public Optional<Modelo> findById(Integer id ){
+        return modeloService.findById(id);
+    }
+    
+    @GetMapping("/processing")
+    public Integer getSizeOfProcessingList(){
+        return modeloService.getSizeOfProcessingList();
+    }
 }

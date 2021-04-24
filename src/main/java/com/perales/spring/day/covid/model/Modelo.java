@@ -3,12 +3,14 @@ package com.perales.spring.day.covid.model;
 import lombok.Builder;
 import lombok.Data;
 import lombok.AllArgsConstructor;
+import lombok.NoArgsConstructor;
 
 import javax.persistence.*;
 import java.io.Serializable;
 import java.util.Date;
 
 @AllArgsConstructor
+@NoArgsConstructor
 @Data
 @Builder
 @Entity(name = "modelo")
@@ -17,6 +19,7 @@ public class Modelo implements Serializable {
     //TIPO_PACIENTE	FECHA_INGRESO	FECHA_SINTOMAS	FECHA_DEF	INTUBADO	NEUMONIA	EDAD	NACIONALIDAD
     //EMBARAZO	HABLA_LENGUA_INDIG	INDIGENA	DIABETES	EPOC	ASMA	INMUSUPR	HIPERTENSION	OTRA_COM
     private static final long serialVersionUID = 7622719610604643048L;
+    
     @Id
     @GeneratedValue(
             generator = "sequence_modelo",
@@ -147,5 +150,5 @@ public class Modelo implements Serializable {
     private String paisOrigen;
     
     @Column
-    private Integer Uci;
+    private Integer uci;
 }
