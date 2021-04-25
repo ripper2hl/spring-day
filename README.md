@@ -1,5 +1,42 @@
 # spring-day-covid
 
+## Prerequisitos:
+
+* Java 11
+* Maven
+* Docker
+* Nodejs
+
+## Ejecutar el proyecto:
+
+* Levantar la base de datos: 
+ 
+    ```bash
+    docker run -p 5432:5432 -e POSTGRES_PASSWORD=mysecretpassword -d jesusperales/spring-day-db:latest
+    ```
+
+* Levantar backend:
+  
+    ```bash
+    git clone git@github.com:ripper2hl/spring-day.git
+    cd spring-day
+    mvn spring-boot:run
+    ```
+    Podras ver la pantalla de swagger para probar algunos endpoints
+    http://localhost:8080/swagger-ui/index.html
+  
+     ## POR ALGUNA RAZON CHROME SIEMPRE DIRIGE A HTTPS FIREFOX NO
+
+* Levantar frontend
+
+    ```bash
+    git clone git@github.com:ripper2hl/spring-day-frontend.git
+    cd spring-day-frontend
+    npm run start
+    ```
+
+## Procesar la información de la base de datos 
+
 Debido al enorme cantidad de registros para cargar el archivo completo
 se necesita hacer un split de el archivo.
 
