@@ -5,6 +5,7 @@ import org.springframework.stereotype.Component;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.List;
 
 @Component
@@ -56,6 +57,10 @@ public class Parser {
     public Modelo convertirListaModelo(List<String> lista) throws ParseException {
         SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd");
         
+        Date fechaDefuncion = null;
+        if( !lista.get( FECHA_DEF ).equalsIgnoreCase("9999-99-99") ){
+            fechaDefuncion = simpleDateFormat.parse( lista.get( FECHA_DEF ));
+        }
         
         Modelo modelo = Modelo.builder()
                 .fechaActualizacion(  simpleDateFormat.parse(lista.get(FECHA_ACTUALIZACION_POSICION) ))
@@ -70,7 +75,7 @@ public class Parser {
                 .tipoPaciente(lista.get( TIPO_PACIENTE ))
                 .fechaIngreso( simpleDateFormat.parse( lista.get( FECHA_INGRESO ) ) )
                 .fechaSintomas( simpleDateFormat.parse( lista.get( FECHA_SINTOMAS ) ) )
-                .fechaDefuncion( simpleDateFormat.parse( lista.get( FECHA_DEF ) ) )
+                .fechaDefuncion( fechaDefuncion )
                 .intubado( Integer.valueOf( lista.get( INTUBADO ) ))
                 .neumonia(Integer.valueOf(  lista.get( NEUMONIA )) )
                 .edad( Integer.valueOf( lista.get( EDAD )))

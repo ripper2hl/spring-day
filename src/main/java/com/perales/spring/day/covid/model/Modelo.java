@@ -14,6 +14,14 @@ import java.util.Date;
 @Data
 @Builder
 @Entity(name = "modelo")
+@Table( indexes = {
+        @Index( name = "municipio_residencia_index",
+        columnList = "municipioResidencia", unique = false),
+        @Index( name = "fecha_defuncion_index",
+                columnList = "fechaDefuncion", unique = false),
+        @Index( name = "fecha_sintomas_index",
+                columnList = "fechaSintomas", unique = false)
+})
 public class Modelo implements Serializable {
     //FECHA_ACTUALIZACION	ID_REGISTRO	ORIGEN	SECTOR	ENTIDAD_UM	SEXO	ENTIDAD_NAC	ENTIDAD_RES	MUNICIPIO_RES
     //TIPO_PACIENTE	FECHA_INGRESO	FECHA_SINTOMAS	FECHA_DEF	INTUBADO	NEUMONIA	EDAD	NACIONALIDAD

@@ -17,6 +17,7 @@ import org.hibernate.criterion.Example;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 import org.springframework.web.multipart.MultipartFile;
 
 import javax.persistence.EntityManager;
@@ -27,10 +28,7 @@ import java.io.*;
 import java.nio.ByteBuffer;
 import java.nio.charset.StandardCharsets;
 import java.text.ParseException;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Optional;
+import java.util.*;
 import java.util.stream.Collectors;
 
 @Service
@@ -118,18 +116,25 @@ public class ModeloService {
         return countModelos;
     }
     
-    public Integer countModeloByEntidadResidenciaAndFechaDefuncionExists(String entidadResidencia){
-        return modeloRepository.countModeloByEntidadResidenciaAndFechaDefuncionIsNotNull(entidadResidencia);
+    public Integer countModeloByEntidadResidenciaAndFechaDefuncionExists(String entidadResidencia, Date fechaSintomasInicio, Date fechaSintomasFin){
+        return modeloRepository
+                .countModeloByEntidadResidenciaAndFechaDefuncionIsNotNullAndFechaSintomasGreaterThanEqualAndFechaSintomasLessThanEqual(entidadResidencia, fechaSintomasInicio, fechaSintomasFin);
     }
     
-    public Integer countModeloByMunicipioResidenciaAndFechaDefuncionIsNotNull(String municipio){
-        return modeloRepository.countModeloByMunicipioResidenciaAndFechaDefuncionIsNotNull(municipio);
+    public Integer casosPorEntidadPorClasificacionFinalPorSexo(String entidad, Integer clasificacionFinal, Integer sexo, Date fechaSintomasInicio, Date fechaSintomasFin){
+        return modeloRepository
+                .countModeloByEntidadResidenciaAndClasificacionFinalAndSexoAndFechaSintomasGreaterThanEqualAndFechaSintomasLessThanEqual(entidad,
+                        clasificacionFinal, sexo, fechaSintomasInicio, fechaSintomasFin);
     }
     
-    public List<DefuncionesMunicipio> defuncionesAgrupadasPorMunicipio() {
+    public Integer countModeloByMunicipioResidenciaAndFechaDefuncionIsNotNull(String municipio, Date fechaSintomasInicio, Date fechaSintomasFin){
+        return modeloRepository.
+                countModeloByMunicipioResidenciaAndFechaDefuncionIsNotNullAndFechaSintomasGreaterThanEqualAndFechaSintomasLessThanEqual(municipio, fechaSintomasInicio, fechaSintomasFin);
+    }
+    
+    @Transactional(readOnly = true)
+    public List<DefuncionesMunicipio> defuncionesAgrupadasPorMunicipio(Date fechaSintomasInicio, Date fechaSintomasFin) {
         ObjectMapper mapper = new ObjectMapper();
-        Gson gson = new Gson();
-        String jsonMunicipios = null;
         List<Municipio> municipios = new ArrayList<>();
         try {
             File file = new ClassPathResource( "municipios.json").getFile();
@@ -142,9 +147,12 @@ public class ModeloService {
             DefuncionesMunicipio defunciones = new DefuncionesMunicipio();
             defunciones.setNombre( municipio.getNombre() );
             defunciones.setAbreviacion( municipio.getClave() );
-            defunciones.setCantidad(countModeloByMunicipioResidenciaAndFechaDefuncionIsNotNull(municipio.getId()));
+            defunciones.setCantidad(modeloRepository.
+                    countModeloByMunicipioResidenciaAndFechaDefuncionIsNotNullAndFechaSintomasGreaterThanEqualAndFechaSintomasLessThanEqual(municipio.getId(), fechaSintomasInicio, fechaSintomasFin));
             defuncionesMunicipios.add(defunciones);
         }
         return defuncionesMunicipios;
     }
+    
+    
 }
