@@ -45,10 +45,10 @@
     npm run start
     ```
 
-## Procesar la información de la base de datos 
+## Para procesar la información de la base de datos si no se tiene la imagen de docker 
 
 Debido al enorme cantidad de registros para cargar el archivo completo
-se necesita hacer un split de el archivo.
+se necesita hacer un split del archivo.
 
 El cual se puede hacer con el siguiente comando:
 
