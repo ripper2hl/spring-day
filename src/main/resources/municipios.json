@@ -1,0 +1,12507 @@
+[
+  {
+    "id": "001",
+    "nombre": "AGUASCALIENTES",
+    "clave": "01"
+  },
+  {
+    "id": "002",
+    "nombre": "ASIENTOS",
+    "clave": "01"
+  },
+  {
+    "id": "003",
+    "nombre": "CALVILLO",
+    "clave": "01"
+  },
+  {
+    "id": "004",
+    "nombre": "COSÍO",
+    "clave": "01"
+  },
+  {
+    "id": "005",
+    "nombre": "JESÚS MARÍA",
+    "clave": "01"
+  },
+  {
+    "id": "006",
+    "nombre": "PABELLÓN DE ARTEAGA",
+    "clave": "01"
+  },
+  {
+    "id": "007",
+    "nombre": "RINCÓN DE ROMOS",
+    "clave": "01"
+  },
+  {
+    "id": "008",
+    "nombre": "SAN JOSÉ DE GRACIA",
+    "clave": "01"
+  },
+  {
+    "id": "009",
+    "nombre": "TEPEZALÁ",
+    "clave": "01"
+  },
+  {
+    "id": "010",
+    "nombre": "EL LLANO",
+    "clave": "01"
+  },
+  {
+    "id": "011",
+    "nombre": "SAN FRANCISCO DE LOS ROMO",
+    "clave": "01"
+  },
+  {
+    "id": 999,
+    "nombre": "NO ESPECIFICADO",
+    "clave": "01"
+  },
+  {
+    "id": "001",
+    "nombre": "ENSENADA",
+    "clave": "02"
+  },
+  {
+    "id": "002",
+    "nombre": "MEXICALI",
+    "clave": "02"
+  },
+  {
+    "id": "003",
+    "nombre": "TECATE",
+    "clave": "02"
+  },
+  {
+    "id": "004",
+    "nombre": "TIJUANA",
+    "clave": "02"
+  },
+  {
+    "id": "005",
+    "nombre": "PLAYAS DE ROSARITO",
+    "clave": "02"
+  },
+  {
+    "id": 999,
+    "nombre": "NO ESPECIFICADO",
+    "clave": "02"
+  },
+  {
+    "id": "001",
+    "nombre": "COMONDÚ",
+    "clave": "03"
+  },
+  {
+    "id": "002",
+    "nombre": "MULEGÉ",
+    "clave": "03"
+  },
+  {
+    "id": "003",
+    "nombre": "LA PAZ",
+    "clave": "03"
+  },
+  {
+    "id": "008",
+    "nombre": "LOS CABOS",
+    "clave": "03"
+  },
+  {
+    "id": "009",
+    "nombre": "LORETO",
+    "clave": "03"
+  },
+  {
+    "id": 999,
+    "nombre": "NO ESPECIFICADO",
+    "clave": "03"
+  },
+  {
+    "id": "001",
+    "nombre": "CALKINÍ",
+    "clave": "04"
+  },
+  {
+    "id": "002",
+    "nombre": "CAMPECHE",
+    "clave": "04"
+  },
+  {
+    "id": "003",
+    "nombre": "CARMEN",
+    "clave": "04"
+  },
+  {
+    "id": "004",
+    "nombre": "CHAMPOTÓN",
+    "clave": "04"
+  },
+  {
+    "id": "005",
+    "nombre": "HECELCHAKÁN",
+    "clave": "04"
+  },
+  {
+    "id": "006",
+    "nombre": "HOPELCHÉN",
+    "clave": "04"
+  },
+  {
+    "id": "007",
+    "nombre": "PALIZADA",
+    "clave": "04"
+  },
+  {
+    "id": "008",
+    "nombre": "TENABO",
+    "clave": "04"
+  },
+  {
+    "id": "009",
+    "nombre": "ESCÁRCEGA",
+    "clave": "04"
+  },
+  {
+    "id": "010",
+    "nombre": "CALAKMUL",
+    "clave": "04"
+  },
+  {
+    "id": "011",
+    "nombre": "CANDELARIA",
+    "clave": "04"
+  },
+  {
+    "id": 999,
+    "nombre": "NO ESPECIFICADO",
+    "clave": "04"
+  },
+  {
+    "id": "001",
+    "nombre": "ABASOLO",
+    "clave": "05"
+  },
+  {
+    "id": "002",
+    "nombre": "ACUÑA",
+    "clave": "05"
+  },
+  {
+    "id": "003",
+    "nombre": "ALLENDE",
+    "clave": "05"
+  },
+  {
+    "id": "004",
+    "nombre": "ARTEAGA",
+    "clave": "05"
+  },
+  {
+    "id": "005",
+    "nombre": "CANDELA",
+    "clave": "05"
+  },
+  {
+    "id": "006",
+    "nombre": "CASTAÑOS",
+    "clave": "05"
+  },
+  {
+    "id": "007",
+    "nombre": "CUATRO CIÉNEGAS",
+    "clave": "05"
+  },
+  {
+    "id": "008",
+    "nombre": "ESCOBEDO",
+    "clave": "05"
+  },
+  {
+    "id": "009",
+    "nombre": "FRANCISCO I. MADERO",
+    "clave": "05"
+  },
+  {
+    "id": "010",
+    "nombre": "FRONTERA",
+    "clave": "05"
+  },
+  {
+    "id": "011",
+    "nombre": "GENERAL CEPEDA",
+    "clave": "05"
+  },
+  {
+    "id": "012",
+    "nombre": "GUERRERO",
+    "clave": "05"
+  },
+  {
+    "id": "013",
+    "nombre": "HIDALGO",
+    "clave": "05"
+  },
+  {
+    "id": "014",
+    "nombre": "JIMÉNEZ",
+    "clave": "05"
+  },
+  {
+    "id": "015",
+    "nombre": "JUÁREZ",
+    "clave": "05"
+  },
+  {
+    "id": "016",
+    "nombre": "LAMADRID",
+    "clave": "05"
+  },
+  {
+    "id": "017",
+    "nombre": "MATAMOROS",
+    "clave": "05"
+  },
+  {
+    "id": "018",
+    "nombre": "MONCLOVA",
+    "clave": "05"
+  },
+  {
+    "id": "019",
+    "nombre": "MORELOS",
+    "clave": "05"
+  },
+  {
+    "id": "020",
+    "nombre": "MÚZQUIZ",
+    "clave": "05"
+  },
+  {
+    "id": "021",
+    "nombre": "NADADORES",
+    "clave": "05"
+  },
+  {
+    "id": "022",
+    "nombre": "NAVA",
+    "clave": "05"
+  },
+  {
+    "id": "023",
+    "nombre": "OCAMPO",
+    "clave": "05"
+  },
+  {
+    "id": "024",
+    "nombre": "PARRAS",
+    "clave": "05"
+  },
+  {
+    "id": "025",
+    "nombre": "PIEDRAS NEGRAS",
+    "clave": "05"
+  },
+  {
+    "id": "026",
+    "nombre": "PROGRESO",
+    "clave": "05"
+  },
+  {
+    "id": "027",
+    "nombre": "RAMOS ARIZPE",
+    "clave": "05"
+  },
+  {
+    "id": "028",
+    "nombre": "SABINAS",
+    "clave": "05"
+  },
+  {
+    "id": "029",
+    "nombre": "SACRAMENTO",
+    "clave": "05"
+  },
+  {
+    "id": "030",
+    "nombre": "SALTILLO",
+    "clave": "05"
+  },
+  {
+    "id": "031",
+    "nombre": "SAN BUENAVENTURA",
+    "clave": "05"
+  },
+  {
+    "id": "032",
+    "nombre": "SAN JUAN DE SABINAS",
+    "clave": "05"
+  },
+  {
+    "id": "033",
+    "nombre": "SAN PEDRO",
+    "clave": "05"
+  },
+  {
+    "id": "034",
+    "nombre": "SIERRA MOJADA",
+    "clave": "05"
+  },
+  {
+    "id": "035",
+    "nombre": "TORREÓN",
+    "clave": "05"
+  },
+  {
+    "id": "036",
+    "nombre": "VIESCA",
+    "clave": "05"
+  },
+  {
+    "id": "037",
+    "nombre": "VILLA UNIÓN",
+    "clave": "05"
+  },
+  {
+    "id": "038",
+    "nombre": "ZARAGOZA",
+    "clave": "05"
+  },
+  {
+    "id": 999,
+    "nombre": "NO ESPECIFICADO",
+    "clave": "05"
+  },
+  {
+    "id": "001",
+    "nombre": "ARMERÍA",
+    "clave": "06"
+  },
+  {
+    "id": "002",
+    "nombre": "COLIMA",
+    "clave": "06"
+  },
+  {
+    "id": "003",
+    "nombre": "COMALA",
+    "clave": "06"
+  },
+  {
+    "id": "004",
+    "nombre": "COQUIMATLÁN",
+    "clave": "06"
+  },
+  {
+    "id": "005",
+    "nombre": "CUAUHTÉMOC",
+    "clave": "06"
+  },
+  {
+    "id": "006",
+    "nombre": "IXTLAHUACÁN",
+    "clave": "06"
+  },
+  {
+    "id": "007",
+    "nombre": "MANZANILLO",
+    "clave": "06"
+  },
+  {
+    "id": "008",
+    "nombre": "MINATITLÁN",
+    "clave": "06"
+  },
+  {
+    "id": "009",
+    "nombre": "TECOMÁN",
+    "clave": "06"
+  },
+  {
+    "id": "010",
+    "nombre": "VILLA DE ÁLVAREZ",
+    "clave": "06"
+  },
+  {
+    "id": 999,
+    "nombre": "NO ESPECIFICADO",
+    "clave": "06"
+  },
+  {
+    "id": "001",
+    "nombre": "ACACOYAGUA",
+    "clave": "07"
+  },
+  {
+    "id": "002",
+    "nombre": "ACALA",
+    "clave": "07"
+  },
+  {
+    "id": "003",
+    "nombre": "ACAPETAHUA",
+    "clave": "07"
+  },
+  {
+    "id": "004",
+    "nombre": "ALTAMIRANO",
+    "clave": "07"
+  },
+  {
+    "id": "005",
+    "nombre": "AMATÁN",
+    "clave": "07"
+  },
+  {
+    "id": "006",
+    "nombre": "AMATENANGO DE LA FRONTERA",
+    "clave": "07"
+  },
+  {
+    "id": "007",
+    "nombre": "AMATENANGO DEL VALLE",
+    "clave": "07"
+  },
+  {
+    "id": "008",
+    "nombre": "ANGEL ALBINO CORZO",
+    "clave": "07"
+  },
+  {
+    "id": "009",
+    "nombre": "ARRIAGA",
+    "clave": "07"
+  },
+  {
+    "id": "010",
+    "nombre": "BEJUCAL DE OCAMPO",
+    "clave": "07"
+  },
+  {
+    "id": "011",
+    "nombre": "BELLA VISTA",
+    "clave": "07"
+  },
+  {
+    "id": "012",
+    "nombre": "BERRIOZÁBAL",
+    "clave": "07"
+  },
+  {
+    "id": "013",
+    "nombre": "BOCHIL",
+    "clave": "07"
+  },
+  {
+    "id": "014",
+    "nombre": "EL BOSQUE",
+    "clave": "07"
+  },
+  {
+    "id": "015",
+    "nombre": "CACAHOATÁN",
+    "clave": "07"
+  },
+  {
+    "id": "016",
+    "nombre": "CATAZAJÁ",
+    "clave": "07"
+  },
+  {
+    "id": "017",
+    "nombre": "CINTALAPA",
+    "clave": "07"
+  },
+  {
+    "id": "018",
+    "nombre": "COAPILLA",
+    "clave": "07"
+  },
+  {
+    "id": "019",
+    "nombre": "COMITÁN DE DOMÍNGUEZ",
+    "clave": "07"
+  },
+  {
+    "id": "020",
+    "nombre": "LA CONCORDIA",
+    "clave": "07"
+  },
+  {
+    "id": "021",
+    "nombre": "COPAINALÁ",
+    "clave": "07"
+  },
+  {
+    "id": "022",
+    "nombre": "CHALCHIHUITÁN",
+    "clave": "07"
+  },
+  {
+    "id": "023",
+    "nombre": "CHAMULA",
+    "clave": "07"
+  },
+  {
+    "id": "024",
+    "nombre": "CHANAL",
+    "clave": "07"
+  },
+  {
+    "id": "025",
+    "nombre": "CHAPULTENANGO",
+    "clave": "07"
+  },
+  {
+    "id": "026",
+    "nombre": "CHENALHÓ",
+    "clave": "07"
+  },
+  {
+    "id": "027",
+    "nombre": "CHIAPA DE CORZO",
+    "clave": "07"
+  },
+  {
+    "id": "028",
+    "nombre": "CHIAPILLA",
+    "clave": "07"
+  },
+  {
+    "id": "029",
+    "nombre": "CHICOASÉN",
+    "clave": "07"
+  },
+  {
+    "id": "030",
+    "nombre": "CHICOMUSELO",
+    "clave": "07"
+  },
+  {
+    "id": "031",
+    "nombre": "CHILÓN",
+    "clave": "07"
+  },
+  {
+    "id": "032",
+    "nombre": "ESCUINTLA",
+    "clave": "07"
+  },
+  {
+    "id": "033",
+    "nombre": "FRANCISCO LEÓN",
+    "clave": "07"
+  },
+  {
+    "id": "034",
+    "nombre": "FRONTERA COMALAPA",
+    "clave": "07"
+  },
+  {
+    "id": "035",
+    "nombre": "FRONTERA HIDALGO",
+    "clave": "07"
+  },
+  {
+    "id": "036",
+    "nombre": "LA GRANDEZA",
+    "clave": "07"
+  },
+  {
+    "id": "037",
+    "nombre": "HUEHUETÁN",
+    "clave": "07"
+  },
+  {
+    "id": "038",
+    "nombre": "HUIXTÁN",
+    "clave": "07"
+  },
+  {
+    "id": "039",
+    "nombre": "HUITIUPÁN",
+    "clave": "07"
+  },
+  {
+    "id": "040",
+    "nombre": "HUIXTLA",
+    "clave": "07"
+  },
+  {
+    "id": "041",
+    "nombre": "LA INDEPENDENCIA",
+    "clave": "07"
+  },
+  {
+    "id": "042",
+    "nombre": "IXHUATÁN",
+    "clave": "07"
+  },
+  {
+    "id": "043",
+    "nombre": "IXTACOMITÁN",
+    "clave": "07"
+  },
+  {
+    "id": "044",
+    "nombre": "IXTAPA",
+    "clave": "07"
+  },
+  {
+    "id": "045",
+    "nombre": "IXTAPANGAJOYA",
+    "clave": "07"
+  },
+  {
+    "id": "046",
+    "nombre": "JIQUIPILAS",
+    "clave": "07"
+  },
+  {
+    "id": "047",
+    "nombre": "JITOTOL",
+    "clave": "07"
+  },
+  {
+    "id": "048",
+    "nombre": "JUÁREZ",
+    "clave": "07"
+  },
+  {
+    "id": "049",
+    "nombre": "LARRÁINZAR",
+    "clave": "07"
+  },
+  {
+    "id": "050",
+    "nombre": "LA LIBERTAD",
+    "clave": "07"
+  },
+  {
+    "id": "051",
+    "nombre": "MAPASTEPEC",
+    "clave": "07"
+  },
+  {
+    "id": "052",
+    "nombre": "LAS MARGARITAS",
+    "clave": "07"
+  },
+  {
+    "id": "053",
+    "nombre": "MAZAPA DE MADERO",
+    "clave": "07"
+  },
+  {
+    "id": "054",
+    "nombre": "MAZATÁN",
+    "clave": "07"
+  },
+  {
+    "id": "055",
+    "nombre": "METAPA",
+    "clave": "07"
+  },
+  {
+    "id": "056",
+    "nombre": "MITONTIC",
+    "clave": "07"
+  },
+  {
+    "id": "057",
+    "nombre": "MOTOZINTLA",
+    "clave": "07"
+  },
+  {
+    "id": "058",
+    "nombre": "NICOLÁS RUÍZ",
+    "clave": "07"
+  },
+  {
+    "id": "059",
+    "nombre": "OCOSINGO",
+    "clave": "07"
+  },
+  {
+    "id": "060",
+    "nombre": "OCOTEPEC",
+    "clave": "07"
+  },
+  {
+    "id": "061",
+    "nombre": "OCOZOCOAUTLA DE ESPINOSA",
+    "clave": "07"
+  },
+  {
+    "id": "062",
+    "nombre": "OSTUACÁN",
+    "clave": "07"
+  },
+  {
+    "id": "063",
+    "nombre": "OSUMACINTA",
+    "clave": "07"
+  },
+  {
+    "id": "064",
+    "nombre": "OXCHUC",
+    "clave": "07"
+  },
+  {
+    "id": "065",
+    "nombre": "PALENQUE",
+    "clave": "07"
+  },
+  {
+    "id": "066",
+    "nombre": "PANTELHÓ",
+    "clave": "07"
+  },
+  {
+    "id": "067",
+    "nombre": "PANTEPEC",
+    "clave": "07"
+  },
+  {
+    "id": "068",
+    "nombre": "PICHUCALCO",
+    "clave": "07"
+  },
+  {
+    "id": "069",
+    "nombre": "PIJIJIAPAN",
+    "clave": "07"
+  },
+  {
+    "id": "070",
+    "nombre": "EL PORVENIR",
+    "clave": "07"
+  },
+  {
+    "id": "071",
+    "nombre": "VILLA COMALTITLÁN",
+    "clave": "07"
+  },
+  {
+    "id": "072",
+    "nombre": "PUEBLO NUEVO SOLISTAHUACÁN",
+    "clave": "07"
+  },
+  {
+    "id": "073",
+    "nombre": "RAYÓN",
+    "clave": "07"
+  },
+  {
+    "id": "074",
+    "nombre": "REFORMA",
+    "clave": "07"
+  },
+  {
+    "id": "075",
+    "nombre": "LAS ROSAS",
+    "clave": "07"
+  },
+  {
+    "id": "076",
+    "nombre": "SABANILLA",
+    "clave": "07"
+  },
+  {
+    "id": "077",
+    "nombre": "SALTO DE AGUA",
+    "clave": "07"
+  },
+  {
+    "id": "078",
+    "nombre": "SAN CRISTÓBAL DE LAS CASAS",
+    "clave": "07"
+  },
+  {
+    "id": "079",
+    "nombre": "SAN FERNANDO",
+    "clave": "07"
+  },
+  {
+    "id": "080",
+    "nombre": "SILTEPEC",
+    "clave": "07"
+  },
+  {
+    "id": "081",
+    "nombre": "SIMOJOVEL",
+    "clave": "07"
+  },
+  {
+    "id": "082",
+    "nombre": "SITALÁ",
+    "clave": "07"
+  },
+  {
+    "id": "083",
+    "nombre": "SOCOLTENANGO",
+    "clave": "07"
+  },
+  {
+    "id": "084",
+    "nombre": "SOLOSUCHIAPA",
+    "clave": "07"
+  },
+  {
+    "id": "085",
+    "nombre": "SOYALÓ",
+    "clave": "07"
+  },
+  {
+    "id": "086",
+    "nombre": "SUCHIAPA",
+    "clave": "07"
+  },
+  {
+    "id": "087",
+    "nombre": "SUCHIATE",
+    "clave": "07"
+  },
+  {
+    "id": "088",
+    "nombre": "SUNUAPA",
+    "clave": "07"
+  },
+  {
+    "id": "089",
+    "nombre": "TAPACHULA",
+    "clave": "07"
+  },
+  {
+    "id": "090",
+    "nombre": "TAPALAPA",
+    "clave": "07"
+  },
+  {
+    "id": "091",
+    "nombre": "TAPILULA",
+    "clave": "07"
+  },
+  {
+    "id": "092",
+    "nombre": "TECPATÁN",
+    "clave": "07"
+  },
+  {
+    "id": "093",
+    "nombre": "TENEJAPA",
+    "clave": "07"
+  },
+  {
+    "id": "094",
+    "nombre": "TEOPISCA",
+    "clave": "07"
+  },
+  {
+    "id": "096",
+    "nombre": "TILA",
+    "clave": "07"
+  },
+  {
+    "id": "097",
+    "nombre": "TONALÁ",
+    "clave": "07"
+  },
+  {
+    "id": "098",
+    "nombre": "TOTOLAPA",
+    "clave": "07"
+  },
+  {
+    "id": "099",
+    "nombre": "LA TRINITARIA",
+    "clave": "07"
+  },
+  {
+    "id": 100,
+    "nombre": "TUMBALÁ",
+    "clave": "07"
+  },
+  {
+    "id": 101,
+    "nombre": "TUXTLA GUTIÉRREZ",
+    "clave": "07"
+  },
+  {
+    "id": 102,
+    "nombre": "TUXTLA CHICO",
+    "clave": "07"
+  },
+  {
+    "id": 103,
+    "nombre": "TUZANTÁN",
+    "clave": "07"
+  },
+  {
+    "id": 104,
+    "nombre": "TZIMOL",
+    "clave": "07"
+  },
+  {
+    "id": 105,
+    "nombre": "UNIÓN JUÁREZ",
+    "clave": "07"
+  },
+  {
+    "id": 106,
+    "nombre": "VENUSTIANO CARRANZA",
+    "clave": "07"
+  },
+  {
+    "id": 107,
+    "nombre": "VILLA CORZO",
+    "clave": "07"
+  },
+  {
+    "id": 108,
+    "nombre": "VILLAFLORES",
+    "clave": "07"
+  },
+  {
+    "id": 109,
+    "nombre": "YAJALÓN",
+    "clave": "07"
+  },
+  {
+    "id": 110,
+    "nombre": "SAN LUCAS",
+    "clave": "07"
+  },
+  {
+    "id": 111,
+    "nombre": "ZINACANTÁN",
+    "clave": "07"
+  },
+  {
+    "id": 112,
+    "nombre": "SAN JUAN CANCUC",
+    "clave": "07"
+  },
+  {
+    "id": 113,
+    "nombre": "ALDAMA",
+    "clave": "07"
+  },
+  {
+    "id": 114,
+    "nombre": "BENEMÉRITO DE LAS AMÉRICAS",
+    "clave": "07"
+  },
+  {
+    "id": 115,
+    "nombre": "MARAVILLA TENEJAPA",
+    "clave": "07"
+  },
+  {
+    "id": 116,
+    "nombre": "MARQUÉS DE COMILLAS",
+    "clave": "07"
+  },
+  {
+    "id": 117,
+    "nombre": "MONTECRISTO DE GUERRERO",
+    "clave": "07"
+  },
+  {
+    "id": 118,
+    "nombre": "SAN ANDRÉS DURAZNAL",
+    "clave": "07"
+  },
+  {
+    "id": 119,
+    "nombre": "SANTIAGO EL PINAR",
+    "clave": "07"
+  },
+  {
+    "id": 120,
+    "nombre": "CAPITÁN LUIS ÁNGEL VIDAL",
+    "clave": "07"
+  },
+  {
+    "id": 121,
+    "nombre": "RINCÓN CHAMULA SAN PEDRO",
+    "clave": "07"
+  },
+  {
+    "id": 122,
+    "nombre": "EL PARRAL",
+    "clave": "07"
+  },
+  {
+    "id": 123,
+    "nombre": "EMILIANO ZAPATA",
+    "clave": "07"
+  },
+  {
+    "id": 124,
+    "nombre": "MEZCALAPA",
+    "clave": "07"
+  },
+  {
+    "id": 999,
+    "nombre": "NO ESPECIFICADO",
+    "clave": "07"
+  },
+  {
+    "id": "001",
+    "nombre": "AHUMADA",
+    "clave": "08"
+  },
+  {
+    "id": "002",
+    "nombre": "ALDAMA",
+    "clave": "08"
+  },
+  {
+    "id": "003",
+    "nombre": "ALLENDE",
+    "clave": "08"
+  },
+  {
+    "id": "004",
+    "nombre": "AQUILES SERDÁN",
+    "clave": "08"
+  },
+  {
+    "id": "005",
+    "nombre": "ASCENSIÓN",
+    "clave": "08"
+  },
+  {
+    "id": "006",
+    "nombre": "BACHÍNIVA",
+    "clave": "08"
+  },
+  {
+    "id": "007",
+    "nombre": "BALLEZA",
+    "clave": "08"
+  },
+  {
+    "id": "008",
+    "nombre": "BATOPILAS DE MANUEL GÓMEZ MORÍN",
+    "clave": "08"
+  },
+  {
+    "id": "009",
+    "nombre": "BOCOYNA",
+    "clave": "08"
+  },
+  {
+    "id": "010",
+    "nombre": "BUENAVENTURA",
+    "clave": "08"
+  },
+  {
+    "id": "011",
+    "nombre": "CAMARGO",
+    "clave": "08"
+  },
+  {
+    "id": "012",
+    "nombre": "CARICHÍ",
+    "clave": "08"
+  },
+  {
+    "id": "013",
+    "nombre": "CASAS GRANDES",
+    "clave": "08"
+  },
+  {
+    "id": "014",
+    "nombre": "CORONADO",
+    "clave": "08"
+  },
+  {
+    "id": "015",
+    "nombre": "COYAME DEL SOTOL",
+    "clave": "08"
+  },
+  {
+    "id": "016",
+    "nombre": "LA CRUZ",
+    "clave": "08"
+  },
+  {
+    "id": "017",
+    "nombre": "CUAUHTÉMOC",
+    "clave": "08"
+  },
+  {
+    "id": "018",
+    "nombre": "CUSIHUIRIACHI",
+    "clave": "08"
+  },
+  {
+    "id": "019",
+    "nombre": "CHIHUAHUA",
+    "clave": "08"
+  },
+  {
+    "id": "020",
+    "nombre": "CHÍNIPAS",
+    "clave": "08"
+  },
+  {
+    "id": "021",
+    "nombre": "DELICIAS",
+    "clave": "08"
+  },
+  {
+    "id": "022",
+    "nombre": "DR. BELISARIO DOMÍNGUEZ",
+    "clave": "08"
+  },
+  {
+    "id": "023",
+    "nombre": "GALEANA",
+    "clave": "08"
+  },
+  {
+    "id": "024",
+    "nombre": "SANTA ISABEL",
+    "clave": "08"
+  },
+  {
+    "id": "025",
+    "nombre": "GÓMEZ FARÍAS",
+    "clave": "08"
+  },
+  {
+    "id": "026",
+    "nombre": "GRAN MORELOS",
+    "clave": "08"
+  },
+  {
+    "id": "027",
+    "nombre": "GUACHOCHI",
+    "clave": "08"
+  },
+  {
+    "id": "028",
+    "nombre": "GUADALUPE",
+    "clave": "08"
+  },
+  {
+    "id": "029",
+    "nombre": "GUADALUPE Y CALVO",
+    "clave": "08"
+  },
+  {
+    "id": "030",
+    "nombre": "GUAZAPARES",
+    "clave": "08"
+  },
+  {
+    "id": "031",
+    "nombre": "GUERRERO",
+    "clave": "08"
+  },
+  {
+    "id": "032",
+    "nombre": "HIDALGO DEL PARRAL",
+    "clave": "08"
+  },
+  {
+    "id": "033",
+    "nombre": "HUEJOTITÁN",
+    "clave": "08"
+  },
+  {
+    "id": "034",
+    "nombre": "IGNACIO ZARAGOZA",
+    "clave": "08"
+  },
+  {
+    "id": "035",
+    "nombre": "JANOS",
+    "clave": "08"
+  },
+  {
+    "id": "036",
+    "nombre": "JIMÉNEZ",
+    "clave": "08"
+  },
+  {
+    "id": "037",
+    "nombre": "JUÁREZ",
+    "clave": "08"
+  },
+  {
+    "id": "038",
+    "nombre": "JULIMES",
+    "clave": "08"
+  },
+  {
+    "id": "039",
+    "nombre": "LÓPEZ",
+    "clave": "08"
+  },
+  {
+    "id": "040",
+    "nombre": "MADERA",
+    "clave": "08"
+  },
+  {
+    "id": "041",
+    "nombre": "MAGUARICHI",
+    "clave": "08"
+  },
+  {
+    "id": "042",
+    "nombre": "MANUEL BENAVIDES",
+    "clave": "08"
+  },
+  {
+    "id": "043",
+    "nombre": "MATACHÍ",
+    "clave": "08"
+  },
+  {
+    "id": "044",
+    "nombre": "MATAMOROS",
+    "clave": "08"
+  },
+  {
+    "id": "045",
+    "nombre": "MEOQUI",
+    "clave": "08"
+  },
+  {
+    "id": "046",
+    "nombre": "MORELOS",
+    "clave": "08"
+  },
+  {
+    "id": "047",
+    "nombre": "MORIS",
+    "clave": "08"
+  },
+  {
+    "id": "048",
+    "nombre": "NAMIQUIPA",
+    "clave": "08"
+  },
+  {
+    "id": "049",
+    "nombre": "NONOAVA",
+    "clave": "08"
+  },
+  {
+    "id": "050",
+    "nombre": "NUEVO CASAS GRANDES",
+    "clave": "08"
+  },
+  {
+    "id": "051",
+    "nombre": "OCAMPO",
+    "clave": "08"
+  },
+  {
+    "id": "052",
+    "nombre": "OJINAGA",
+    "clave": "08"
+  },
+  {
+    "id": "053",
+    "nombre": "PRAXEDIS G. GUERRERO",
+    "clave": "08"
+  },
+  {
+    "id": "054",
+    "nombre": "RIVA PALACIO",
+    "clave": "08"
+  },
+  {
+    "id": "055",
+    "nombre": "ROSALES",
+    "clave": "08"
+  },
+  {
+    "id": "056",
+    "nombre": "ROSARIO",
+    "clave": "08"
+  },
+  {
+    "id": "057",
+    "nombre": "SAN FRANCISCO DE BORJA",
+    "clave": "08"
+  },
+  {
+    "id": "058",
+    "nombre": "SAN FRANCISCO DE CONCHOS",
+    "clave": "08"
+  },
+  {
+    "id": "059",
+    "nombre": "SAN FRANCISCO DEL ORO",
+    "clave": "08"
+  },
+  {
+    "id": "060",
+    "nombre": "SANTA BÁRBARA",
+    "clave": "08"
+  },
+  {
+    "id": "061",
+    "nombre": "SATEVÓ",
+    "clave": "08"
+  },
+  {
+    "id": "062",
+    "nombre": "SAUCILLO",
+    "clave": "08"
+  },
+  {
+    "id": "063",
+    "nombre": "TEMÓSACHIC",
+    "clave": "08"
+  },
+  {
+    "id": "064",
+    "nombre": "EL TULE",
+    "clave": "08"
+  },
+  {
+    "id": "065",
+    "nombre": "URIQUE",
+    "clave": "08"
+  },
+  {
+    "id": "066",
+    "nombre": "URUACHI",
+    "clave": "08"
+  },
+  {
+    "id": "067",
+    "nombre": "VALLE DE ZARAGOZA",
+    "clave": "08"
+  },
+  {
+    "id": 999,
+    "nombre": "NO ESPECIFICADO",
+    "clave": "08"
+  },
+  {
+    "id": "002",
+    "nombre": "AZCAPOTZALCO",
+    "clave": "09"
+  },
+  {
+    "id": "003",
+    "nombre": "COYOACÁN",
+    "clave": "09"
+  },
+  {
+    "id": "004",
+    "nombre": "CUAJIMALPA DE MORELOS",
+    "clave": "09"
+  },
+  {
+    "id": "005",
+    "nombre": "GUSTAVO A. MADERO",
+    "clave": "09"
+  },
+  {
+    "id": "006",
+    "nombre": "IZTACALCO",
+    "clave": "09"
+  },
+  {
+    "id": "007",
+    "nombre": "IZTAPALAPA",
+    "clave": "09"
+  },
+  {
+    "id": "008",
+    "nombre": "LA MAGDALENA CONTRERAS",
+    "clave": "09"
+  },
+  {
+    "id": "009",
+    "nombre": "MILPA ALTA",
+    "clave": "09"
+  },
+  {
+    "id": "010",
+    "nombre": "ÁLVARO OBREGÓN",
+    "clave": "09"
+  },
+  {
+    "id": "011",
+    "nombre": "TLÁHUAC",
+    "clave": "09"
+  },
+  {
+    "id": "012",
+    "nombre": "TLALPAN",
+    "clave": "09"
+  },
+  {
+    "id": "013",
+    "nombre": "XOCHIMILCO",
+    "clave": "09"
+  },
+  {
+    "id": "014",
+    "nombre": "BENITO JUÁREZ",
+    "clave": "09"
+  },
+  {
+    "id": "015",
+    "nombre": "CUAUHTÉMOC",
+    "clave": "09"
+  },
+  {
+    "id": "016",
+    "nombre": "MIGUEL HIDALGO",
+    "clave": "09"
+  },
+  {
+    "id": "017",
+    "nombre": "VENUSTIANO CARRANZA",
+    "clave": "09"
+  },
+  {
+    "id": 999,
+    "nombre": "NO ESPECIFICADO",
+    "clave": "09"
+  },
+  {
+    "id": "001",
+    "nombre": "CANATLÁN",
+    "clave": 10
+  },
+  {
+    "id": "002",
+    "nombre": "CANELAS",
+    "clave": 10
+  },
+  {
+    "id": "003",
+    "nombre": "CONETO DE COMONFORT",
+    "clave": 10
+  },
+  {
+    "id": "004",
+    "nombre": "CUENCAMÉ",
+    "clave": 10
+  },
+  {
+    "id": "005",
+    "nombre": "DURANGO",
+    "clave": 10
+  },
+  {
+    "id": "006",
+    "nombre": "GENERAL SIMÓN BOLÍVAR",
+    "clave": 10
+  },
+  {
+    "id": "007",
+    "nombre": "GÓMEZ PALACIO",
+    "clave": 10
+  },
+  {
+    "id": "008",
+    "nombre": "GUADALUPE VICTORIA",
+    "clave": 10
+  },
+  {
+    "id": "009",
+    "nombre": "GUANACEVÍ",
+    "clave": 10
+  },
+  {
+    "id": "010",
+    "nombre": "HIDALGO",
+    "clave": 10
+  },
+  {
+    "id": "011",
+    "nombre": "INDÉ",
+    "clave": 10
+  },
+  {
+    "id": "012",
+    "nombre": "LERDO",
+    "clave": 10
+  },
+  {
+    "id": "013",
+    "nombre": "MAPIMÍ",
+    "clave": 10
+  },
+  {
+    "id": "014",
+    "nombre": "MEZQUITAL",
+    "clave": 10
+  },
+  {
+    "id": "015",
+    "nombre": "NAZAS",
+    "clave": 10
+  },
+  {
+    "id": "016",
+    "nombre": "NOMBRE DE DIOS",
+    "clave": 10
+  },
+  {
+    "id": "017",
+    "nombre": "OCAMPO",
+    "clave": 10
+  },
+  {
+    "id": "018",
+    "nombre": "EL ORO",
+    "clave": 10
+  },
+  {
+    "id": "019",
+    "nombre": "OTÁEZ",
+    "clave": 10
+  },
+  {
+    "id": "020",
+    "nombre": "PÁNUCO DE CORONADO",
+    "clave": 10
+  },
+  {
+    "id": "021",
+    "nombre": "PEÑÓN BLANCO",
+    "clave": 10
+  },
+  {
+    "id": "022",
+    "nombre": "POANAS",
+    "clave": 10
+  },
+  {
+    "id": "023",
+    "nombre": "PUEBLO NUEVO",
+    "clave": 10
+  },
+  {
+    "id": "024",
+    "nombre": "RODEO",
+    "clave": 10
+  },
+  {
+    "id": "025",
+    "nombre": "SAN BERNARDO",
+    "clave": 10
+  },
+  {
+    "id": "026",
+    "nombre": "SAN DIMAS",
+    "clave": 10
+  },
+  {
+    "id": "027",
+    "nombre": "SAN JUAN DE GUADALUPE",
+    "clave": 10
+  },
+  {
+    "id": "028",
+    "nombre": "SAN JUAN DEL RÍO",
+    "clave": 10
+  },
+  {
+    "id": "029",
+    "nombre": "SAN LUIS DEL CORDERO",
+    "clave": 10
+  },
+  {
+    "id": "030",
+    "nombre": "SAN PEDRO DEL GALLO",
+    "clave": 10
+  },
+  {
+    "id": "031",
+    "nombre": "SANTA CLARA",
+    "clave": 10
+  },
+  {
+    "id": "032",
+    "nombre": "SANTIAGO PAPASQUIARO",
+    "clave": 10
+  },
+  {
+    "id": "033",
+    "nombre": "SÚCHIL",
+    "clave": 10
+  },
+  {
+    "id": "034",
+    "nombre": "TAMAZULA",
+    "clave": 10
+  },
+  {
+    "id": "035",
+    "nombre": "TEPEHUANES",
+    "clave": 10
+  },
+  {
+    "id": "036",
+    "nombre": "TLAHUALILO",
+    "clave": 10
+  },
+  {
+    "id": "037",
+    "nombre": "TOPIA",
+    "clave": 10
+  },
+  {
+    "id": "038",
+    "nombre": "VICENTE GUERRERO",
+    "clave": 10
+  },
+  {
+    "id": "039",
+    "nombre": "NUEVO IDEAL",
+    "clave": 10
+  },
+  {
+    "id": 999,
+    "nombre": "NO ESPECIFICADO",
+    "clave": 10
+  },
+  {
+    "id": "001",
+    "nombre": "ABASOLO",
+    "clave": 11
+  },
+  {
+    "id": "002",
+    "nombre": "ACÁMBARO",
+    "clave": 11
+  },
+  {
+    "id": "003",
+    "nombre": "SAN MIGUEL DE ALLENDE",
+    "clave": 11
+  },
+  {
+    "id": "004",
+    "nombre": "APASEO EL ALTO",
+    "clave": 11
+  },
+  {
+    "id": "005",
+    "nombre": "APASEO EL GRANDE",
+    "clave": 11
+  },
+  {
+    "id": "006",
+    "nombre": "ATARJEA",
+    "clave": 11
+  },
+  {
+    "id": "007",
+    "nombre": "CELAYA",
+    "clave": 11
+  },
+  {
+    "id": "008",
+    "nombre": "MANUEL DOBLADO",
+    "clave": 11
+  },
+  {
+    "id": "009",
+    "nombre": "COMONFORT",
+    "clave": 11
+  },
+  {
+    "id": "010",
+    "nombre": "CORONEO",
+    "clave": 11
+  },
+  {
+    "id": "011",
+    "nombre": "CORTAZAR",
+    "clave": 11
+  },
+  {
+    "id": "012",
+    "nombre": "CUERÁMARO",
+    "clave": 11
+  },
+  {
+    "id": "013",
+    "nombre": "DOCTOR MORA",
+    "clave": 11
+  },
+  {
+    "id": "014",
+    "nombre": "DOLORES HIDALGO CUNA DE LA INDEPENDENCIA NACIONAL",
+    "clave": 11
+  },
+  {
+    "id": "015",
+    "nombre": "GUANAJUATO",
+    "clave": 11
+  },
+  {
+    "id": "016",
+    "nombre": "HUANÍMARO",
+    "clave": 11
+  },
+  {
+    "id": "017",
+    "nombre": "IRAPUATO",
+    "clave": 11
+  },
+  {
+    "id": "018",
+    "nombre": "JARAL DEL PROGRESO",
+    "clave": 11
+  },
+  {
+    "id": "019",
+    "nombre": "JERÉCUARO",
+    "clave": 11
+  },
+  {
+    "id": "020",
+    "nombre": "LEÓN",
+    "clave": 11
+  },
+  {
+    "id": "021",
+    "nombre": "MOROLEÓN",
+    "clave": 11
+  },
+  {
+    "id": "022",
+    "nombre": "OCAMPO",
+    "clave": 11
+  },
+  {
+    "id": "023",
+    "nombre": "PÉNJAMO",
+    "clave": 11
+  },
+  {
+    "id": "024",
+    "nombre": "PUEBLO NUEVO",
+    "clave": 11
+  },
+  {
+    "id": "025",
+    "nombre": "PURÍSIMA DEL RINCÓN",
+    "clave": 11
+  },
+  {
+    "id": "026",
+    "nombre": "ROMITA",
+    "clave": 11
+  },
+  {
+    "id": "027",
+    "nombre": "SALAMANCA",
+    "clave": 11
+  },
+  {
+    "id": "028",
+    "nombre": "SALVATIERRA",
+    "clave": 11
+  },
+  {
+    "id": "029",
+    "nombre": "SAN DIEGO DE LA UNIÓN",
+    "clave": 11
+  },
+  {
+    "id": "030",
+    "nombre": "SAN FELIPE",
+    "clave": 11
+  },
+  {
+    "id": "031",
+    "nombre": "SAN FRANCISCO DEL RINCÓN",
+    "clave": 11
+  },
+  {
+    "id": "032",
+    "nombre": "SAN JOSÉ ITURBIDE",
+    "clave": 11
+  },
+  {
+    "id": "033",
+    "nombre": "SAN LUIS DE LA PAZ",
+    "clave": 11
+  },
+  {
+    "id": "034",
+    "nombre": "SANTA CATARINA",
+    "clave": 11
+  },
+  {
+    "id": "035",
+    "nombre": "SANTA CRUZ DE JUVENTINO ROSAS",
+    "clave": 11
+  },
+  {
+    "id": "036",
+    "nombre": "SANTIAGO MARAVATÍO",
+    "clave": 11
+  },
+  {
+    "id": "037",
+    "nombre": "SILAO DE LA VICTORIA",
+    "clave": 11
+  },
+  {
+    "id": "038",
+    "nombre": "TARANDACUAO",
+    "clave": 11
+  },
+  {
+    "id": "039",
+    "nombre": "TARIMORO",
+    "clave": 11
+  },
+  {
+    "id": "040",
+    "nombre": "TIERRA BLANCA",
+    "clave": 11
+  },
+  {
+    "id": "041",
+    "nombre": "URIANGATO",
+    "clave": 11
+  },
+  {
+    "id": "042",
+    "nombre": "VALLE DE SANTIAGO",
+    "clave": 11
+  },
+  {
+    "id": "043",
+    "nombre": "VICTORIA",
+    "clave": 11
+  },
+  {
+    "id": "044",
+    "nombre": "VILLAGRÁN",
+    "clave": 11
+  },
+  {
+    "id": "045",
+    "nombre": "XICHÚ",
+    "clave": 11
+  },
+  {
+    "id": "046",
+    "nombre": "YURIRIA",
+    "clave": 11
+  },
+  {
+    "id": 999,
+    "nombre": "NO ESPECIFICADO",
+    "clave": 11
+  },
+  {
+    "id": "001",
+    "nombre": "ACAPULCO DE JUÁREZ",
+    "clave": 12
+  },
+  {
+    "id": "002",
+    "nombre": "AHUACUOTZINGO",
+    "clave": 12
+  },
+  {
+    "id": "003",
+    "nombre": "AJUCHITLÁN DEL PROGRESO",
+    "clave": 12
+  },
+  {
+    "id": "004",
+    "nombre": "ALCOZAUCA DE GUERRERO",
+    "clave": 12
+  },
+  {
+    "id": "005",
+    "nombre": "ALPOYECA",
+    "clave": 12
+  },
+  {
+    "id": "006",
+    "nombre": "APAXTLA",
+    "clave": 12
+  },
+  {
+    "id": "007",
+    "nombre": "ARCELIA",
+    "clave": 12
+  },
+  {
+    "id": "008",
+    "nombre": "ATENANGO DEL RÍO",
+    "clave": 12
+  },
+  {
+    "id": "009",
+    "nombre": "ATLAMAJALCINGO DEL MONTE",
+    "clave": 12
+  },
+  {
+    "id": "010",
+    "nombre": "ATLIXTAC",
+    "clave": 12
+  },
+  {
+    "id": "011",
+    "nombre": "ATOYAC DE ÁLVAREZ",
+    "clave": 12
+  },
+  {
+    "id": "012",
+    "nombre": "AYUTLA DE LOS LIBRES",
+    "clave": 12
+  },
+  {
+    "id": "013",
+    "nombre": "AZOYÚ",
+    "clave": 12
+  },
+  {
+    "id": "014",
+    "nombre": "BENITO JUÁREZ",
+    "clave": 12
+  },
+  {
+    "id": "015",
+    "nombre": "BUENAVISTA DE CUÉLLAR",
+    "clave": 12
+  },
+  {
+    "id": "016",
+    "nombre": "COAHUAYUTLA DE JOSÉ MARÍA IZAZAGA",
+    "clave": 12
+  },
+  {
+    "id": "017",
+    "nombre": "COCULA",
+    "clave": 12
+  },
+  {
+    "id": "018",
+    "nombre": "COPALA",
+    "clave": 12
+  },
+  {
+    "id": "019",
+    "nombre": "COPALILLO",
+    "clave": 12
+  },
+  {
+    "id": "020",
+    "nombre": "COPANATOYAC",
+    "clave": 12
+  },
+  {
+    "id": "021",
+    "nombre": "COYUCA DE BENÍTEZ",
+    "clave": 12
+  },
+  {
+    "id": "022",
+    "nombre": "COYUCA DE CATALÁN",
+    "clave": 12
+  },
+  {
+    "id": "023",
+    "nombre": "CUAJINICUILAPA",
+    "clave": 12
+  },
+  {
+    "id": "024",
+    "nombre": "CUALÁC",
+    "clave": 12
+  },
+  {
+    "id": "025",
+    "nombre": "CUAUTEPEC",
+    "clave": 12
+  },
+  {
+    "id": "026",
+    "nombre": "CUETZALA DEL PROGRESO",
+    "clave": 12
+  },
+  {
+    "id": "027",
+    "nombre": "CUTZAMALA DE PINZÓN",
+    "clave": 12
+  },
+  {
+    "id": "028",
+    "nombre": "CHILAPA DE ÁLVAREZ",
+    "clave": 12
+  },
+  {
+    "id": "029",
+    "nombre": "CHILPANCINGO DE LOS BRAVO",
+    "clave": 12
+  },
+  {
+    "id": "030",
+    "nombre": "FLORENCIO VILLARREAL",
+    "clave": 12
+  },
+  {
+    "id": "031",
+    "nombre": "GENERAL CANUTO A. NERI",
+    "clave": 12
+  },
+  {
+    "id": "032",
+    "nombre": "GENERAL HELIODORO CASTILLO",
+    "clave": 12
+  },
+  {
+    "id": "033",
+    "nombre": "HUAMUXTITLÁN",
+    "clave": 12
+  },
+  {
+    "id": "034",
+    "nombre": "HUITZUCO DE LOS FIGUEROA",
+    "clave": 12
+  },
+  {
+    "id": "035",
+    "nombre": "IGUALA DE LA INDEPENDENCIA",
+    "clave": 12
+  },
+  {
+    "id": "036",
+    "nombre": "IGUALAPA",
+    "clave": 12
+  },
+  {
+    "id": "037",
+    "nombre": "IXCATEOPAN DE CUAUHTÉMOC",
+    "clave": 12
+  },
+  {
+    "id": "038",
+    "nombre": "ZIHUATANEJO DE AZUETA",
+    "clave": 12
+  },
+  {
+    "id": "039",
+    "nombre": "JUAN R. ESCUDERO",
+    "clave": 12
+  },
+  {
+    "id": "040",
+    "nombre": "LEONARDO BRAVO",
+    "clave": 12
+  },
+  {
+    "id": "041",
+    "nombre": "MALINALTEPEC",
+    "clave": 12
+  },
+  {
+    "id": "042",
+    "nombre": "MÁRTIR DE CUILAPAN",
+    "clave": 12
+  },
+  {
+    "id": "043",
+    "nombre": "METLATÓNOC",
+    "clave": 12
+  },
+  {
+    "id": "044",
+    "nombre": "MOCHITLÁN",
+    "clave": 12
+  },
+  {
+    "id": "045",
+    "nombre": "OLINALÁ",
+    "clave": 12
+  },
+  {
+    "id": "046",
+    "nombre": "OMETEPEC",
+    "clave": 12
+  },
+  {
+    "id": "047",
+    "nombre": "PEDRO ASCENCIO ALQUISIRAS",
+    "clave": 12
+  },
+  {
+    "id": "048",
+    "nombre": "PETATLÁN",
+    "clave": 12
+  },
+  {
+    "id": "049",
+    "nombre": "PILCAYA",
+    "clave": 12
+  },
+  {
+    "id": "050",
+    "nombre": "PUNGARABATO",
+    "clave": 12
+  },
+  {
+    "id": "051",
+    "nombre": "QUECHULTENANGO",
+    "clave": 12
+  },
+  {
+    "id": "052",
+    "nombre": "SAN LUIS ACATLÁN",
+    "clave": 12
+  },
+  {
+    "id": "053",
+    "nombre": "SAN MARCOS",
+    "clave": 12
+  },
+  {
+    "id": "054",
+    "nombre": "SAN MIGUEL TOTOLAPAN",
+    "clave": 12
+  },
+  {
+    "id": "055",
+    "nombre": "TAXCO DE ALARCÓN",
+    "clave": 12
+  },
+  {
+    "id": "056",
+    "nombre": "TECOANAPA",
+    "clave": 12
+  },
+  {
+    "id": "057",
+    "nombre": "TÉCPAN DE GALEANA",
+    "clave": 12
+  },
+  {
+    "id": "058",
+    "nombre": "TELOLOAPAN",
+    "clave": 12
+  },
+  {
+    "id": "059",
+    "nombre": "TEPECOACUILCO DE TRUJANO",
+    "clave": 12
+  },
+  {
+    "id": "060",
+    "nombre": "TETIPAC",
+    "clave": 12
+  },
+  {
+    "id": "061",
+    "nombre": "TIXTLA DE GUERRERO",
+    "clave": 12
+  },
+  {
+    "id": "062",
+    "nombre": "TLACOACHISTLAHUACA",
+    "clave": 12
+  },
+  {
+    "id": "063",
+    "nombre": "TLACOAPA",
+    "clave": 12
+  },
+  {
+    "id": "064",
+    "nombre": "TLALCHAPA",
+    "clave": 12
+  },
+  {
+    "id": "065",
+    "nombre": "TLALIXTAQUILLA DE MALDONADO",
+    "clave": 12
+  },
+  {
+    "id": "066",
+    "nombre": "TLAPA DE COMONFORT",
+    "clave": 12
+  },
+  {
+    "id": "067",
+    "nombre": "TLAPEHUALA",
+    "clave": 12
+  },
+  {
+    "id": "068",
+    "nombre": "LA UNIÓN DE ISIDORO MONTES DE OCA",
+    "clave": 12
+  },
+  {
+    "id": "069",
+    "nombre": "XALPATLÁHUAC",
+    "clave": 12
+  },
+  {
+    "id": "070",
+    "nombre": "XOCHIHUEHUETLÁN",
+    "clave": 12
+  },
+  {
+    "id": "071",
+    "nombre": "XOCHISTLAHUACA",
+    "clave": 12
+  },
+  {
+    "id": "072",
+    "nombre": "ZAPOTITLÁN TABLAS",
+    "clave": 12
+  },
+  {
+    "id": "073",
+    "nombre": "ZIRÁNDARO",
+    "clave": 12
+  },
+  {
+    "id": "074",
+    "nombre": "ZITLALA",
+    "clave": 12
+  },
+  {
+    "id": "075",
+    "nombre": "EDUARDO NERI",
+    "clave": 12
+  },
+  {
+    "id": "076",
+    "nombre": "ACATEPEC",
+    "clave": 12
+  },
+  {
+    "id": "077",
+    "nombre": "MARQUELIA",
+    "clave": 12
+  },
+  {
+    "id": "078",
+    "nombre": "COCHOAPA EL GRANDE",
+    "clave": 12
+  },
+  {
+    "id": "079",
+    "nombre": "JOSÉ JOAQUÍN DE HERRERA",
+    "clave": 12
+  },
+  {
+    "id": "080",
+    "nombre": "JUCHITÁN",
+    "clave": 12
+  },
+  {
+    "id": "081",
+    "nombre": "ILIATENCO",
+    "clave": 12
+  },
+  {
+    "id": 999,
+    "nombre": "NO ESPECIFICADO",
+    "clave": 12
+  },
+  {
+    "id": "001",
+    "nombre": "ACATLÁN",
+    "clave": 13
+  },
+  {
+    "id": "002",
+    "nombre": "ACAXOCHITLÁN",
+    "clave": 13
+  },
+  {
+    "id": "003",
+    "nombre": "ACTOPAN",
+    "clave": 13
+  },
+  {
+    "id": "004",
+    "nombre": "AGUA BLANCA DE ITURBIDE",
+    "clave": 13
+  },
+  {
+    "id": "005",
+    "nombre": "AJACUBA",
+    "clave": 13
+  },
+  {
+    "id": "006",
+    "nombre": "ALFAJAYUCAN",
+    "clave": 13
+  },
+  {
+    "id": "007",
+    "nombre": "ALMOLOYA",
+    "clave": 13
+  },
+  {
+    "id": "008",
+    "nombre": "APAN",
+    "clave": 13
+  },
+  {
+    "id": "009",
+    "nombre": "EL ARENAL",
+    "clave": 13
+  },
+  {
+    "id": "010",
+    "nombre": "ATITALAQUIA",
+    "clave": 13
+  },
+  {
+    "id": "011",
+    "nombre": "ATLAPEXCO",
+    "clave": 13
+  },
+  {
+    "id": "012",
+    "nombre": "ATOTONILCO EL GRANDE",
+    "clave": 13
+  },
+  {
+    "id": "013",
+    "nombre": "ATOTONILCO DE TULA",
+    "clave": 13
+  },
+  {
+    "id": "014",
+    "nombre": "CALNALI",
+    "clave": 13
+  },
+  {
+    "id": "015",
+    "nombre": "CARDONAL",
+    "clave": 13
+  },
+  {
+    "id": "016",
+    "nombre": "CUAUTEPEC DE HINOJOSA",
+    "clave": 13
+  },
+  {
+    "id": "017",
+    "nombre": "CHAPANTONGO",
+    "clave": 13
+  },
+  {
+    "id": "018",
+    "nombre": "CHAPULHUACÁN",
+    "clave": 13
+  },
+  {
+    "id": "019",
+    "nombre": "CHILCUAUTLA",
+    "clave": 13
+  },
+  {
+    "id": "020",
+    "nombre": "ELOXOCHITLÁN",
+    "clave": 13
+  },
+  {
+    "id": "021",
+    "nombre": "EMILIANO ZAPATA",
+    "clave": 13
+  },
+  {
+    "id": "022",
+    "nombre": "EPAZOYUCAN",
+    "clave": 13
+  },
+  {
+    "id": "023",
+    "nombre": "FRANCISCO I. MADERO",
+    "clave": 13
+  },
+  {
+    "id": "024",
+    "nombre": "HUASCA DE OCAMPO",
+    "clave": 13
+  },
+  {
+    "id": "025",
+    "nombre": "HUAUTLA",
+    "clave": 13
+  },
+  {
+    "id": "026",
+    "nombre": "HUAZALINGO",
+    "clave": 13
+  },
+  {
+    "id": "027",
+    "nombre": "HUEHUETLA",
+    "clave": 13
+  },
+  {
+    "id": "028",
+    "nombre": "HUEJUTLA DE REYES",
+    "clave": 13
+  },
+  {
+    "id": "029",
+    "nombre": "HUICHAPAN",
+    "clave": 13
+  },
+  {
+    "id": "030",
+    "nombre": "IXMIQUILPAN",
+    "clave": 13
+  },
+  {
+    "id": "031",
+    "nombre": "JACALA DE LEDEZMA",
+    "clave": 13
+  },
+  {
+    "id": "032",
+    "nombre": "JALTOCÁN",
+    "clave": 13
+  },
+  {
+    "id": "033",
+    "nombre": "JUÁREZ HIDALGO",
+    "clave": 13
+  },
+  {
+    "id": "034",
+    "nombre": "LOLOTLA",
+    "clave": 13
+  },
+  {
+    "id": "035",
+    "nombre": "METEPEC",
+    "clave": 13
+  },
+  {
+    "id": "036",
+    "nombre": "SAN AGUSTÍN METZQUITITLÁN",
+    "clave": 13
+  },
+  {
+    "id": "037",
+    "nombre": "METZTITLÁN",
+    "clave": 13
+  },
+  {
+    "id": "038",
+    "nombre": "MINERAL DEL CHICO",
+    "clave": 13
+  },
+  {
+    "id": "039",
+    "nombre": "MINERAL DEL MONTE",
+    "clave": 13
+  },
+  {
+    "id": "040",
+    "nombre": "LA MISIÓN",
+    "clave": 13
+  },
+  {
+    "id": "041",
+    "nombre": "MIXQUIAHUALA DE JUÁREZ",
+    "clave": 13
+  },
+  {
+    "id": "042",
+    "nombre": "MOLANGO DE ESCAMILLA",
+    "clave": 13
+  },
+  {
+    "id": "043",
+    "nombre": "NICOLÁS FLORES",
+    "clave": 13
+  },
+  {
+    "id": "044",
+    "nombre": "NOPALA DE VILLAGRÁN",
+    "clave": 13
+  },
+  {
+    "id": "045",
+    "nombre": "OMITLÁN DE JUÁREZ",
+    "clave": 13
+  },
+  {
+    "id": "046",
+    "nombre": "SAN FELIPE ORIZATLÁN",
+    "clave": 13
+  },
+  {
+    "id": "047",
+    "nombre": "PACULA",
+    "clave": 13
+  },
+  {
+    "id": "048",
+    "nombre": "PACHUCA DE SOTO",
+    "clave": 13
+  },
+  {
+    "id": "049",
+    "nombre": "PISAFLORES",
+    "clave": 13
+  },
+  {
+    "id": "050",
+    "nombre": "PROGRESO DE OBREGÓN",
+    "clave": 13
+  },
+  {
+    "id": "051",
+    "nombre": "MINERAL DE LA REFORMA",
+    "clave": 13
+  },
+  {
+    "id": "052",
+    "nombre": "SAN AGUSTÍN TLAXIACA",
+    "clave": 13
+  },
+  {
+    "id": "053",
+    "nombre": "SAN BARTOLO TUTOTEPEC",
+    "clave": 13
+  },
+  {
+    "id": "054",
+    "nombre": "SAN SALVADOR",
+    "clave": 13
+  },
+  {
+    "id": "055",
+    "nombre": "SANTIAGO DE ANAYA",
+    "clave": 13
+  },
+  {
+    "id": "056",
+    "nombre": "SANTIAGO TULANTEPEC DE LUGO GUERRERO",
+    "clave": 13
+  },
+  {
+    "id": "057",
+    "nombre": "SINGUILUCAN",
+    "clave": 13
+  },
+  {
+    "id": "058",
+    "nombre": "TASQUILLO",
+    "clave": 13
+  },
+  {
+    "id": "059",
+    "nombre": "TECOZAUTLA",
+    "clave": 13
+  },
+  {
+    "id": "060",
+    "nombre": "TENANGO DE DORIA",
+    "clave": 13
+  },
+  {
+    "id": "061",
+    "nombre": "TEPEAPULCO",
+    "clave": 13
+  },
+  {
+    "id": "062",
+    "nombre": "TEPEHUACÁN DE GUERRERO",
+    "clave": 13
+  },
+  {
+    "id": "063",
+    "nombre": "TEPEJI DEL RÍO DE OCAMPO",
+    "clave": 13
+  },
+  {
+    "id": "064",
+    "nombre": "TEPETITLÁN",
+    "clave": 13
+  },
+  {
+    "id": "065",
+    "nombre": "TETEPANGO",
+    "clave": 13
+  },
+  {
+    "id": "066",
+    "nombre": "VILLA DE TEZONTEPEC",
+    "clave": 13
+  },
+  {
+    "id": "067",
+    "nombre": "TEZONTEPEC DE ALDAMA",
+    "clave": 13
+  },
+  {
+    "id": "068",
+    "nombre": "TIANGUISTENGO",
+    "clave": 13
+  },
+  {
+    "id": "069",
+    "nombre": "TIZAYUCA",
+    "clave": 13
+  },
+  {
+    "id": "070",
+    "nombre": "TLAHUELILPAN",
+    "clave": 13
+  },
+  {
+    "id": "071",
+    "nombre": "TLAHUILTEPA",
+    "clave": 13
+  },
+  {
+    "id": "072",
+    "nombre": "TLANALAPA",
+    "clave": 13
+  },
+  {
+    "id": "073",
+    "nombre": "TLANCHINOL",
+    "clave": 13
+  },
+  {
+    "id": "074",
+    "nombre": "TLAXCOAPAN",
+    "clave": 13
+  },
+  {
+    "id": "075",
+    "nombre": "TOLCAYUCA",
+    "clave": 13
+  },
+  {
+    "id": "076",
+    "nombre": "TULA DE ALLENDE",
+    "clave": 13
+  },
+  {
+    "id": "077",
+    "nombre": "TULANCINGO DE BRAVO",
+    "clave": 13
+  },
+  {
+    "id": "078",
+    "nombre": "XOCHIATIPAN",
+    "clave": 13
+  },
+  {
+    "id": "079",
+    "nombre": "XOCHICOATLÁN",
+    "clave": 13
+  },
+  {
+    "id": "080",
+    "nombre": "YAHUALICA",
+    "clave": 13
+  },
+  {
+    "id": "081",
+    "nombre": "ZACUALTIPÁN DE ÁNGELES",
+    "clave": 13
+  },
+  {
+    "id": "082",
+    "nombre": "ZAPOTLÁN DE JUÁREZ",
+    "clave": 13
+  },
+  {
+    "id": "083",
+    "nombre": "ZEMPOALA",
+    "clave": 13
+  },
+  {
+    "id": "084",
+    "nombre": "ZIMAPÁN",
+    "clave": 13
+  },
+  {
+    "id": 999,
+    "nombre": "NO ESPECIFICADO",
+    "clave": 13
+  },
+  {
+    "id": "001",
+    "nombre": "ACATIC",
+    "clave": 14
+  },
+  {
+    "id": "002",
+    "nombre": "ACATLÁN DE JUÁREZ",
+    "clave": 14
+  },
+  {
+    "id": "003",
+    "nombre": "AHUALULCO DE MERCADO",
+    "clave": 14
+  },
+  {
+    "id": "004",
+    "nombre": "AMACUECA",
+    "clave": 14
+  },
+  {
+    "id": "005",
+    "nombre": "AMATITÁN",
+    "clave": 14
+  },
+  {
+    "id": "006",
+    "nombre": "AMECA",
+    "clave": 14
+  },
+  {
+    "id": "007",
+    "nombre": "SAN JUANITO DE ESCOBEDO",
+    "clave": 14
+  },
+  {
+    "id": "008",
+    "nombre": "ARANDAS",
+    "clave": 14
+  },
+  {
+    "id": "009",
+    "nombre": "EL ARENAL",
+    "clave": 14
+  },
+  {
+    "id": "010",
+    "nombre": "ATEMAJAC DE BRIZUELA",
+    "clave": 14
+  },
+  {
+    "id": "011",
+    "nombre": "ATENGO",
+    "clave": 14
+  },
+  {
+    "id": "012",
+    "nombre": "ATENGUILLO",
+    "clave": 14
+  },
+  {
+    "id": "013",
+    "nombre": "ATOTONILCO EL ALTO",
+    "clave": 14
+  },
+  {
+    "id": "014",
+    "nombre": "ATOYAC",
+    "clave": 14
+  },
+  {
+    "id": "015",
+    "nombre": "AUTLÁN DE NAVARRO",
+    "clave": 14
+  },
+  {
+    "id": "016",
+    "nombre": "AYOTLÁN",
+    "clave": 14
+  },
+  {
+    "id": "017",
+    "nombre": "AYUTLA",
+    "clave": 14
+  },
+  {
+    "id": "018",
+    "nombre": "LA BARCA",
+    "clave": 14
+  },
+  {
+    "id": "019",
+    "nombre": "BOLAÑOS",
+    "clave": 14
+  },
+  {
+    "id": "020",
+    "nombre": "CABO CORRIENTES",
+    "clave": 14
+  },
+  {
+    "id": "021",
+    "nombre": "CASIMIRO CASTILLO",
+    "clave": 14
+  },
+  {
+    "id": "022",
+    "nombre": "CIHUATLÁN",
+    "clave": 14
+  },
+  {
+    "id": "023",
+    "nombre": "ZAPOTLÁN EL GRANDE",
+    "clave": 14
+  },
+  {
+    "id": "024",
+    "nombre": "COCULA",
+    "clave": 14
+  },
+  {
+    "id": "025",
+    "nombre": "COLOTLÁN",
+    "clave": 14
+  },
+  {
+    "id": "026",
+    "nombre": "CONCEPCIÓN DE BUENOS AIRES",
+    "clave": 14
+  },
+  {
+    "id": "027",
+    "nombre": "CUAUTITLÁN DE GARCÍA BARRAGÁN",
+    "clave": 14
+  },
+  {
+    "id": "028",
+    "nombre": "CUAUTLA",
+    "clave": 14
+  },
+  {
+    "id": "029",
+    "nombre": "CUQUÍO",
+    "clave": 14
+  },
+  {
+    "id": "030",
+    "nombre": "CHAPALA",
+    "clave": 14
+  },
+  {
+    "id": "031",
+    "nombre": "CHIMALTITÁN",
+    "clave": 14
+  },
+  {
+    "id": "032",
+    "nombre": "CHIQUILISTLÁN",
+    "clave": 14
+  },
+  {
+    "id": "033",
+    "nombre": "DEGOLLADO",
+    "clave": 14
+  },
+  {
+    "id": "034",
+    "nombre": "EJUTLA",
+    "clave": 14
+  },
+  {
+    "id": "035",
+    "nombre": "ENCARNACIÓN DE DÍAZ",
+    "clave": 14
+  },
+  {
+    "id": "036",
+    "nombre": "ETZATLÁN",
+    "clave": 14
+  },
+  {
+    "id": "037",
+    "nombre": "EL GRULLO",
+    "clave": 14
+  },
+  {
+    "id": "038",
+    "nombre": "GUACHINANGO",
+    "clave": 14
+  },
+  {
+    "id": "039",
+    "nombre": "GUADALAJARA",
+    "clave": 14
+  },
+  {
+    "id": "040",
+    "nombre": "HOSTOTIPAQUILLO",
+    "clave": 14
+  },
+  {
+    "id": "041",
+    "nombre": "HUEJÚCAR",
+    "clave": 14
+  },
+  {
+    "id": "042",
+    "nombre": "HUEJUQUILLA EL ALTO",
+    "clave": 14
+  },
+  {
+    "id": "043",
+    "nombre": "LA HUERTA",
+    "clave": 14
+  },
+  {
+    "id": "044",
+    "nombre": "IXTLAHUACÁN DE LOS MEMBRILLOS",
+    "clave": 14
+  },
+  {
+    "id": "045",
+    "nombre": "IXTLAHUACÁN DEL RÍO",
+    "clave": 14
+  },
+  {
+    "id": "046",
+    "nombre": "JALOSTOTITLÁN",
+    "clave": 14
+  },
+  {
+    "id": "047",
+    "nombre": "JAMAY",
+    "clave": 14
+  },
+  {
+    "id": "048",
+    "nombre": "JESÚS MARÍA",
+    "clave": 14
+  },
+  {
+    "id": "049",
+    "nombre": "JILOTLÁN DE LOS DOLORES",
+    "clave": 14
+  },
+  {
+    "id": "050",
+    "nombre": "JOCOTEPEC",
+    "clave": 14
+  },
+  {
+    "id": "051",
+    "nombre": "JUANACATLÁN",
+    "clave": 14
+  },
+  {
+    "id": "052",
+    "nombre": "JUCHITLÁN",
+    "clave": 14
+  },
+  {
+    "id": "053",
+    "nombre": "LAGOS DE MORENO",
+    "clave": 14
+  },
+  {
+    "id": "054",
+    "nombre": "EL LIMÓN",
+    "clave": 14
+  },
+  {
+    "id": "055",
+    "nombre": "MAGDALENA",
+    "clave": 14
+  },
+  {
+    "id": "056",
+    "nombre": "SANTA MARÍA DEL ORO",
+    "clave": 14
+  },
+  {
+    "id": "057",
+    "nombre": "LA MANZANILLA DE LA PAZ",
+    "clave": 14
+  },
+  {
+    "id": "058",
+    "nombre": "MASCOTA",
+    "clave": 14
+  },
+  {
+    "id": "059",
+    "nombre": "MAZAMITLA",
+    "clave": 14
+  },
+  {
+    "id": "060",
+    "nombre": "MEXTICACÁN",
+    "clave": 14
+  },
+  {
+    "id": "061",
+    "nombre": "MEZQUITIC",
+    "clave": 14
+  },
+  {
+    "id": "062",
+    "nombre": "MIXTLÁN",
+    "clave": 14
+  },
+  {
+    "id": "063",
+    "nombre": "OCOTLÁN",
+    "clave": 14
+  },
+  {
+    "id": "064",
+    "nombre": "OJUELOS DE JALISCO",
+    "clave": 14
+  },
+  {
+    "id": "065",
+    "nombre": "PIHUAMO",
+    "clave": 14
+  },
+  {
+    "id": "066",
+    "nombre": "PONCITLÁN",
+    "clave": 14
+  },
+  {
+    "id": "067",
+    "nombre": "PUERTO VALLARTA",
+    "clave": 14
+  },
+  {
+    "id": "068",
+    "nombre": "VILLA PURIFICACIÓN",
+    "clave": 14
+  },
+  {
+    "id": "069",
+    "nombre": "QUITUPAN",
+    "clave": 14
+  },
+  {
+    "id": "070",
+    "nombre": "EL SALTO",
+    "clave": 14
+  },
+  {
+    "id": "071",
+    "nombre": "SAN CRISTÓBAL DE LA BARRANCA",
+    "clave": 14
+  },
+  {
+    "id": "072",
+    "nombre": "SAN DIEGO DE ALEJANDRÍA",
+    "clave": 14
+  },
+  {
+    "id": "073",
+    "nombre": "SAN JUAN DE LOS LAGOS",
+    "clave": 14
+  },
+  {
+    "id": "074",
+    "nombre": "SAN JULIÁN",
+    "clave": 14
+  },
+  {
+    "id": "075",
+    "nombre": "SAN MARCOS",
+    "clave": 14
+  },
+  {
+    "id": "076",
+    "nombre": "SAN MARTÍN DE BOLAÑOS",
+    "clave": 14
+  },
+  {
+    "id": "077",
+    "nombre": "SAN MARTÍN HIDALGO",
+    "clave": 14
+  },
+  {
+    "id": "078",
+    "nombre": "SAN MIGUEL EL ALTO",
+    "clave": 14
+  },
+  {
+    "id": "079",
+    "nombre": "GÓMEZ FARÍAS",
+    "clave": 14
+  },
+  {
+    "id": "080",
+    "nombre": "SAN SEBASTIÁN DEL OESTE",
+    "clave": 14
+  },
+  {
+    "id": "081",
+    "nombre": "SANTA MARÍA DE LOS ÁNGELES",
+    "clave": 14
+  },
+  {
+    "id": "082",
+    "nombre": "SAYULA",
+    "clave": 14
+  },
+  {
+    "id": "083",
+    "nombre": "TALA",
+    "clave": 14
+  },
+  {
+    "id": "084",
+    "nombre": "TALPA DE ALLENDE",
+    "clave": 14
+  },
+  {
+    "id": "085",
+    "nombre": "TAMAZULA DE GORDIANO",
+    "clave": 14
+  },
+  {
+    "id": "086",
+    "nombre": "TAPALPA",
+    "clave": 14
+  },
+  {
+    "id": "087",
+    "nombre": "TECALITLÁN",
+    "clave": 14
+  },
+  {
+    "id": "088",
+    "nombre": "TECOLOTLÁN",
+    "clave": 14
+  },
+  {
+    "id": "089",
+    "nombre": "TECHALUTA DE MONTENEGRO",
+    "clave": 14
+  },
+  {
+    "id": "090",
+    "nombre": "TENAMAXTLÁN",
+    "clave": 14
+  },
+  {
+    "id": "091",
+    "nombre": "TEOCALTICHE",
+    "clave": 14
+  },
+  {
+    "id": "092",
+    "nombre": "TEOCUITATLÁN DE CORONA",
+    "clave": 14
+  },
+  {
+    "id": "093",
+    "nombre": "TEPATITLÁN DE MORELOS",
+    "clave": 14
+  },
+  {
+    "id": "094",
+    "nombre": "TEQUILA",
+    "clave": 14
+  },
+  {
+    "id": "095",
+    "nombre": "TEUCHITLÁN",
+    "clave": 14
+  },
+  {
+    "id": "096",
+    "nombre": "TIZAPÁN EL ALTO",
+    "clave": 14
+  },
+  {
+    "id": "097",
+    "nombre": "TLAJOMULCO DE ZÚÑIGA",
+    "clave": 14
+  },
+  {
+    "id": "098",
+    "nombre": "SAN PEDRO TLAQUEPAQUE",
+    "clave": 14
+  },
+  {
+    "id": "099",
+    "nombre": "TOLIMÁN",
+    "clave": 14
+  },
+  {
+    "id": 100,
+    "nombre": "TOMATLÁN",
+    "clave": 14
+  },
+  {
+    "id": 101,
+    "nombre": "TONALÁ",
+    "clave": 14
+  },
+  {
+    "id": 102,
+    "nombre": "TONAYA",
+    "clave": 14
+  },
+  {
+    "id": 103,
+    "nombre": "TONILA",
+    "clave": 14
+  },
+  {
+    "id": 104,
+    "nombre": "TOTATICHE",
+    "clave": 14
+  },
+  {
+    "id": 105,
+    "nombre": "TOTOTLÁN",
+    "clave": 14
+  },
+  {
+    "id": 106,
+    "nombre": "TUXCACUESCO",
+    "clave": 14
+  },
+  {
+    "id": 107,
+    "nombre": "TUXCUECA",
+    "clave": 14
+  },
+  {
+    "id": 108,
+    "nombre": "TUXPAN",
+    "clave": 14
+  },
+  {
+    "id": 109,
+    "nombre": "UNIÓN DE SAN ANTONIO",
+    "clave": 14
+  },
+  {
+    "id": 110,
+    "nombre": "UNIÓN DE TULA",
+    "clave": 14
+  },
+  {
+    "id": 111,
+    "nombre": "VALLE DE GUADALUPE",
+    "clave": 14
+  },
+  {
+    "id": 112,
+    "nombre": "VALLE DE JUÁREZ",
+    "clave": 14
+  },
+  {
+    "id": 113,
+    "nombre": "SAN GABRIEL",
+    "clave": 14
+  },
+  {
+    "id": 114,
+    "nombre": "VILLA CORONA",
+    "clave": 14
+  },
+  {
+    "id": 115,
+    "nombre": "VILLA GUERRERO",
+    "clave": 14
+  },
+  {
+    "id": 116,
+    "nombre": "VILLA HIDALGO",
+    "clave": 14
+  },
+  {
+    "id": 117,
+    "nombre": "CAÑADAS DE OBREGÓN",
+    "clave": 14
+  },
+  {
+    "id": 118,
+    "nombre": "YAHUALICA DE GONZÁLEZ GALLO",
+    "clave": 14
+  },
+  {
+    "id": 119,
+    "nombre": "ZACOALCO DE TORRES",
+    "clave": 14
+  },
+  {
+    "id": 120,
+    "nombre": "ZAPOPAN",
+    "clave": 14
+  },
+  {
+    "id": 121,
+    "nombre": "ZAPOTILTIC",
+    "clave": 14
+  },
+  {
+    "id": 122,
+    "nombre": "ZAPOTITLÁN DE VADILLO",
+    "clave": 14
+  },
+  {
+    "id": 123,
+    "nombre": "ZAPOTLÁN DEL REY",
+    "clave": 14
+  },
+  {
+    "id": 124,
+    "nombre": "ZAPOTLANEJO",
+    "clave": 14
+  },
+  {
+    "id": 125,
+    "nombre": "SAN IGNACIO CERRO GORDO",
+    "clave": 14
+  },
+  {
+    "id": 999,
+    "nombre": "NO ESPECIFICADO",
+    "clave": 14
+  },
+  {
+    "id": "001",
+    "nombre": "ACAMBAY DE RUÍZ CASTAÑEDA",
+    "clave": 15
+  },
+  {
+    "id": "002",
+    "nombre": "ACOLMAN",
+    "clave": 15
+  },
+  {
+    "id": "003",
+    "nombre": "ACULCO",
+    "clave": 15
+  },
+  {
+    "id": "004",
+    "nombre": "ALMOLOYA DE ALQUISIRAS",
+    "clave": 15
+  },
+  {
+    "id": "005",
+    "nombre": "ALMOLOYA DE JUÁREZ",
+    "clave": 15
+  },
+  {
+    "id": "006",
+    "nombre": "ALMOLOYA DEL RÍO",
+    "clave": 15
+  },
+  {
+    "id": "007",
+    "nombre": "AMANALCO",
+    "clave": 15
+  },
+  {
+    "id": "008",
+    "nombre": "AMATEPEC",
+    "clave": 15
+  },
+  {
+    "id": "009",
+    "nombre": "AMECAMECA",
+    "clave": 15
+  },
+  {
+    "id": "010",
+    "nombre": "APAXCO",
+    "clave": 15
+  },
+  {
+    "id": "011",
+    "nombre": "ATENCO",
+    "clave": 15
+  },
+  {
+    "id": "012",
+    "nombre": "ATIZAPÁN",
+    "clave": 15
+  },
+  {
+    "id": "013",
+    "nombre": "ATIZAPÁN DE ZARAGOZA",
+    "clave": 15
+  },
+  {
+    "id": "014",
+    "nombre": "ATLACOMULCO",
+    "clave": 15
+  },
+  {
+    "id": "015",
+    "nombre": "ATLAUTLA",
+    "clave": 15
+  },
+  {
+    "id": "016",
+    "nombre": "AXAPUSCO",
+    "clave": 15
+  },
+  {
+    "id": "017",
+    "nombre": "AYAPANGO",
+    "clave": 15
+  },
+  {
+    "id": "018",
+    "nombre": "CALIMAYA",
+    "clave": 15
+  },
+  {
+    "id": "019",
+    "nombre": "CAPULHUAC",
+    "clave": 15
+  },
+  {
+    "id": "020",
+    "nombre": "COACALCO DE BERRIOZÁBAL",
+    "clave": 15
+  },
+  {
+    "id": "021",
+    "nombre": "COATEPEC HARINAS",
+    "clave": 15
+  },
+  {
+    "id": "022",
+    "nombre": "COCOTITLÁN",
+    "clave": 15
+  },
+  {
+    "id": "023",
+    "nombre": "COYOTEPEC",
+    "clave": 15
+  },
+  {
+    "id": "024",
+    "nombre": "CUAUTITLÁN",
+    "clave": 15
+  },
+  {
+    "id": "025",
+    "nombre": "CHALCO",
+    "clave": 15
+  },
+  {
+    "id": "026",
+    "nombre": "CHAPA DE MOTA",
+    "clave": 15
+  },
+  {
+    "id": "027",
+    "nombre": "CHAPULTEPEC",
+    "clave": 15
+  },
+  {
+    "id": "028",
+    "nombre": "CHIAUTLA",
+    "clave": 15
+  },
+  {
+    "id": "029",
+    "nombre": "CHICOLOAPAN",
+    "clave": 15
+  },
+  {
+    "id": "030",
+    "nombre": "CHICONCUAC",
+    "clave": 15
+  },
+  {
+    "id": "031",
+    "nombre": "CHIMALHUACÁN",
+    "clave": 15
+  },
+  {
+    "id": "032",
+    "nombre": "DONATO GUERRA",
+    "clave": 15
+  },
+  {
+    "id": "033",
+    "nombre": "ECATEPEC DE MORELOS",
+    "clave": 15
+  },
+  {
+    "id": "034",
+    "nombre": "ECATZINGO",
+    "clave": 15
+  },
+  {
+    "id": "035",
+    "nombre": "HUEHUETOCA",
+    "clave": 15
+  },
+  {
+    "id": "036",
+    "nombre": "HUEYPOXTLA",
+    "clave": 15
+  },
+  {
+    "id": "037",
+    "nombre": "HUIXQUILUCAN",
+    "clave": 15
+  },
+  {
+    "id": "038",
+    "nombre": "ISIDRO FABELA",
+    "clave": 15
+  },
+  {
+    "id": "039",
+    "nombre": "IXTAPALUCA",
+    "clave": 15
+  },
+  {
+    "id": "040",
+    "nombre": "IXTAPAN DE LA SAL",
+    "clave": 15
+  },
+  {
+    "id": "041",
+    "nombre": "IXTAPAN DEL ORO",
+    "clave": 15
+  },
+  {
+    "id": "042",
+    "nombre": "IXTLAHUACA",
+    "clave": 15
+  },
+  {
+    "id": "043",
+    "nombre": "XALATLACO",
+    "clave": 15
+  },
+  {
+    "id": "044",
+    "nombre": "JALTENCO",
+    "clave": 15
+  },
+  {
+    "id": "045",
+    "nombre": "JILOTEPEC",
+    "clave": 15
+  },
+  {
+    "id": "046",
+    "nombre": "JILOTZINGO",
+    "clave": 15
+  },
+  {
+    "id": "047",
+    "nombre": "JIQUIPILCO",
+    "clave": 15
+  },
+  {
+    "id": "048",
+    "nombre": "JOCOTITLÁN",
+    "clave": 15
+  },
+  {
+    "id": "049",
+    "nombre": "JOQUICINGO",
+    "clave": 15
+  },
+  {
+    "id": "050",
+    "nombre": "JUCHITEPEC",
+    "clave": 15
+  },
+  {
+    "id": "051",
+    "nombre": "LERMA",
+    "clave": 15
+  },
+  {
+    "id": "052",
+    "nombre": "MALINALCO",
+    "clave": 15
+  },
+  {
+    "id": "053",
+    "nombre": "MELCHOR OCAMPO",
+    "clave": 15
+  },
+  {
+    "id": "054",
+    "nombre": "METEPEC",
+    "clave": 15
+  },
+  {
+    "id": "055",
+    "nombre": "MEXICALTZINGO",
+    "clave": 15
+  },
+  {
+    "id": "056",
+    "nombre": "MORELOS",
+    "clave": 15
+  },
+  {
+    "id": "057",
+    "nombre": "NAUCALPAN DE JUÁREZ",
+    "clave": 15
+  },
+  {
+    "id": "058",
+    "nombre": "NEZAHUALCÓYOTL",
+    "clave": 15
+  },
+  {
+    "id": "059",
+    "nombre": "NEXTLALPAN",
+    "clave": 15
+  },
+  {
+    "id": "060",
+    "nombre": "NICOLÁS ROMERO",
+    "clave": 15
+  },
+  {
+    "id": "061",
+    "nombre": "NOPALTEPEC",
+    "clave": 15
+  },
+  {
+    "id": "062",
+    "nombre": "OCOYOACAC",
+    "clave": 15
+  },
+  {
+    "id": "063",
+    "nombre": "OCUILAN",
+    "clave": 15
+  },
+  {
+    "id": "064",
+    "nombre": "EL ORO",
+    "clave": 15
+  },
+  {
+    "id": "065",
+    "nombre": "OTUMBA",
+    "clave": 15
+  },
+  {
+    "id": "066",
+    "nombre": "OTZOLOAPAN",
+    "clave": 15
+  },
+  {
+    "id": "067",
+    "nombre": "OTZOLOTEPEC",
+    "clave": 15
+  },
+  {
+    "id": "068",
+    "nombre": "OZUMBA",
+    "clave": 15
+  },
+  {
+    "id": "069",
+    "nombre": "PAPALOTLA",
+    "clave": 15
+  },
+  {
+    "id": "070",
+    "nombre": "LA PAZ",
+    "clave": 15
+  },
+  {
+    "id": "071",
+    "nombre": "POLOTITLÁN",
+    "clave": 15
+  },
+  {
+    "id": "072",
+    "nombre": "RAYÓN",
+    "clave": 15
+  },
+  {
+    "id": "073",
+    "nombre": "SAN ANTONIO LA ISLA",
+    "clave": 15
+  },
+  {
+    "id": "074",
+    "nombre": "SAN FELIPE DEL PROGRESO",
+    "clave": 15
+  },
+  {
+    "id": "075",
+    "nombre": "SAN MARTÍN DE LAS PIRÁMIDES",
+    "clave": 15
+  },
+  {
+    "id": "076",
+    "nombre": "SAN MATEO ATENCO",
+    "clave": 15
+  },
+  {
+    "id": "077",
+    "nombre": "SAN SIMÓN DE GUERRERO",
+    "clave": 15
+  },
+  {
+    "id": "078",
+    "nombre": "SANTO TOMÁS",
+    "clave": 15
+  },
+  {
+    "id": "079",
+    "nombre": "SOYANIQUILPAN DE JUÁREZ",
+    "clave": 15
+  },
+  {
+    "id": "080",
+    "nombre": "SULTEPEC",
+    "clave": 15
+  },
+  {
+    "id": "081",
+    "nombre": "TECÁMAC",
+    "clave": 15
+  },
+  {
+    "id": "082",
+    "nombre": "TEJUPILCO",
+    "clave": 15
+  },
+  {
+    "id": "083",
+    "nombre": "TEMAMATLA",
+    "clave": 15
+  },
+  {
+    "id": "084",
+    "nombre": "TEMASCALAPA",
+    "clave": 15
+  },
+  {
+    "id": "085",
+    "nombre": "TEMASCALCINGO",
+    "clave": 15
+  },
+  {
+    "id": "086",
+    "nombre": "TEMASCALTEPEC",
+    "clave": 15
+  },
+  {
+    "id": "087",
+    "nombre": "TEMOAYA",
+    "clave": 15
+  },
+  {
+    "id": "088",
+    "nombre": "TENANCINGO",
+    "clave": 15
+  },
+  {
+    "id": "089",
+    "nombre": "TENANGO DEL AIRE",
+    "clave": 15
+  },
+  {
+    "id": "090",
+    "nombre": "TENANGO DEL VALLE",
+    "clave": 15
+  },
+  {
+    "id": "091",
+    "nombre": "TEOLOYUCAN",
+    "clave": 15
+  },
+  {
+    "id": "092",
+    "nombre": "TEOTIHUACÁN",
+    "clave": 15
+  },
+  {
+    "id": "093",
+    "nombre": "TEPETLAOXTOC",
+    "clave": 15
+  },
+  {
+    "id": "094",
+    "nombre": "TEPETLIXPA",
+    "clave": 15
+  },
+  {
+    "id": "095",
+    "nombre": "TEPOTZOTLÁN",
+    "clave": 15
+  },
+  {
+    "id": "096",
+    "nombre": "TEQUIXQUIAC",
+    "clave": 15
+  },
+  {
+    "id": "097",
+    "nombre": "TEXCALTITLÁN",
+    "clave": 15
+  },
+  {
+    "id": "098",
+    "nombre": "TEXCALYACAC",
+    "clave": 15
+  },
+  {
+    "id": "099",
+    "nombre": "TEXCOCO",
+    "clave": 15
+  },
+  {
+    "id": 100,
+    "nombre": "TEZOYUCA",
+    "clave": 15
+  },
+  {
+    "id": 101,
+    "nombre": "TIANGUISTENCO",
+    "clave": 15
+  },
+  {
+    "id": 102,
+    "nombre": "TIMILPAN",
+    "clave": 15
+  },
+  {
+    "id": 103,
+    "nombre": "TLALMANALCO",
+    "clave": 15
+  },
+  {
+    "id": 104,
+    "nombre": "TLALNEPANTLA DE BAZ",
+    "clave": 15
+  },
+  {
+    "id": 105,
+    "nombre": "TLATLAYA",
+    "clave": 15
+  },
+  {
+    "id": 106,
+    "nombre": "TOLUCA",
+    "clave": 15
+  },
+  {
+    "id": 107,
+    "nombre": "TONATICO",
+    "clave": 15
+  },
+  {
+    "id": 108,
+    "nombre": "TULTEPEC",
+    "clave": 15
+  },
+  {
+    "id": 109,
+    "nombre": "TULTITLÁN",
+    "clave": 15
+  },
+  {
+    "id": 110,
+    "nombre": "VALLE DE BRAVO",
+    "clave": 15
+  },
+  {
+    "id": 111,
+    "nombre": "VILLA DE ALLENDE",
+    "clave": 15
+  },
+  {
+    "id": 112,
+    "nombre": "VILLA DEL CARBÓN",
+    "clave": 15
+  },
+  {
+    "id": 113,
+    "nombre": "VILLA GUERRERO",
+    "clave": 15
+  },
+  {
+    "id": 114,
+    "nombre": "VILLA VICTORIA",
+    "clave": 15
+  },
+  {
+    "id": 115,
+    "nombre": "XONACATLÁN",
+    "clave": 15
+  },
+  {
+    "id": 116,
+    "nombre": "ZACAZONAPAN",
+    "clave": 15
+  },
+  {
+    "id": 117,
+    "nombre": "ZACUALPAN",
+    "clave": 15
+  },
+  {
+    "id": 118,
+    "nombre": "ZINACANTEPEC",
+    "clave": 15
+  },
+  {
+    "id": 119,
+    "nombre": "ZUMPAHUACÁN",
+    "clave": 15
+  },
+  {
+    "id": 120,
+    "nombre": "ZUMPANGO",
+    "clave": 15
+  },
+  {
+    "id": 121,
+    "nombre": "CUAUTITLÁN IZCALLI",
+    "clave": 15
+  },
+  {
+    "id": 122,
+    "nombre": "VALLE DE CHALCO SOLIDARIDAD",
+    "clave": 15
+  },
+  {
+    "id": 123,
+    "nombre": "LUVIANOS",
+    "clave": 15
+  },
+  {
+    "id": 124,
+    "nombre": "SAN JOSÉ DEL RINCÓN",
+    "clave": 15
+  },
+  {
+    "id": 125,
+    "nombre": "TONANITLA",
+    "clave": 15
+  },
+  {
+    "id": 999,
+    "nombre": "NO ESPECIFICADO",
+    "clave": 15
+  },
+  {
+    "id": "001",
+    "nombre": "ACUITZIO",
+    "clave": 16
+  },
+  {
+    "id": "002",
+    "nombre": "AGUILILLA",
+    "clave": 16
+  },
+  {
+    "id": "003",
+    "nombre": "ÁLVARO OBREGÓN",
+    "clave": 16
+  },
+  {
+    "id": "004",
+    "nombre": "ANGAMACUTIRO",
+    "clave": 16
+  },
+  {
+    "id": "005",
+    "nombre": "ANGANGUEO",
+    "clave": 16
+  },
+  {
+    "id": "006",
+    "nombre": "APATZINGÁN",
+    "clave": 16
+  },
+  {
+    "id": "007",
+    "nombre": "APORO",
+    "clave": 16
+  },
+  {
+    "id": "008",
+    "nombre": "AQUILA",
+    "clave": 16
+  },
+  {
+    "id": "009",
+    "nombre": "ARIO",
+    "clave": 16
+  },
+  {
+    "id": "010",
+    "nombre": "ARTEAGA",
+    "clave": 16
+  },
+  {
+    "id": "011",
+    "nombre": "BRISEÑAS",
+    "clave": 16
+  },
+  {
+    "id": "012",
+    "nombre": "BUENAVISTA",
+    "clave": 16
+  },
+  {
+    "id": "013",
+    "nombre": "CARÁCUARO",
+    "clave": 16
+  },
+  {
+    "id": "014",
+    "nombre": "COAHUAYANA",
+    "clave": 16
+  },
+  {
+    "id": "015",
+    "nombre": "COALCOMÁN DE VÁZQUEZ PALLARES",
+    "clave": 16
+  },
+  {
+    "id": "016",
+    "nombre": "COENEO",
+    "clave": 16
+  },
+  {
+    "id": "017",
+    "nombre": "CONTEPEC",
+    "clave": 16
+  },
+  {
+    "id": "018",
+    "nombre": "COPÁNDARO",
+    "clave": 16
+  },
+  {
+    "id": "019",
+    "nombre": "COTIJA",
+    "clave": 16
+  },
+  {
+    "id": "020",
+    "nombre": "CUITZEO",
+    "clave": 16
+  },
+  {
+    "id": "021",
+    "nombre": "CHARAPAN",
+    "clave": 16
+  },
+  {
+    "id": "022",
+    "nombre": "CHARO",
+    "clave": 16
+  },
+  {
+    "id": "023",
+    "nombre": "CHAVINDA",
+    "clave": 16
+  },
+  {
+    "id": "024",
+    "nombre": "CHERÁN",
+    "clave": 16
+  },
+  {
+    "id": "025",
+    "nombre": "CHILCHOTA",
+    "clave": 16
+  },
+  {
+    "id": "026",
+    "nombre": "CHINICUILA",
+    "clave": 16
+  },
+  {
+    "id": "027",
+    "nombre": "CHUCÁNDIRO",
+    "clave": 16
+  },
+  {
+    "id": "028",
+    "nombre": "CHURINTZIO",
+    "clave": 16
+  },
+  {
+    "id": "029",
+    "nombre": "CHURUMUCO",
+    "clave": 16
+  },
+  {
+    "id": "030",
+    "nombre": "ECUANDUREO",
+    "clave": 16
+  },
+  {
+    "id": "031",
+    "nombre": "EPITACIO HUERTA",
+    "clave": 16
+  },
+  {
+    "id": "032",
+    "nombre": "ERONGARÍCUARO",
+    "clave": 16
+  },
+  {
+    "id": "033",
+    "nombre": "GABRIEL ZAMORA",
+    "clave": 16
+  },
+  {
+    "id": "034",
+    "nombre": "HIDALGO",
+    "clave": 16
+  },
+  {
+    "id": "035",
+    "nombre": "LA HUACANA",
+    "clave": 16
+  },
+  {
+    "id": "036",
+    "nombre": "HUANDACAREO",
+    "clave": 16
+  },
+  {
+    "id": "037",
+    "nombre": "HUANIQUEO",
+    "clave": 16
+  },
+  {
+    "id": "038",
+    "nombre": "HUETAMO",
+    "clave": 16
+  },
+  {
+    "id": "039",
+    "nombre": "HUIRAMBA",
+    "clave": 16
+  },
+  {
+    "id": "040",
+    "nombre": "INDAPARAPEO",
+    "clave": 16
+  },
+  {
+    "id": "041",
+    "nombre": "IRIMBO",
+    "clave": 16
+  },
+  {
+    "id": "042",
+    "nombre": "IXTLÁN",
+    "clave": 16
+  },
+  {
+    "id": "043",
+    "nombre": "JACONA",
+    "clave": 16
+  },
+  {
+    "id": "044",
+    "nombre": "JIMÉNEZ",
+    "clave": 16
+  },
+  {
+    "id": "045",
+    "nombre": "JIQUILPAN",
+    "clave": 16
+  },
+  {
+    "id": "046",
+    "nombre": "JUÁREZ",
+    "clave": 16
+  },
+  {
+    "id": "047",
+    "nombre": "JUNGAPEO",
+    "clave": 16
+  },
+  {
+    "id": "048",
+    "nombre": "LAGUNILLAS",
+    "clave": 16
+  },
+  {
+    "id": "049",
+    "nombre": "MADERO",
+    "clave": 16
+  },
+  {
+    "id": "050",
+    "nombre": "MARAVATÍO",
+    "clave": 16
+  },
+  {
+    "id": "051",
+    "nombre": "MARCOS CASTELLANOS",
+    "clave": 16
+  },
+  {
+    "id": "052",
+    "nombre": "LÁZARO CÁRDENAS",
+    "clave": 16
+  },
+  {
+    "id": "053",
+    "nombre": "MORELIA",
+    "clave": 16
+  },
+  {
+    "id": "054",
+    "nombre": "MORELOS",
+    "clave": 16
+  },
+  {
+    "id": "055",
+    "nombre": "MÚGICA",
+    "clave": 16
+  },
+  {
+    "id": "056",
+    "nombre": "NAHUATZEN",
+    "clave": 16
+  },
+  {
+    "id": "057",
+    "nombre": "NOCUPÉTARO",
+    "clave": 16
+  },
+  {
+    "id": "058",
+    "nombre": "NUEVO PARANGARICUTIRO",
+    "clave": 16
+  },
+  {
+    "id": "059",
+    "nombre": "NUEVO URECHO",
+    "clave": 16
+  },
+  {
+    "id": "060",
+    "nombre": "NUMARÁN",
+    "clave": 16
+  },
+  {
+    "id": "061",
+    "nombre": "OCAMPO",
+    "clave": 16
+  },
+  {
+    "id": "062",
+    "nombre": "PAJACUARÁN",
+    "clave": 16
+  },
+  {
+    "id": "063",
+    "nombre": "PANINDÍCUARO",
+    "clave": 16
+  },
+  {
+    "id": "064",
+    "nombre": "PARÁCUARO",
+    "clave": 16
+  },
+  {
+    "id": "065",
+    "nombre": "PARACHO",
+    "clave": 16
+  },
+  {
+    "id": "066",
+    "nombre": "PÁTZCUARO",
+    "clave": 16
+  },
+  {
+    "id": "067",
+    "nombre": "PENJAMILLO",
+    "clave": 16
+  },
+  {
+    "id": "068",
+    "nombre": "PERIBÁN",
+    "clave": 16
+  },
+  {
+    "id": "069",
+    "nombre": "LA PIEDAD",
+    "clave": 16
+  },
+  {
+    "id": "070",
+    "nombre": "PURÉPERO",
+    "clave": 16
+  },
+  {
+    "id": "071",
+    "nombre": "PURUÁNDIRO",
+    "clave": 16
+  },
+  {
+    "id": "072",
+    "nombre": "QUERÉNDARO",
+    "clave": 16
+  },
+  {
+    "id": "073",
+    "nombre": "QUIROGA",
+    "clave": 16
+  },
+  {
+    "id": "074",
+    "nombre": "COJUMATLÁN DE RÉGULES",
+    "clave": 16
+  },
+  {
+    "id": "075",
+    "nombre": "LOS REYES",
+    "clave": 16
+  },
+  {
+    "id": "076",
+    "nombre": "SAHUAYO",
+    "clave": 16
+  },
+  {
+    "id": "077",
+    "nombre": "SAN LUCAS",
+    "clave": 16
+  },
+  {
+    "id": "078",
+    "nombre": "SANTA ANA MAYA",
+    "clave": 16
+  },
+  {
+    "id": "079",
+    "nombre": "SALVADOR ESCALANTE",
+    "clave": 16
+  },
+  {
+    "id": "080",
+    "nombre": "SENGUIO",
+    "clave": 16
+  },
+  {
+    "id": "081",
+    "nombre": "SUSUPUATO",
+    "clave": 16
+  },
+  {
+    "id": "082",
+    "nombre": "TACÁMBARO",
+    "clave": 16
+  },
+  {
+    "id": "083",
+    "nombre": "TANCÍTARO",
+    "clave": 16
+  },
+  {
+    "id": "084",
+    "nombre": "TANGAMANDAPIO",
+    "clave": 16
+  },
+  {
+    "id": "085",
+    "nombre": "TANGANCÍCUARO",
+    "clave": 16
+  },
+  {
+    "id": "086",
+    "nombre": "TANHUATO",
+    "clave": 16
+  },
+  {
+    "id": "087",
+    "nombre": "TARETAN",
+    "clave": 16
+  },
+  {
+    "id": "088",
+    "nombre": "TARÍMBARO",
+    "clave": 16
+  },
+  {
+    "id": "089",
+    "nombre": "TEPALCATEPEC",
+    "clave": 16
+  },
+  {
+    "id": "090",
+    "nombre": "TINGAMBATO",
+    "clave": 16
+  },
+  {
+    "id": "091",
+    "nombre": "TINGÜINDÍN",
+    "clave": 16
+  },
+  {
+    "id": "092",
+    "nombre": "TIQUICHEO DE NICOLÁS ROMERO",
+    "clave": 16
+  },
+  {
+    "id": "093",
+    "nombre": "TLALPUJAHUA",
+    "clave": 16
+  },
+  {
+    "id": "094",
+    "nombre": "TLAZAZALCA",
+    "clave": 16
+  },
+  {
+    "id": "095",
+    "nombre": "TOCUMBO",
+    "clave": 16
+  },
+  {
+    "id": "096",
+    "nombre": "TUMBISCATÍO",
+    "clave": 16
+  },
+  {
+    "id": "097",
+    "nombre": "TURICATO",
+    "clave": 16
+  },
+  {
+    "id": "098",
+    "nombre": "TUXPAN",
+    "clave": 16
+  },
+  {
+    "id": "099",
+    "nombre": "TUZANTLA",
+    "clave": 16
+  },
+  {
+    "id": 100,
+    "nombre": "TZINTZUNTZAN",
+    "clave": 16
+  },
+  {
+    "id": 101,
+    "nombre": "TZITZIO",
+    "clave": 16
+  },
+  {
+    "id": 102,
+    "nombre": "URUAPAN",
+    "clave": 16
+  },
+  {
+    "id": 103,
+    "nombre": "VENUSTIANO CARRANZA",
+    "clave": 16
+  },
+  {
+    "id": 104,
+    "nombre": "VILLAMAR",
+    "clave": 16
+  },
+  {
+    "id": 105,
+    "nombre": "VISTA HERMOSA",
+    "clave": 16
+  },
+  {
+    "id": 106,
+    "nombre": "YURÉCUARO",
+    "clave": 16
+  },
+  {
+    "id": 107,
+    "nombre": "ZACAPU",
+    "clave": 16
+  },
+  {
+    "id": 108,
+    "nombre": "ZAMORA",
+    "clave": 16
+  },
+  {
+    "id": 109,
+    "nombre": "ZINÁPARO",
+    "clave": 16
+  },
+  {
+    "id": 110,
+    "nombre": "ZINAPÉCUARO",
+    "clave": 16
+  },
+  {
+    "id": 111,
+    "nombre": "ZIRACUARETIRO",
+    "clave": 16
+  },
+  {
+    "id": 112,
+    "nombre": "ZITÁCUARO",
+    "clave": 16
+  },
+  {
+    "id": 113,
+    "nombre": "JOSÉ SIXTO VERDUZCO",
+    "clave": 16
+  },
+  {
+    "id": 999,
+    "nombre": "NO ESPECIFICADO",
+    "clave": 16
+  },
+  {
+    "id": "001",
+    "nombre": "AMACUZAC",
+    "clave": 17
+  },
+  {
+    "id": "002",
+    "nombre": "ATLATLAHUCAN",
+    "clave": 17
+  },
+  {
+    "id": "003",
+    "nombre": "AXOCHIAPAN",
+    "clave": 17
+  },
+  {
+    "id": "004",
+    "nombre": "AYALA",
+    "clave": 17
+  },
+  {
+    "id": "005",
+    "nombre": "COATLÁN DEL RÍO",
+    "clave": 17
+  },
+  {
+    "id": "006",
+    "nombre": "CUAUTLA",
+    "clave": 17
+  },
+  {
+    "id": "007",
+    "nombre": "CUERNAVACA",
+    "clave": 17
+  },
+  {
+    "id": "008",
+    "nombre": "EMILIANO ZAPATA",
+    "clave": 17
+  },
+  {
+    "id": "009",
+    "nombre": "HUITZILAC",
+    "clave": 17
+  },
+  {
+    "id": "010",
+    "nombre": "JANTETELCO",
+    "clave": 17
+  },
+  {
+    "id": "011",
+    "nombre": "JIUTEPEC",
+    "clave": 17
+  },
+  {
+    "id": "012",
+    "nombre": "JOJUTLA",
+    "clave": 17
+  },
+  {
+    "id": "013",
+    "nombre": "JONACATEPEC DE LEANDRO VALLE",
+    "clave": 17
+  },
+  {
+    "id": "014",
+    "nombre": "MAZATEPEC",
+    "clave": 17
+  },
+  {
+    "id": "015",
+    "nombre": "MIACATLÁN",
+    "clave": 17
+  },
+  {
+    "id": "016",
+    "nombre": "OCUITUCO",
+    "clave": 17
+  },
+  {
+    "id": "017",
+    "nombre": "PUENTE DE IXTLA",
+    "clave": 17
+  },
+  {
+    "id": "018",
+    "nombre": "TEMIXCO",
+    "clave": 17
+  },
+  {
+    "id": "019",
+    "nombre": "TEPALCINGO",
+    "clave": 17
+  },
+  {
+    "id": "020",
+    "nombre": "TEPOZTLÁN",
+    "clave": 17
+  },
+  {
+    "id": "021",
+    "nombre": "TETECALA",
+    "clave": 17
+  },
+  {
+    "id": "022",
+    "nombre": "TETELA DEL VOLCÁN",
+    "clave": 17
+  },
+  {
+    "id": "023",
+    "nombre": "TLALNEPANTLA",
+    "clave": 17
+  },
+  {
+    "id": "024",
+    "nombre": "TLALTIZAPÁN DE ZAPATA",
+    "clave": 17
+  },
+  {
+    "id": "025",
+    "nombre": "TLAQUILTENANGO",
+    "clave": 17
+  },
+  {
+    "id": "026",
+    "nombre": "TLAYACAPAN",
+    "clave": 17
+  },
+  {
+    "id": "027",
+    "nombre": "TOTOLAPAN",
+    "clave": 17
+  },
+  {
+    "id": "028",
+    "nombre": "XOCHITEPEC",
+    "clave": 17
+  },
+  {
+    "id": "029",
+    "nombre": "YAUTEPEC",
+    "clave": 17
+  },
+  {
+    "id": "030",
+    "nombre": "YECAPIXTLA",
+    "clave": 17
+  },
+  {
+    "id": "031",
+    "nombre": "ZACATEPEC",
+    "clave": 17
+  },
+  {
+    "id": "032",
+    "nombre": "ZACUALPAN DE AMILPAS",
+    "clave": 17
+  },
+  {
+    "id": "033",
+    "nombre": "TEMOAC",
+    "clave": 17
+  },
+  {
+    "id": "034",
+    "nombre": "COATETELCO",
+    "clave": 17
+  },
+  {
+    "id": "035",
+    "nombre": "XOXOCOTLA",
+    "clave": 17
+  },
+  {
+    "id": 999,
+    "nombre": "NO ESPECIFICADO",
+    "clave": 17
+  },
+  {
+    "id": "001",
+    "nombre": "ACAPONETA",
+    "clave": 18
+  },
+  {
+    "id": "002",
+    "nombre": "AHUACATLÁN",
+    "clave": 18
+  },
+  {
+    "id": "003",
+    "nombre": "AMATLÁN DE CAÑAS",
+    "clave": 18
+  },
+  {
+    "id": "004",
+    "nombre": "COMPOSTELA",
+    "clave": 18
+  },
+  {
+    "id": "005",
+    "nombre": "HUAJICORI",
+    "clave": 18
+  },
+  {
+    "id": "006",
+    "nombre": "IXTLÁN DEL RÍO",
+    "clave": 18
+  },
+  {
+    "id": "007",
+    "nombre": "JALA",
+    "clave": 18
+  },
+  {
+    "id": "008",
+    "nombre": "XALISCO",
+    "clave": 18
+  },
+  {
+    "id": "009",
+    "nombre": "DEL NAYAR",
+    "clave": 18
+  },
+  {
+    "id": "010",
+    "nombre": "ROSAMORADA",
+    "clave": 18
+  },
+  {
+    "id": "011",
+    "nombre": "RUÍZ",
+    "clave": 18
+  },
+  {
+    "id": "012",
+    "nombre": "SAN BLAS",
+    "clave": 18
+  },
+  {
+    "id": "013",
+    "nombre": "SAN PEDRO LAGUNILLAS",
+    "clave": 18
+  },
+  {
+    "id": "014",
+    "nombre": "SANTA MARÍA DEL ORO",
+    "clave": 18
+  },
+  {
+    "id": "015",
+    "nombre": "SANTIAGO IXCUINTLA",
+    "clave": 18
+  },
+  {
+    "id": "016",
+    "nombre": "TECUALA",
+    "clave": 18
+  },
+  {
+    "id": "017",
+    "nombre": "TEPIC",
+    "clave": 18
+  },
+  {
+    "id": "018",
+    "nombre": "TUXPAN",
+    "clave": 18
+  },
+  {
+    "id": "019",
+    "nombre": "LA YESCA",
+    "clave": 18
+  },
+  {
+    "id": "020",
+    "nombre": "BAHÍA DE BANDERAS",
+    "clave": 18
+  },
+  {
+    "id": 999,
+    "nombre": "NO ESPECIFICADO",
+    "clave": 18
+  },
+  {
+    "id": "001",
+    "nombre": "ABASOLO",
+    "clave": 19
+  },
+  {
+    "id": "002",
+    "nombre": "AGUALEGUAS",
+    "clave": 19
+  },
+  {
+    "id": "003",
+    "nombre": "LOS ALDAMAS",
+    "clave": 19
+  },
+  {
+    "id": "004",
+    "nombre": "ALLENDE",
+    "clave": 19
+  },
+  {
+    "id": "005",
+    "nombre": "ANÁHUAC",
+    "clave": 19
+  },
+  {
+    "id": "006",
+    "nombre": "APODACA",
+    "clave": 19
+  },
+  {
+    "id": "007",
+    "nombre": "ARAMBERRI",
+    "clave": 19
+  },
+  {
+    "id": "008",
+    "nombre": "BUSTAMANTE",
+    "clave": 19
+  },
+  {
+    "id": "009",
+    "nombre": "CADEREYTA JIMÉNEZ",
+    "clave": 19
+  },
+  {
+    "id": "010",
+    "nombre": "EL CARMEN",
+    "clave": 19
+  },
+  {
+    "id": "011",
+    "nombre": "CERRALVO",
+    "clave": 19
+  },
+  {
+    "id": "012",
+    "nombre": "CIÉNEGA DE FLORES",
+    "clave": 19
+  },
+  {
+    "id": "013",
+    "nombre": "CHINA",
+    "clave": 19
+  },
+  {
+    "id": "014",
+    "nombre": "DOCTOR ARROYO",
+    "clave": 19
+  },
+  {
+    "id": "015",
+    "nombre": "DOCTOR COSS",
+    "clave": 19
+  },
+  {
+    "id": "016",
+    "nombre": "DOCTOR GONZÁLEZ",
+    "clave": 19
+  },
+  {
+    "id": "017",
+    "nombre": "GALEANA",
+    "clave": 19
+  },
+  {
+    "id": "018",
+    "nombre": "GARCÍA",
+    "clave": 19
+  },
+  {
+    "id": "019",
+    "nombre": "SAN PEDRO GARZA GARCÍA",
+    "clave": 19
+  },
+  {
+    "id": "020",
+    "nombre": "GENERAL BRAVO",
+    "clave": 19
+  },
+  {
+    "id": "021",
+    "nombre": "GENERAL ESCOBEDO",
+    "clave": 19
+  },
+  {
+    "id": "022",
+    "nombre": "GENERAL TERÁN",
+    "clave": 19
+  },
+  {
+    "id": "023",
+    "nombre": "GENERAL TREVIÑO",
+    "clave": 19
+  },
+  {
+    "id": "024",
+    "nombre": "GENERAL ZARAGOZA",
+    "clave": 19
+  },
+  {
+    "id": "025",
+    "nombre": "GENERAL ZUAZUA",
+    "clave": 19
+  },
+  {
+    "id": "026",
+    "nombre": "GUADALUPE",
+    "clave": 19
+  },
+  {
+    "id": "027",
+    "nombre": "LOS HERRERAS",
+    "clave": 19
+  },
+  {
+    "id": "028",
+    "nombre": "HIGUERAS",
+    "clave": 19
+  },
+  {
+    "id": "029",
+    "nombre": "HUALAHUISES",
+    "clave": 19
+  },
+  {
+    "id": "030",
+    "nombre": "ITURBIDE",
+    "clave": 19
+  },
+  {
+    "id": "031",
+    "nombre": "JUÁREZ",
+    "clave": 19
+  },
+  {
+    "id": "032",
+    "nombre": "LAMPAZOS DE NARANJO",
+    "clave": 19
+  },
+  {
+    "id": "033",
+    "nombre": "LINARES",
+    "clave": 19
+  },
+  {
+    "id": "034",
+    "nombre": "MARÍN",
+    "clave": 19
+  },
+  {
+    "id": "035",
+    "nombre": "MELCHOR OCAMPO",
+    "clave": 19
+  },
+  {
+    "id": "036",
+    "nombre": "MIER Y NORIEGA",
+    "clave": 19
+  },
+  {
+    "id": "037",
+    "nombre": "MINA",
+    "clave": 19
+  },
+  {
+    "id": "038",
+    "nombre": "MONTEMORELOS",
+    "clave": 19
+  },
+  {
+    "id": "039",
+    "nombre": "MONTERREY",
+    "clave": 19
+  },
+  {
+    "id": "040",
+    "nombre": "PARÁS",
+    "clave": 19
+  },
+  {
+    "id": "041",
+    "nombre": "PESQUERÍA",
+    "clave": 19
+  },
+  {
+    "id": "042",
+    "nombre": "LOS RAMONES",
+    "clave": 19
+  },
+  {
+    "id": "043",
+    "nombre": "RAYONES",
+    "clave": 19
+  },
+  {
+    "id": "044",
+    "nombre": "SABINAS HIDALGO",
+    "clave": 19
+  },
+  {
+    "id": "045",
+    "nombre": "SALINAS VICTORIA",
+    "clave": 19
+  },
+  {
+    "id": "046",
+    "nombre": "SAN NICOLÁS DE LOS GARZA",
+    "clave": 19
+  },
+  {
+    "id": "047",
+    "nombre": "HIDALGO",
+    "clave": 19
+  },
+  {
+    "id": "048",
+    "nombre": "SANTA CATARINA",
+    "clave": 19
+  },
+  {
+    "id": "049",
+    "nombre": "SANTIAGO",
+    "clave": 19
+  },
+  {
+    "id": "050",
+    "nombre": "VALLECILLO",
+    "clave": 19
+  },
+  {
+    "id": "051",
+    "nombre": "VILLALDAMA",
+    "clave": 19
+  },
+  {
+    "id": 999,
+    "nombre": "NO ESPECIFICADO",
+    "clave": 19
+  },
+  {
+    "id": "001",
+    "nombre": "ABEJONES",
+    "clave": 20
+  },
+  {
+    "id": "002",
+    "nombre": "ACATLÁN DE PÉREZ FIGUEROA",
+    "clave": 20
+  },
+  {
+    "id": "003",
+    "nombre": "ASUNCIÓN CACALOTEPEC",
+    "clave": 20
+  },
+  {
+    "id": "004",
+    "nombre": "ASUNCIÓN CUYOTEPEJI",
+    "clave": 20
+  },
+  {
+    "id": "005",
+    "nombre": "ASUNCIÓN IXTALTEPEC",
+    "clave": 20
+  },
+  {
+    "id": "006",
+    "nombre": "ASUNCIÓN NOCHIXTLÁN",
+    "clave": 20
+  },
+  {
+    "id": "007",
+    "nombre": "ASUNCIÓN OCOTLÁN",
+    "clave": 20
+  },
+  {
+    "id": "008",
+    "nombre": "ASUNCIÓN TLACOLULITA",
+    "clave": 20
+  },
+  {
+    "id": "009",
+    "nombre": "AYOTZINTEPEC",
+    "clave": 20
+  },
+  {
+    "id": "010",
+    "nombre": "EL BARRIO DE LA SOLEDAD",
+    "clave": 20
+  },
+  {
+    "id": "011",
+    "nombre": "CALIHUALÁ",
+    "clave": 20
+  },
+  {
+    "id": "012",
+    "nombre": "CANDELARIA LOXICHA",
+    "clave": 20
+  },
+  {
+    "id": "013",
+    "nombre": "CIÉNEGA DE ZIMATLÁN",
+    "clave": 20
+  },
+  {
+    "id": "014",
+    "nombre": "CIUDAD IXTEPEC",
+    "clave": 20
+  },
+  {
+    "id": "015",
+    "nombre": "COATECAS ALTAS",
+    "clave": 20
+  },
+  {
+    "id": "016",
+    "nombre": "COICOYÁN DE LAS FLORES",
+    "clave": 20
+  },
+  {
+    "id": "017",
+    "nombre": "LA COMPAÑÍA",
+    "clave": 20
+  },
+  {
+    "id": "018",
+    "nombre": "CONCEPCIÓN BUENAVISTA",
+    "clave": 20
+  },
+  {
+    "id": "019",
+    "nombre": "CONCEPCIÓN PÁPALO",
+    "clave": 20
+  },
+  {
+    "id": "020",
+    "nombre": "CONSTANCIA DEL ROSARIO",
+    "clave": 20
+  },
+  {
+    "id": "021",
+    "nombre": "COSOLAPA",
+    "clave": 20
+  },
+  {
+    "id": "022",
+    "nombre": "COSOLTEPEC",
+    "clave": 20
+  },
+  {
+    "id": "023",
+    "nombre": "CUILÁPAM DE GUERRERO",
+    "clave": 20
+  },
+  {
+    "id": "024",
+    "nombre": "CUYAMECALCO VILLA DE ZARAGOZA",
+    "clave": 20
+  },
+  {
+    "id": "025",
+    "nombre": "CHAHUITES",
+    "clave": 20
+  },
+  {
+    "id": "026",
+    "nombre": "CHALCATONGO DE HIDALGO",
+    "clave": 20
+  },
+  {
+    "id": "027",
+    "nombre": "CHIQUIHUITLÁN DE BENITO JUÁREZ",
+    "clave": 20
+  },
+  {
+    "id": "028",
+    "nombre": "HEROICA CIUDAD DE EJUTLA DE CRESPO",
+    "clave": 20
+  },
+  {
+    "id": "029",
+    "nombre": "ELOXOCHITLÁN DE FLORES MAGÓN",
+    "clave": 20
+  },
+  {
+    "id": "030",
+    "nombre": "EL ESPINAL",
+    "clave": 20
+  },
+  {
+    "id": "031",
+    "nombre": "TAMAZULÁPAM DEL ESPÍRITU SANTO",
+    "clave": 20
+  },
+  {
+    "id": "032",
+    "nombre": "FRESNILLO DE TRUJANO",
+    "clave": 20
+  },
+  {
+    "id": "033",
+    "nombre": "GUADALUPE ETLA",
+    "clave": 20
+  },
+  {
+    "id": "034",
+    "nombre": "GUADALUPE DE RAMÍREZ",
+    "clave": 20
+  },
+  {
+    "id": "035",
+    "nombre": "GUELATAO DE JUÁREZ",
+    "clave": 20
+  },
+  {
+    "id": "036",
+    "nombre": "GUEVEA DE HUMBOLDT",
+    "clave": 20
+  },
+  {
+    "id": "037",
+    "nombre": "MESONES HIDALGO",
+    "clave": 20
+  },
+  {
+    "id": "038",
+    "nombre": "VILLA HIDALGO",
+    "clave": 20
+  },
+  {
+    "id": "039",
+    "nombre": "HEROICA CIUDAD DE HUAJUAPAN DE LEÓN",
+    "clave": 20
+  },
+  {
+    "id": "040",
+    "nombre": "HUAUTEPEC",
+    "clave": 20
+  },
+  {
+    "id": "041",
+    "nombre": "HUAUTLA DE JIMÉNEZ",
+    "clave": 20
+  },
+  {
+    "id": "042",
+    "nombre": "IXTLÁN DE JUÁREZ",
+    "clave": 20
+  },
+  {
+    "id": "043",
+    "nombre": "JUCHITÁN DE ZARAGOZA",
+    "clave": 20
+  },
+  {
+    "id": "044",
+    "nombre": "LOMA BONITA",
+    "clave": 20
+  },
+  {
+    "id": "045",
+    "nombre": "MAGDALENA APASCO",
+    "clave": 20
+  },
+  {
+    "id": "046",
+    "nombre": "MAGDALENA JALTEPEC",
+    "clave": 20
+  },
+  {
+    "id": "047",
+    "nombre": "SANTA MAGDALENA JICOTLÁN",
+    "clave": 20
+  },
+  {
+    "id": "048",
+    "nombre": "MAGDALENA MIXTEPEC",
+    "clave": 20
+  },
+  {
+    "id": "049",
+    "nombre": "MAGDALENA OCOTLÁN",
+    "clave": 20
+  },
+  {
+    "id": "050",
+    "nombre": "MAGDALENA PEÑASCO",
+    "clave": 20
+  },
+  {
+    "id": "051",
+    "nombre": "MAGDALENA TEITIPAC",
+    "clave": 20
+  },
+  {
+    "id": "052",
+    "nombre": "MAGDALENA TEQUISISTLÁN",
+    "clave": 20
+  },
+  {
+    "id": "053",
+    "nombre": "MAGDALENA TLACOTEPEC",
+    "clave": 20
+  },
+  {
+    "id": "054",
+    "nombre": "MAGDALENA ZAHUATLÁN",
+    "clave": 20
+  },
+  {
+    "id": "055",
+    "nombre": "MARISCALA DE JUÁREZ",
+    "clave": 20
+  },
+  {
+    "id": "056",
+    "nombre": "MÁRTIRES DE TACUBAYA",
+    "clave": 20
+  },
+  {
+    "id": "057",
+    "nombre": "MATÍAS ROMERO AVENDAÑO",
+    "clave": 20
+  },
+  {
+    "id": "058",
+    "nombre": "MAZATLÁN VILLA DE FLORES",
+    "clave": 20
+  },
+  {
+    "id": "059",
+    "nombre": "MIAHUATLÁN DE PORFIRIO DÍAZ",
+    "clave": 20
+  },
+  {
+    "id": "060",
+    "nombre": "MIXISTLÁN DE LA REFORMA",
+    "clave": 20
+  },
+  {
+    "id": "061",
+    "nombre": "MONJAS",
+    "clave": 20
+  },
+  {
+    "id": "062",
+    "nombre": "NATIVIDAD",
+    "clave": 20
+  },
+  {
+    "id": "063",
+    "nombre": "NAZARENO ETLA",
+    "clave": 20
+  },
+  {
+    "id": "064",
+    "nombre": "NEJAPA DE MADERO",
+    "clave": 20
+  },
+  {
+    "id": "065",
+    "nombre": "IXPANTEPEC NIEVES",
+    "clave": 20
+  },
+  {
+    "id": "066",
+    "nombre": "SANTIAGO NILTEPEC",
+    "clave": 20
+  },
+  {
+    "id": "067",
+    "nombre": "OAXACA DE JUÁREZ",
+    "clave": 20
+  },
+  {
+    "id": "068",
+    "nombre": "OCOTLÁN DE MORELOS",
+    "clave": 20
+  },
+  {
+    "id": "069",
+    "nombre": "LA PE",
+    "clave": 20
+  },
+  {
+    "id": "070",
+    "nombre": "PINOTEPA DE DON LUIS",
+    "clave": 20
+  },
+  {
+    "id": "071",
+    "nombre": "PLUMA HIDALGO",
+    "clave": 20
+  },
+  {
+    "id": "072",
+    "nombre": "SAN JOSÉ DEL PROGRESO",
+    "clave": 20
+  },
+  {
+    "id": "073",
+    "nombre": "PUTLA VILLA DE GUERRERO",
+    "clave": 20
+  },
+  {
+    "id": "074",
+    "nombre": "SANTA CATARINA QUIOQUITANI",
+    "clave": 20
+  },
+  {
+    "id": "075",
+    "nombre": "REFORMA DE PINEDA",
+    "clave": 20
+  },
+  {
+    "id": "076",
+    "nombre": "LA REFORMA",
+    "clave": 20
+  },
+  {
+    "id": "077",
+    "nombre": "REYES ETLA",
+    "clave": 20
+  },
+  {
+    "id": "078",
+    "nombre": "ROJAS DE CUAUHTÉMOC",
+    "clave": 20
+  },
+  {
+    "id": "079",
+    "nombre": "SALINA CRUZ",
+    "clave": 20
+  },
+  {
+    "id": "080",
+    "nombre": "SAN AGUSTÍN AMATENGO",
+    "clave": 20
+  },
+  {
+    "id": "081",
+    "nombre": "SAN AGUSTÍN ATENANGO",
+    "clave": 20
+  },
+  {
+    "id": "082",
+    "nombre": "SAN AGUSTÍN CHAYUCO",
+    "clave": 20
+  },
+  {
+    "id": "083",
+    "nombre": "SAN AGUSTÍN DE LAS JUNTAS",
+    "clave": 20
+  },
+  {
+    "id": "084",
+    "nombre": "SAN AGUSTÍN ETLA",
+    "clave": 20
+  },
+  {
+    "id": "085",
+    "nombre": "SAN AGUSTÍN LOXICHA",
+    "clave": 20
+  },
+  {
+    "id": "086",
+    "nombre": "SAN AGUSTÍN TLACOTEPEC",
+    "clave": 20
+  },
+  {
+    "id": "087",
+    "nombre": "SAN AGUSTÍN YATARENI",
+    "clave": 20
+  },
+  {
+    "id": "088",
+    "nombre": "SAN ANDRÉS CABECERA NUEVA",
+    "clave": 20
+  },
+  {
+    "id": "089",
+    "nombre": "SAN ANDRÉS DINICUITI",
+    "clave": 20
+  },
+  {
+    "id": "090",
+    "nombre": "SAN ANDRÉS HUAXPALTEPEC",
+    "clave": 20
+  },
+  {
+    "id": "091",
+    "nombre": "SAN ANDRÉS HUAYÁPAM",
+    "clave": 20
+  },
+  {
+    "id": "092",
+    "nombre": "SAN ANDRÉS IXTLAHUACA",
+    "clave": 20
+  },
+  {
+    "id": "093",
+    "nombre": "SAN ANDRÉS LAGUNAS",
+    "clave": 20
+  },
+  {
+    "id": "094",
+    "nombre": "SAN ANDRÉS NUXIÑO",
+    "clave": 20
+  },
+  {
+    "id": "095",
+    "nombre": "SAN ANDRÉS PAXTLÁN",
+    "clave": 20
+  },
+  {
+    "id": "096",
+    "nombre": "SAN ANDRÉS SINAXTLA",
+    "clave": 20
+  },
+  {
+    "id": "097",
+    "nombre": "SAN ANDRÉS SOLAGA",
+    "clave": 20
+  },
+  {
+    "id": "098",
+    "nombre": "SAN ANDRÉS TEOTILÁLPAM",
+    "clave": 20
+  },
+  {
+    "id": "099",
+    "nombre": "SAN ANDRÉS TEPETLAPA",
+    "clave": 20
+  },
+  {
+    "id": 100,
+    "nombre": "SAN ANDRÉS YAÁ",
+    "clave": 20
+  },
+  {
+    "id": 101,
+    "nombre": "SAN ANDRÉS ZABACHE",
+    "clave": 20
+  },
+  {
+    "id": 102,
+    "nombre": "SAN ANDRÉS ZAUTLA",
+    "clave": 20
+  },
+  {
+    "id": 103,
+    "nombre": "SAN ANTONINO CASTILLO VELASCO",
+    "clave": 20
+  },
+  {
+    "id": 104,
+    "nombre": "SAN ANTONINO EL ALTO",
+    "clave": 20
+  },
+  {
+    "id": 105,
+    "nombre": "SAN ANTONINO MONTE VERDE",
+    "clave": 20
+  },
+  {
+    "id": 106,
+    "nombre": "SAN ANTONIO ACUTLA",
+    "clave": 20
+  },
+  {
+    "id": 107,
+    "nombre": "SAN ANTONIO DE LA CAL",
+    "clave": 20
+  },
+  {
+    "id": 108,
+    "nombre": "SAN ANTONIO HUITEPEC",
+    "clave": 20
+  },
+  {
+    "id": 109,
+    "nombre": "SAN ANTONIO NANAHUATÍPAM",
+    "clave": 20
+  },
+  {
+    "id": 110,
+    "nombre": "SAN ANTONIO SINICAHUA",
+    "clave": 20
+  },
+  {
+    "id": 111,
+    "nombre": "SAN ANTONIO TEPETLAPA",
+    "clave": 20
+  },
+  {
+    "id": 112,
+    "nombre": "SAN BALTAZAR CHICHICÁPAM",
+    "clave": 20
+  },
+  {
+    "id": 113,
+    "nombre": "SAN BALTAZAR LOXICHA",
+    "clave": 20
+  },
+  {
+    "id": 114,
+    "nombre": "SAN BALTAZAR YATZACHI EL BAJO",
+    "clave": 20
+  },
+  {
+    "id": 115,
+    "nombre": "SAN BARTOLO COYOTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 116,
+    "nombre": "SAN BARTOLOMÉ AYAUTLA",
+    "clave": 20
+  },
+  {
+    "id": 117,
+    "nombre": "SAN BARTOLOMÉ LOXICHA",
+    "clave": 20
+  },
+  {
+    "id": 118,
+    "nombre": "SAN BARTOLOMÉ QUIALANA",
+    "clave": 20
+  },
+  {
+    "id": 119,
+    "nombre": "SAN BARTOLOMÉ YUCUAÑE",
+    "clave": 20
+  },
+  {
+    "id": 120,
+    "nombre": "SAN BARTOLOMÉ ZOOGOCHO",
+    "clave": 20
+  },
+  {
+    "id": 121,
+    "nombre": "SAN BARTOLO SOYALTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 122,
+    "nombre": "SAN BARTOLO YAUTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 123,
+    "nombre": "SAN BERNARDO MIXTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 124,
+    "nombre": "SAN BLAS ATEMPA",
+    "clave": 20
+  },
+  {
+    "id": 125,
+    "nombre": "SAN CARLOS YAUTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 126,
+    "nombre": "SAN CRISTÓBAL AMATLÁN",
+    "clave": 20
+  },
+  {
+    "id": 127,
+    "nombre": "SAN CRISTÓBAL AMOLTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 128,
+    "nombre": "SAN CRISTÓBAL LACHIRIOAG",
+    "clave": 20
+  },
+  {
+    "id": 129,
+    "nombre": "SAN CRISTÓBAL SUCHIXTLAHUACA",
+    "clave": 20
+  },
+  {
+    "id": 130,
+    "nombre": "SAN DIONISIO DEL MAR",
+    "clave": 20
+  },
+  {
+    "id": 131,
+    "nombre": "SAN DIONISIO OCOTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 132,
+    "nombre": "SAN DIONISIO OCOTLÁN",
+    "clave": 20
+  },
+  {
+    "id": 133,
+    "nombre": "SAN ESTEBAN ATATLAHUCA",
+    "clave": 20
+  },
+  {
+    "id": 134,
+    "nombre": "SAN FELIPE JALAPA DE DÍAZ",
+    "clave": 20
+  },
+  {
+    "id": 135,
+    "nombre": "SAN FELIPE TEJALÁPAM",
+    "clave": 20
+  },
+  {
+    "id": 136,
+    "nombre": "SAN FELIPE USILA",
+    "clave": 20
+  },
+  {
+    "id": 137,
+    "nombre": "SAN FRANCISCO CAHUACUÁ",
+    "clave": 20
+  },
+  {
+    "id": 138,
+    "nombre": "SAN FRANCISCO CAJONOS",
+    "clave": 20
+  },
+  {
+    "id": 139,
+    "nombre": "SAN FRANCISCO CHAPULAPA",
+    "clave": 20
+  },
+  {
+    "id": 140,
+    "nombre": "SAN FRANCISCO CHINDÚA",
+    "clave": 20
+  },
+  {
+    "id": 141,
+    "nombre": "SAN FRANCISCO DEL MAR",
+    "clave": 20
+  },
+  {
+    "id": 142,
+    "nombre": "SAN FRANCISCO HUEHUETLÁN",
+    "clave": 20
+  },
+  {
+    "id": 143,
+    "nombre": "SAN FRANCISCO IXHUATÁN",
+    "clave": 20
+  },
+  {
+    "id": 144,
+    "nombre": "SAN FRANCISCO JALTEPETONGO",
+    "clave": 20
+  },
+  {
+    "id": 145,
+    "nombre": "SAN FRANCISCO LACHIGOLÓ",
+    "clave": 20
+  },
+  {
+    "id": 146,
+    "nombre": "SAN FRANCISCO LOGUECHE",
+    "clave": 20
+  },
+  {
+    "id": 147,
+    "nombre": "SAN FRANCISCO NUXAÑO",
+    "clave": 20
+  },
+  {
+    "id": 148,
+    "nombre": "SAN FRANCISCO OZOLOTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 149,
+    "nombre": "SAN FRANCISCO SOLA",
+    "clave": 20
+  },
+  {
+    "id": 150,
+    "nombre": "SAN FRANCISCO TELIXTLAHUACA",
+    "clave": 20
+  },
+  {
+    "id": 151,
+    "nombre": "SAN FRANCISCO TEOPAN",
+    "clave": 20
+  },
+  {
+    "id": 152,
+    "nombre": "SAN FRANCISCO TLAPANCINGO",
+    "clave": 20
+  },
+  {
+    "id": 153,
+    "nombre": "SAN GABRIEL MIXTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 154,
+    "nombre": "SAN ILDEFONSO AMATLÁN",
+    "clave": 20
+  },
+  {
+    "id": 155,
+    "nombre": "SAN ILDEFONSO SOLA",
+    "clave": 20
+  },
+  {
+    "id": 156,
+    "nombre": "SAN ILDEFONSO VILLA ALTA",
+    "clave": 20
+  },
+  {
+    "id": 157,
+    "nombre": "SAN JACINTO AMILPAS",
+    "clave": 20
+  },
+  {
+    "id": 158,
+    "nombre": "SAN JACINTO TLACOTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 159,
+    "nombre": "SAN JERÓNIMO COATLÁN",
+    "clave": 20
+  },
+  {
+    "id": 160,
+    "nombre": "SAN JERÓNIMO SILACAYOAPILLA",
+    "clave": 20
+  },
+  {
+    "id": 161,
+    "nombre": "SAN JERÓNIMO SOSOLA",
+    "clave": 20
+  },
+  {
+    "id": 162,
+    "nombre": "SAN JERÓNIMO TAVICHE",
+    "clave": 20
+  },
+  {
+    "id": 163,
+    "nombre": "SAN JERÓNIMO TECÓATL",
+    "clave": 20
+  },
+  {
+    "id": 164,
+    "nombre": "SAN JORGE NUCHITA",
+    "clave": 20
+  },
+  {
+    "id": 165,
+    "nombre": "SAN JOSÉ AYUQUILA",
+    "clave": 20
+  },
+  {
+    "id": 166,
+    "nombre": "SAN JOSÉ CHILTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 167,
+    "nombre": "SAN JOSÉ DEL PEÑASCO",
+    "clave": 20
+  },
+  {
+    "id": 168,
+    "nombre": "SAN JOSÉ ESTANCIA GRANDE",
+    "clave": 20
+  },
+  {
+    "id": 169,
+    "nombre": "SAN JOSÉ INDEPENDENCIA",
+    "clave": 20
+  },
+  {
+    "id": 170,
+    "nombre": "SAN JOSÉ LACHIGUIRI",
+    "clave": 20
+  },
+  {
+    "id": 171,
+    "nombre": "SAN JOSÉ TENANGO",
+    "clave": 20
+  },
+  {
+    "id": 172,
+    "nombre": "SAN JUAN ACHIUTLA",
+    "clave": 20
+  },
+  {
+    "id": 173,
+    "nombre": "SAN JUAN ATEPEC",
+    "clave": 20
+  },
+  {
+    "id": 174,
+    "nombre": "ÁNIMAS TRUJANO",
+    "clave": 20
+  },
+  {
+    "id": 175,
+    "nombre": "SAN JUAN BAUTISTA ATATLAHUCA",
+    "clave": 20
+  },
+  {
+    "id": 176,
+    "nombre": "SAN JUAN BAUTISTA COIXTLAHUACA",
+    "clave": 20
+  },
+  {
+    "id": 177,
+    "nombre": "SAN JUAN BAUTISTA CUICATLÁN",
+    "clave": 20
+  },
+  {
+    "id": 178,
+    "nombre": "SAN JUAN BAUTISTA GUELACHE",
+    "clave": 20
+  },
+  {
+    "id": 179,
+    "nombre": "SAN JUAN BAUTISTA JAYACATLÁN",
+    "clave": 20
+  },
+  {
+    "id": 180,
+    "nombre": "SAN JUAN BAUTISTA LO DE SOTO",
+    "clave": 20
+  },
+  {
+    "id": 181,
+    "nombre": "SAN JUAN BAUTISTA SUCHITEPEC",
+    "clave": 20
+  },
+  {
+    "id": 182,
+    "nombre": "SAN JUAN BAUTISTA TLACOATZINTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 183,
+    "nombre": "SAN JUAN BAUTISTA TLACHICHILCO",
+    "clave": 20
+  },
+  {
+    "id": 184,
+    "nombre": "SAN JUAN BAUTISTA TUXTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 185,
+    "nombre": "SAN JUAN CACAHUATEPEC",
+    "clave": 20
+  },
+  {
+    "id": 186,
+    "nombre": "SAN JUAN CIENEGUILLA",
+    "clave": 20
+  },
+  {
+    "id": 187,
+    "nombre": "SAN JUAN COATZÓSPAM",
+    "clave": 20
+  },
+  {
+    "id": 188,
+    "nombre": "SAN JUAN COLORADO",
+    "clave": 20
+  },
+  {
+    "id": 189,
+    "nombre": "SAN JUAN COMALTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 190,
+    "nombre": "SAN JUAN COTZOCÓN",
+    "clave": 20
+  },
+  {
+    "id": 191,
+    "nombre": "SAN JUAN CHICOMEZÚCHIL",
+    "clave": 20
+  },
+  {
+    "id": 192,
+    "nombre": "SAN JUAN CHILATECA",
+    "clave": 20
+  },
+  {
+    "id": 193,
+    "nombre": "SAN JUAN DEL ESTADO",
+    "clave": 20
+  },
+  {
+    "id": 194,
+    "nombre": "SAN JUAN DEL RÍO",
+    "clave": 20
+  },
+  {
+    "id": 195,
+    "nombre": "SAN JUAN DIUXI",
+    "clave": 20
+  },
+  {
+    "id": 196,
+    "nombre": "SAN JUAN EVANGELISTA ANALCO",
+    "clave": 20
+  },
+  {
+    "id": 197,
+    "nombre": "SAN JUAN GUELAVÍA",
+    "clave": 20
+  },
+  {
+    "id": 198,
+    "nombre": "SAN JUAN GUICHICOVI",
+    "clave": 20
+  },
+  {
+    "id": 199,
+    "nombre": "SAN JUAN IHUALTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 200,
+    "nombre": "SAN JUAN JUQUILA MIXES",
+    "clave": 20
+  },
+  {
+    "id": 201,
+    "nombre": "SAN JUAN JUQUILA VIJANOS",
+    "clave": 20
+  },
+  {
+    "id": 202,
+    "nombre": "SAN JUAN LACHAO",
+    "clave": 20
+  },
+  {
+    "id": 203,
+    "nombre": "SAN JUAN LACHIGALLA",
+    "clave": 20
+  },
+  {
+    "id": 204,
+    "nombre": "SAN JUAN LAJARCIA",
+    "clave": 20
+  },
+  {
+    "id": 205,
+    "nombre": "SAN JUAN LALANA",
+    "clave": 20
+  },
+  {
+    "id": 206,
+    "nombre": "SAN JUAN DE LOS CUÉS",
+    "clave": 20
+  },
+  {
+    "id": 207,
+    "nombre": "SAN JUAN MAZATLÁN",
+    "clave": 20
+  },
+  {
+    "id": 208,
+    "nombre": "SAN JUAN MIXTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 209,
+    "nombre": "SAN JUAN MIXTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 210,
+    "nombre": "SAN JUAN ÑUMÍ",
+    "clave": 20
+  },
+  {
+    "id": 211,
+    "nombre": "SAN JUAN OZOLOTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 212,
+    "nombre": "SAN JUAN PETLAPA",
+    "clave": 20
+  },
+  {
+    "id": 213,
+    "nombre": "SAN JUAN QUIAHIJE",
+    "clave": 20
+  },
+  {
+    "id": 214,
+    "nombre": "SAN JUAN QUIOTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 215,
+    "nombre": "SAN JUAN SAYULTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 216,
+    "nombre": "SAN JUAN TABAÁ",
+    "clave": 20
+  },
+  {
+    "id": 217,
+    "nombre": "SAN JUAN TAMAZOLA",
+    "clave": 20
+  },
+  {
+    "id": 218,
+    "nombre": "SAN JUAN TEITA",
+    "clave": 20
+  },
+  {
+    "id": 219,
+    "nombre": "SAN JUAN TEITIPAC",
+    "clave": 20
+  },
+  {
+    "id": 220,
+    "nombre": "SAN JUAN TEPEUXILA",
+    "clave": 20
+  },
+  {
+    "id": 221,
+    "nombre": "SAN JUAN TEPOSCOLULA",
+    "clave": 20
+  },
+  {
+    "id": 222,
+    "nombre": "SAN JUAN YAEÉ",
+    "clave": 20
+  },
+  {
+    "id": 223,
+    "nombre": "SAN JUAN YATZONA",
+    "clave": 20
+  },
+  {
+    "id": 224,
+    "nombre": "SAN JUAN YUCUITA",
+    "clave": 20
+  },
+  {
+    "id": 225,
+    "nombre": "SAN LORENZO",
+    "clave": 20
+  },
+  {
+    "id": 226,
+    "nombre": "SAN LORENZO ALBARRADAS",
+    "clave": 20
+  },
+  {
+    "id": 227,
+    "nombre": "SAN LORENZO CACAOTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 228,
+    "nombre": "SAN LORENZO CUAUNECUILTITLA",
+    "clave": 20
+  },
+  {
+    "id": 229,
+    "nombre": "SAN LORENZO TEXMELÚCAN",
+    "clave": 20
+  },
+  {
+    "id": 230,
+    "nombre": "SAN LORENZO VICTORIA",
+    "clave": 20
+  },
+  {
+    "id": 231,
+    "nombre": "SAN LUCAS CAMOTLÁN",
+    "clave": 20
+  },
+  {
+    "id": 232,
+    "nombre": "SAN LUCAS OJITLÁN",
+    "clave": 20
+  },
+  {
+    "id": 233,
+    "nombre": "SAN LUCAS QUIAVINÍ",
+    "clave": 20
+  },
+  {
+    "id": 234,
+    "nombre": "SAN LUCAS ZOQUIÁPAM",
+    "clave": 20
+  },
+  {
+    "id": 235,
+    "nombre": "SAN LUIS AMATLÁN",
+    "clave": 20
+  },
+  {
+    "id": 236,
+    "nombre": "SAN MARCIAL OZOLOTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 237,
+    "nombre": "SAN MARCOS ARTEAGA",
+    "clave": 20
+  },
+  {
+    "id": 238,
+    "nombre": "SAN MARTÍN DE LOS CANSECOS",
+    "clave": 20
+  },
+  {
+    "id": 239,
+    "nombre": "SAN MARTÍN HUAMELÚLPAM",
+    "clave": 20
+  },
+  {
+    "id": 240,
+    "nombre": "SAN MARTÍN ITUNYOSO",
+    "clave": 20
+  },
+  {
+    "id": 241,
+    "nombre": "SAN MARTÍN LACHILÁ",
+    "clave": 20
+  },
+  {
+    "id": 242,
+    "nombre": "SAN MARTÍN PERAS",
+    "clave": 20
+  },
+  {
+    "id": 243,
+    "nombre": "SAN MARTÍN TILCAJETE",
+    "clave": 20
+  },
+  {
+    "id": 244,
+    "nombre": "SAN MARTÍN TOXPALAN",
+    "clave": 20
+  },
+  {
+    "id": 245,
+    "nombre": "SAN MARTÍN ZACATEPEC",
+    "clave": 20
+  },
+  {
+    "id": 246,
+    "nombre": "SAN MATEO CAJONOS",
+    "clave": 20
+  },
+  {
+    "id": 247,
+    "nombre": "CAPULÁLPAM DE MÉNDEZ",
+    "clave": 20
+  },
+  {
+    "id": 248,
+    "nombre": "SAN MATEO DEL MAR",
+    "clave": 20
+  },
+  {
+    "id": 249,
+    "nombre": "SAN MATEO YOLOXOCHITLÁN",
+    "clave": 20
+  },
+  {
+    "id": 250,
+    "nombre": "SAN MATEO ETLATONGO",
+    "clave": 20
+  },
+  {
+    "id": 251,
+    "nombre": "SAN MATEO NEJÁPAM",
+    "clave": 20
+  },
+  {
+    "id": 252,
+    "nombre": "SAN MATEO PEÑASCO",
+    "clave": 20
+  },
+  {
+    "id": 253,
+    "nombre": "SAN MATEO PIÑAS",
+    "clave": 20
+  },
+  {
+    "id": 254,
+    "nombre": "SAN MATEO RÍO HONDO",
+    "clave": 20
+  },
+  {
+    "id": 255,
+    "nombre": "SAN MATEO SINDIHUI",
+    "clave": 20
+  },
+  {
+    "id": 256,
+    "nombre": "SAN MATEO TLAPILTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 257,
+    "nombre": "SAN MELCHOR BETAZA",
+    "clave": 20
+  },
+  {
+    "id": 258,
+    "nombre": "SAN MIGUEL ACHIUTLA",
+    "clave": 20
+  },
+  {
+    "id": 259,
+    "nombre": "SAN MIGUEL AHUEHUETITLÁN",
+    "clave": 20
+  },
+  {
+    "id": 260,
+    "nombre": "SAN MIGUEL ALOÁPAM",
+    "clave": 20
+  },
+  {
+    "id": 261,
+    "nombre": "SAN MIGUEL AMATITLÁN",
+    "clave": 20
+  },
+  {
+    "id": 262,
+    "nombre": "SAN MIGUEL AMATLÁN",
+    "clave": 20
+  },
+  {
+    "id": 263,
+    "nombre": "SAN MIGUEL COATLÁN",
+    "clave": 20
+  },
+  {
+    "id": 264,
+    "nombre": "SAN MIGUEL CHICAHUA",
+    "clave": 20
+  },
+  {
+    "id": 265,
+    "nombre": "SAN MIGUEL CHIMALAPA",
+    "clave": 20
+  },
+  {
+    "id": 266,
+    "nombre": "SAN MIGUEL DEL PUERTO",
+    "clave": 20
+  },
+  {
+    "id": 267,
+    "nombre": "SAN MIGUEL DEL RÍO",
+    "clave": 20
+  },
+  {
+    "id": 268,
+    "nombre": "SAN MIGUEL EJUTLA",
+    "clave": 20
+  },
+  {
+    "id": 269,
+    "nombre": "SAN MIGUEL EL GRANDE",
+    "clave": 20
+  },
+  {
+    "id": 270,
+    "nombre": "SAN MIGUEL HUAUTLA",
+    "clave": 20
+  },
+  {
+    "id": 271,
+    "nombre": "SAN MIGUEL MIXTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 272,
+    "nombre": "SAN MIGUEL PANIXTLAHUACA",
+    "clave": 20
+  },
+  {
+    "id": 273,
+    "nombre": "SAN MIGUEL PERAS",
+    "clave": 20
+  },
+  {
+    "id": 274,
+    "nombre": "SAN MIGUEL PIEDRAS",
+    "clave": 20
+  },
+  {
+    "id": 275,
+    "nombre": "SAN MIGUEL QUETZALTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 276,
+    "nombre": "SAN MIGUEL SANTA FLOR",
+    "clave": 20
+  },
+  {
+    "id": 277,
+    "nombre": "VILLA SOLA DE VEGA",
+    "clave": 20
+  },
+  {
+    "id": 278,
+    "nombre": "SAN MIGUEL SOYALTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 279,
+    "nombre": "SAN MIGUEL SUCHIXTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 280,
+    "nombre": "VILLA TALEA DE CASTRO",
+    "clave": 20
+  },
+  {
+    "id": 281,
+    "nombre": "SAN MIGUEL TECOMATLÁN",
+    "clave": 20
+  },
+  {
+    "id": 282,
+    "nombre": "SAN MIGUEL TENANGO",
+    "clave": 20
+  },
+  {
+    "id": 283,
+    "nombre": "SAN MIGUEL TEQUIXTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 284,
+    "nombre": "SAN MIGUEL TILQUIÁPAM",
+    "clave": 20
+  },
+  {
+    "id": 285,
+    "nombre": "SAN MIGUEL TLACAMAMA",
+    "clave": 20
+  },
+  {
+    "id": 286,
+    "nombre": "SAN MIGUEL TLACOTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 287,
+    "nombre": "SAN MIGUEL TULANCINGO",
+    "clave": 20
+  },
+  {
+    "id": 288,
+    "nombre": "SAN MIGUEL YOTAO",
+    "clave": 20
+  },
+  {
+    "id": 289,
+    "nombre": "SAN NICOLÁS",
+    "clave": 20
+  },
+  {
+    "id": 290,
+    "nombre": "SAN NICOLÁS HIDALGO",
+    "clave": 20
+  },
+  {
+    "id": 291,
+    "nombre": "SAN PABLO COATLÁN",
+    "clave": 20
+  },
+  {
+    "id": 292,
+    "nombre": "SAN PABLO CUATRO VENADOS",
+    "clave": 20
+  },
+  {
+    "id": 293,
+    "nombre": "SAN PABLO ETLA",
+    "clave": 20
+  },
+  {
+    "id": 294,
+    "nombre": "SAN PABLO HUITZO",
+    "clave": 20
+  },
+  {
+    "id": 295,
+    "nombre": "SAN PABLO HUIXTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 296,
+    "nombre": "SAN PABLO MACUILTIANGUIS",
+    "clave": 20
+  },
+  {
+    "id": 297,
+    "nombre": "SAN PABLO TIJALTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 298,
+    "nombre": "SAN PABLO VILLA DE MITLA",
+    "clave": 20
+  },
+  {
+    "id": 299,
+    "nombre": "SAN PABLO YAGANIZA",
+    "clave": 20
+  },
+  {
+    "id": 300,
+    "nombre": "SAN PEDRO AMUZGOS",
+    "clave": 20
+  },
+  {
+    "id": 301,
+    "nombre": "SAN PEDRO APÓSTOL",
+    "clave": 20
+  },
+  {
+    "id": 302,
+    "nombre": "SAN PEDRO ATOYAC",
+    "clave": 20
+  },
+  {
+    "id": 303,
+    "nombre": "SAN PEDRO CAJONOS",
+    "clave": 20
+  },
+  {
+    "id": 304,
+    "nombre": "SAN PEDRO COXCALTEPEC CÁNTAROS",
+    "clave": 20
+  },
+  {
+    "id": 305,
+    "nombre": "SAN PEDRO COMITANCILLO",
+    "clave": 20
+  },
+  {
+    "id": 306,
+    "nombre": "SAN PEDRO EL ALTO",
+    "clave": 20
+  },
+  {
+    "id": 307,
+    "nombre": "SAN PEDRO HUAMELULA",
+    "clave": 20
+  },
+  {
+    "id": 308,
+    "nombre": "SAN PEDRO HUILOTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 309,
+    "nombre": "SAN PEDRO IXCATLÁN",
+    "clave": 20
+  },
+  {
+    "id": 310,
+    "nombre": "SAN PEDRO IXTLAHUACA",
+    "clave": 20
+  },
+  {
+    "id": 311,
+    "nombre": "SAN PEDRO JALTEPETONGO",
+    "clave": 20
+  },
+  {
+    "id": 312,
+    "nombre": "SAN PEDRO JICAYÁN",
+    "clave": 20
+  },
+  {
+    "id": 313,
+    "nombre": "SAN PEDRO JOCOTIPAC",
+    "clave": 20
+  },
+  {
+    "id": 314,
+    "nombre": "SAN PEDRO JUCHATENGO",
+    "clave": 20
+  },
+  {
+    "id": 315,
+    "nombre": "SAN PEDRO MÁRTIR",
+    "clave": 20
+  },
+  {
+    "id": 316,
+    "nombre": "SAN PEDRO MÁRTIR QUIECHAPA",
+    "clave": 20
+  },
+  {
+    "id": 317,
+    "nombre": "SAN PEDRO MÁRTIR YUCUXACO",
+    "clave": 20
+  },
+  {
+    "id": 318,
+    "nombre": "SAN PEDRO MIXTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 319,
+    "nombre": "SAN PEDRO MIXTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 320,
+    "nombre": "SAN PEDRO MOLINOS",
+    "clave": 20
+  },
+  {
+    "id": 321,
+    "nombre": "SAN PEDRO NOPALA",
+    "clave": 20
+  },
+  {
+    "id": 322,
+    "nombre": "SAN PEDRO OCOPETATILLO",
+    "clave": 20
+  },
+  {
+    "id": 323,
+    "nombre": "SAN PEDRO OCOTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 324,
+    "nombre": "SAN PEDRO POCHUTLA",
+    "clave": 20
+  },
+  {
+    "id": 325,
+    "nombre": "SAN PEDRO QUIATONI",
+    "clave": 20
+  },
+  {
+    "id": 326,
+    "nombre": "SAN PEDRO SOCHIÁPAM",
+    "clave": 20
+  },
+  {
+    "id": 327,
+    "nombre": "SAN PEDRO TAPANATEPEC",
+    "clave": 20
+  },
+  {
+    "id": 328,
+    "nombre": "SAN PEDRO TAVICHE",
+    "clave": 20
+  },
+  {
+    "id": 329,
+    "nombre": "SAN PEDRO TEOZACOALCO",
+    "clave": 20
+  },
+  {
+    "id": 330,
+    "nombre": "SAN PEDRO TEUTILA",
+    "clave": 20
+  },
+  {
+    "id": 331,
+    "nombre": "SAN PEDRO TIDAÁ",
+    "clave": 20
+  },
+  {
+    "id": 332,
+    "nombre": "SAN PEDRO TOPILTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 333,
+    "nombre": "SAN PEDRO TOTOLÁPAM",
+    "clave": 20
+  },
+  {
+    "id": 334,
+    "nombre": "VILLA DE TUTUTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 335,
+    "nombre": "SAN PEDRO YANERI",
+    "clave": 20
+  },
+  {
+    "id": 336,
+    "nombre": "SAN PEDRO YÓLOX",
+    "clave": 20
+  },
+  {
+    "id": 337,
+    "nombre": "SAN PEDRO Y SAN PABLO AYUTLA",
+    "clave": 20
+  },
+  {
+    "id": 338,
+    "nombre": "VILLA DE ETLA",
+    "clave": 20
+  },
+  {
+    "id": 339,
+    "nombre": "SAN PEDRO Y SAN PABLO TEPOSCOLULA",
+    "clave": 20
+  },
+  {
+    "id": 340,
+    "nombre": "SAN PEDRO Y SAN PABLO TEQUIXTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 341,
+    "nombre": "SAN PEDRO YUCUNAMA",
+    "clave": 20
+  },
+  {
+    "id": 342,
+    "nombre": "SAN RAYMUNDO JALPAN",
+    "clave": 20
+  },
+  {
+    "id": 343,
+    "nombre": "SAN SEBASTIÁN ABASOLO",
+    "clave": 20
+  },
+  {
+    "id": 344,
+    "nombre": "SAN SEBASTIÁN COATLÁN",
+    "clave": 20
+  },
+  {
+    "id": 345,
+    "nombre": "SAN SEBASTIÁN IXCAPA",
+    "clave": 20
+  },
+  {
+    "id": 346,
+    "nombre": "SAN SEBASTIÁN NICANANDUTA",
+    "clave": 20
+  },
+  {
+    "id": 347,
+    "nombre": "SAN SEBASTIÁN RÍO HONDO",
+    "clave": 20
+  },
+  {
+    "id": 348,
+    "nombre": "SAN SEBASTIÁN TECOMAXTLAHUACA",
+    "clave": 20
+  },
+  {
+    "id": 349,
+    "nombre": "SAN SEBASTIÁN TEITIPAC",
+    "clave": 20
+  },
+  {
+    "id": 350,
+    "nombre": "SAN SEBASTIÁN TUTLA",
+    "clave": 20
+  },
+  {
+    "id": 351,
+    "nombre": "SAN SIMÓN ALMOLONGAS",
+    "clave": 20
+  },
+  {
+    "id": 352,
+    "nombre": "SAN SIMÓN ZAHUATLÁN",
+    "clave": 20
+  },
+  {
+    "id": 353,
+    "nombre": "SANTA ANA",
+    "clave": 20
+  },
+  {
+    "id": 354,
+    "nombre": "SANTA ANA ATEIXTLAHUACA",
+    "clave": 20
+  },
+  {
+    "id": 355,
+    "nombre": "SANTA ANA CUAUHTÉMOC",
+    "clave": 20
+  },
+  {
+    "id": 356,
+    "nombre": "SANTA ANA DEL VALLE",
+    "clave": 20
+  },
+  {
+    "id": 357,
+    "nombre": "SANTA ANA TAVELA",
+    "clave": 20
+  },
+  {
+    "id": 358,
+    "nombre": "SANTA ANA TLAPACOYAN",
+    "clave": 20
+  },
+  {
+    "id": 359,
+    "nombre": "SANTA ANA YARENI",
+    "clave": 20
+  },
+  {
+    "id": 360,
+    "nombre": "SANTA ANA ZEGACHE",
+    "clave": 20
+  },
+  {
+    "id": 361,
+    "nombre": "SANTA CATALINA QUIERÍ",
+    "clave": 20
+  },
+  {
+    "id": 362,
+    "nombre": "SANTA CATARINA CUIXTLA",
+    "clave": 20
+  },
+  {
+    "id": 363,
+    "nombre": "SANTA CATARINA IXTEPEJI",
+    "clave": 20
+  },
+  {
+    "id": 364,
+    "nombre": "SANTA CATARINA JUQUILA",
+    "clave": 20
+  },
+  {
+    "id": 365,
+    "nombre": "SANTA CATARINA LACHATAO",
+    "clave": 20
+  },
+  {
+    "id": 366,
+    "nombre": "SANTA CATARINA LOXICHA",
+    "clave": 20
+  },
+  {
+    "id": 367,
+    "nombre": "SANTA CATARINA MECHOACÁN",
+    "clave": 20
+  },
+  {
+    "id": 368,
+    "nombre": "SANTA CATARINA MINAS",
+    "clave": 20
+  },
+  {
+    "id": 369,
+    "nombre": "SANTA CATARINA QUIANÉ",
+    "clave": 20
+  },
+  {
+    "id": 370,
+    "nombre": "SANTA CATARINA TAYATA",
+    "clave": 20
+  },
+  {
+    "id": 371,
+    "nombre": "SANTA CATARINA TICUÁ",
+    "clave": 20
+  },
+  {
+    "id": 372,
+    "nombre": "SANTA CATARINA YOSONOTÚ",
+    "clave": 20
+  },
+  {
+    "id": 373,
+    "nombre": "SANTA CATARINA ZAPOQUILA",
+    "clave": 20
+  },
+  {
+    "id": 374,
+    "nombre": "SANTA CRUZ ACATEPEC",
+    "clave": 20
+  },
+  {
+    "id": 375,
+    "nombre": "SANTA CRUZ AMILPAS",
+    "clave": 20
+  },
+  {
+    "id": 376,
+    "nombre": "SANTA CRUZ DE BRAVO",
+    "clave": 20
+  },
+  {
+    "id": 377,
+    "nombre": "SANTA CRUZ ITUNDUJIA",
+    "clave": 20
+  },
+  {
+    "id": 378,
+    "nombre": "SANTA CRUZ MIXTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 379,
+    "nombre": "SANTA CRUZ NUNDACO",
+    "clave": 20
+  },
+  {
+    "id": 380,
+    "nombre": "SANTA CRUZ PAPALUTLA",
+    "clave": 20
+  },
+  {
+    "id": 381,
+    "nombre": "SANTA CRUZ TACACHE DE MINA",
+    "clave": 20
+  },
+  {
+    "id": 382,
+    "nombre": "SANTA CRUZ TACAHUA",
+    "clave": 20
+  },
+  {
+    "id": 383,
+    "nombre": "SANTA CRUZ TAYATA",
+    "clave": 20
+  },
+  {
+    "id": 384,
+    "nombre": "SANTA CRUZ XITLA",
+    "clave": 20
+  },
+  {
+    "id": 385,
+    "nombre": "SANTA CRUZ XOXOCOTLÁN",
+    "clave": 20
+  },
+  {
+    "id": 386,
+    "nombre": "SANTA CRUZ ZENZONTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 387,
+    "nombre": "SANTA GERTRUDIS",
+    "clave": 20
+  },
+  {
+    "id": 388,
+    "nombre": "SANTA INÉS DEL MONTE",
+    "clave": 20
+  },
+  {
+    "id": 389,
+    "nombre": "SANTA INÉS YATZECHE",
+    "clave": 20
+  },
+  {
+    "id": 390,
+    "nombre": "SANTA LUCÍA DEL CAMINO",
+    "clave": 20
+  },
+  {
+    "id": 391,
+    "nombre": "SANTA LUCÍA MIAHUATLÁN",
+    "clave": 20
+  },
+  {
+    "id": 392,
+    "nombre": "SANTA LUCÍA MONTEVERDE",
+    "clave": 20
+  },
+  {
+    "id": 393,
+    "nombre": "SANTA LUCÍA OCOTLÁN",
+    "clave": 20
+  },
+  {
+    "id": 394,
+    "nombre": "SANTA MARÍA ALOTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 395,
+    "nombre": "SANTA MARÍA APAZCO",
+    "clave": 20
+  },
+  {
+    "id": 396,
+    "nombre": "SANTA MARÍA LA ASUNCIÓN",
+    "clave": 20
+  },
+  {
+    "id": 397,
+    "nombre": "HEROICA CIUDAD DE TLAXIACO",
+    "clave": 20
+  },
+  {
+    "id": 398,
+    "nombre": "AYOQUEZCO DE ALDAMA",
+    "clave": 20
+  },
+  {
+    "id": 399,
+    "nombre": "SANTA MARÍA ATZOMPA",
+    "clave": 20
+  },
+  {
+    "id": 400,
+    "nombre": "SANTA MARÍA CAMOTLÁN",
+    "clave": 20
+  },
+  {
+    "id": 401,
+    "nombre": "SANTA MARÍA COLOTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 402,
+    "nombre": "SANTA MARÍA CORTIJO",
+    "clave": 20
+  },
+  {
+    "id": 403,
+    "nombre": "SANTA MARÍA COYOTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 404,
+    "nombre": "SANTA MARÍA CHACHOÁPAM",
+    "clave": 20
+  },
+  {
+    "id": 405,
+    "nombre": "VILLA DE CHILAPA DE DÍAZ",
+    "clave": 20
+  },
+  {
+    "id": 406,
+    "nombre": "SANTA MARÍA CHILCHOTLA",
+    "clave": 20
+  },
+  {
+    "id": 407,
+    "nombre": "SANTA MARÍA CHIMALAPA",
+    "clave": 20
+  },
+  {
+    "id": 408,
+    "nombre": "SANTA MARÍA DEL ROSARIO",
+    "clave": 20
+  },
+  {
+    "id": 409,
+    "nombre": "SANTA MARÍA DEL TULE",
+    "clave": 20
+  },
+  {
+    "id": 410,
+    "nombre": "SANTA MARÍA ECATEPEC",
+    "clave": 20
+  },
+  {
+    "id": 411,
+    "nombre": "SANTA MARÍA GUELACÉ",
+    "clave": 20
+  },
+  {
+    "id": 412,
+    "nombre": "SANTA MARÍA GUIENAGATI",
+    "clave": 20
+  },
+  {
+    "id": 413,
+    "nombre": "SANTA MARÍA HUATULCO",
+    "clave": 20
+  },
+  {
+    "id": 414,
+    "nombre": "SANTA MARÍA HUAZOLOTITLÁN",
+    "clave": 20
+  },
+  {
+    "id": 415,
+    "nombre": "SANTA MARÍA IPALAPA",
+    "clave": 20
+  },
+  {
+    "id": 416,
+    "nombre": "SANTA MARÍA IXCATLÁN",
+    "clave": 20
+  },
+  {
+    "id": 417,
+    "nombre": "SANTA MARÍA JACATEPEC",
+    "clave": 20
+  },
+  {
+    "id": 418,
+    "nombre": "SANTA MARÍA JALAPA DEL MARQUÉS",
+    "clave": 20
+  },
+  {
+    "id": 419,
+    "nombre": "SANTA MARÍA JALTIANGUIS",
+    "clave": 20
+  },
+  {
+    "id": 420,
+    "nombre": "SANTA MARÍA LACHIXÍO",
+    "clave": 20
+  },
+  {
+    "id": 421,
+    "nombre": "SANTA MARÍA MIXTEQUILLA",
+    "clave": 20
+  },
+  {
+    "id": 422,
+    "nombre": "SANTA MARÍA NATIVITAS",
+    "clave": 20
+  },
+  {
+    "id": 423,
+    "nombre": "SANTA MARÍA NDUAYACO",
+    "clave": 20
+  },
+  {
+    "id": 424,
+    "nombre": "SANTA MARÍA OZOLOTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 425,
+    "nombre": "SANTA MARÍA PÁPALO",
+    "clave": 20
+  },
+  {
+    "id": 426,
+    "nombre": "SANTA MARÍA PEÑOLES",
+    "clave": 20
+  },
+  {
+    "id": 427,
+    "nombre": "SANTA MARÍA PETAPA",
+    "clave": 20
+  },
+  {
+    "id": 428,
+    "nombre": "SANTA MARÍA QUIEGOLANI",
+    "clave": 20
+  },
+  {
+    "id": 429,
+    "nombre": "SANTA MARÍA SOLA",
+    "clave": 20
+  },
+  {
+    "id": 430,
+    "nombre": "SANTA MARÍA TATALTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 431,
+    "nombre": "SANTA MARÍA TECOMAVACA",
+    "clave": 20
+  },
+  {
+    "id": 432,
+    "nombre": "SANTA MARÍA TEMAXCALAPA",
+    "clave": 20
+  },
+  {
+    "id": 433,
+    "nombre": "SANTA MARÍA TEMAXCALTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 434,
+    "nombre": "SANTA MARÍA TEOPOXCO",
+    "clave": 20
+  },
+  {
+    "id": 435,
+    "nombre": "SANTA MARÍA TEPANTLALI",
+    "clave": 20
+  },
+  {
+    "id": 436,
+    "nombre": "SANTA MARÍA TEXCATITLÁN",
+    "clave": 20
+  },
+  {
+    "id": 437,
+    "nombre": "SANTA MARÍA TLAHUITOLTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 438,
+    "nombre": "SANTA MARÍA TLALIXTAC",
+    "clave": 20
+  },
+  {
+    "id": 439,
+    "nombre": "SANTA MARÍA TONAMECA",
+    "clave": 20
+  },
+  {
+    "id": 440,
+    "nombre": "SANTA MARÍA TOTOLAPILLA",
+    "clave": 20
+  },
+  {
+    "id": 441,
+    "nombre": "SANTA MARÍA XADANI",
+    "clave": 20
+  },
+  {
+    "id": 442,
+    "nombre": "SANTA MARÍA YALINA",
+    "clave": 20
+  },
+  {
+    "id": 443,
+    "nombre": "SANTA MARÍA YAVESÍA",
+    "clave": 20
+  },
+  {
+    "id": 444,
+    "nombre": "SANTA MARÍA YOLOTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 445,
+    "nombre": "SANTA MARÍA YOSOYÚA",
+    "clave": 20
+  },
+  {
+    "id": 446,
+    "nombre": "SANTA MARÍA YUCUHITI",
+    "clave": 20
+  },
+  {
+    "id": 447,
+    "nombre": "SANTA MARÍA ZACATEPEC",
+    "clave": 20
+  },
+  {
+    "id": 448,
+    "nombre": "SANTA MARÍA ZANIZA",
+    "clave": 20
+  },
+  {
+    "id": 449,
+    "nombre": "SANTA MARÍA ZOQUITLÁN",
+    "clave": 20
+  },
+  {
+    "id": 450,
+    "nombre": "SANTIAGO AMOLTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 451,
+    "nombre": "SANTIAGO APOALA",
+    "clave": 20
+  },
+  {
+    "id": 452,
+    "nombre": "SANTIAGO APÓSTOL",
+    "clave": 20
+  },
+  {
+    "id": 453,
+    "nombre": "SANTIAGO ASTATA",
+    "clave": 20
+  },
+  {
+    "id": 454,
+    "nombre": "SANTIAGO ATITLÁN",
+    "clave": 20
+  },
+  {
+    "id": 455,
+    "nombre": "SANTIAGO AYUQUILILLA",
+    "clave": 20
+  },
+  {
+    "id": 456,
+    "nombre": "SANTIAGO CACALOXTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 457,
+    "nombre": "SANTIAGO CAMOTLÁN",
+    "clave": 20
+  },
+  {
+    "id": 458,
+    "nombre": "SANTIAGO COMALTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 459,
+    "nombre": "VILLA DE SANTIAGO CHAZUMBA",
+    "clave": 20
+  },
+  {
+    "id": 460,
+    "nombre": "SANTIAGO CHOÁPAM",
+    "clave": 20
+  },
+  {
+    "id": 461,
+    "nombre": "SANTIAGO DEL RÍO",
+    "clave": 20
+  },
+  {
+    "id": 462,
+    "nombre": "SANTIAGO HUAJOLOTITLÁN",
+    "clave": 20
+  },
+  {
+    "id": 463,
+    "nombre": "SANTIAGO HUAUCLILLA",
+    "clave": 20
+  },
+  {
+    "id": 464,
+    "nombre": "SANTIAGO IHUITLÁN PLUMAS",
+    "clave": 20
+  },
+  {
+    "id": 465,
+    "nombre": "SANTIAGO IXCUINTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 466,
+    "nombre": "SANTIAGO IXTAYUTLA",
+    "clave": 20
+  },
+  {
+    "id": 467,
+    "nombre": "SANTIAGO JAMILTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 468,
+    "nombre": "SANTIAGO JOCOTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 469,
+    "nombre": "SANTIAGO JUXTLAHUACA",
+    "clave": 20
+  },
+  {
+    "id": 470,
+    "nombre": "SANTIAGO LACHIGUIRI",
+    "clave": 20
+  },
+  {
+    "id": 471,
+    "nombre": "SANTIAGO LALOPA",
+    "clave": 20
+  },
+  {
+    "id": 472,
+    "nombre": "SANTIAGO LAOLLAGA",
+    "clave": 20
+  },
+  {
+    "id": 473,
+    "nombre": "SANTIAGO LAXOPA",
+    "clave": 20
+  },
+  {
+    "id": 474,
+    "nombre": "SANTIAGO LLANO GRANDE",
+    "clave": 20
+  },
+  {
+    "id": 475,
+    "nombre": "SANTIAGO MATATLÁN",
+    "clave": 20
+  },
+  {
+    "id": 476,
+    "nombre": "SANTIAGO MILTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 477,
+    "nombre": "SANTIAGO MINAS",
+    "clave": 20
+  },
+  {
+    "id": 478,
+    "nombre": "SANTIAGO NACALTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 479,
+    "nombre": "SANTIAGO NEJAPILLA",
+    "clave": 20
+  },
+  {
+    "id": 480,
+    "nombre": "SANTIAGO NUNDICHE",
+    "clave": 20
+  },
+  {
+    "id": 481,
+    "nombre": "SANTIAGO NUYOÓ",
+    "clave": 20
+  },
+  {
+    "id": 482,
+    "nombre": "SANTIAGO PINOTEPA NACIONAL",
+    "clave": 20
+  },
+  {
+    "id": 483,
+    "nombre": "SANTIAGO SUCHILQUITONGO",
+    "clave": 20
+  },
+  {
+    "id": 484,
+    "nombre": "SANTIAGO TAMAZOLA",
+    "clave": 20
+  },
+  {
+    "id": 485,
+    "nombre": "SANTIAGO TAPEXTLA",
+    "clave": 20
+  },
+  {
+    "id": 486,
+    "nombre": "VILLA TEJÚPAM DE LA UNIÓN",
+    "clave": 20
+  },
+  {
+    "id": 487,
+    "nombre": "SANTIAGO TENANGO",
+    "clave": 20
+  },
+  {
+    "id": 488,
+    "nombre": "SANTIAGO TEPETLAPA",
+    "clave": 20
+  },
+  {
+    "id": 489,
+    "nombre": "SANTIAGO TETEPEC",
+    "clave": 20
+  },
+  {
+    "id": 490,
+    "nombre": "SANTIAGO TEXCALCINGO",
+    "clave": 20
+  },
+  {
+    "id": 491,
+    "nombre": "SANTIAGO TEXTITLÁN",
+    "clave": 20
+  },
+  {
+    "id": 492,
+    "nombre": "SANTIAGO TILANTONGO",
+    "clave": 20
+  },
+  {
+    "id": 493,
+    "nombre": "SANTIAGO TILLO",
+    "clave": 20
+  },
+  {
+    "id": 494,
+    "nombre": "SANTIAGO TLAZOYALTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 495,
+    "nombre": "SANTIAGO XANICA",
+    "clave": 20
+  },
+  {
+    "id": 496,
+    "nombre": "SANTIAGO XIACUÍ",
+    "clave": 20
+  },
+  {
+    "id": 497,
+    "nombre": "SANTIAGO YAITEPEC",
+    "clave": 20
+  },
+  {
+    "id": 498,
+    "nombre": "SANTIAGO YAVEO",
+    "clave": 20
+  },
+  {
+    "id": 499,
+    "nombre": "SANTIAGO YOLOMÉCATL",
+    "clave": 20
+  },
+  {
+    "id": 500,
+    "nombre": "SANTIAGO YOSONDÚA",
+    "clave": 20
+  },
+  {
+    "id": 501,
+    "nombre": "SANTIAGO YUCUYACHI",
+    "clave": 20
+  },
+  {
+    "id": 502,
+    "nombre": "SANTIAGO ZACATEPEC",
+    "clave": 20
+  },
+  {
+    "id": 503,
+    "nombre": "SANTIAGO ZOOCHILA",
+    "clave": 20
+  },
+  {
+    "id": 504,
+    "nombre": "NUEVO ZOQUIÁPAM",
+    "clave": 20
+  },
+  {
+    "id": 505,
+    "nombre": "SANTO DOMINGO INGENIO",
+    "clave": 20
+  },
+  {
+    "id": 506,
+    "nombre": "SANTO DOMINGO ALBARRADAS",
+    "clave": 20
+  },
+  {
+    "id": 507,
+    "nombre": "SANTO DOMINGO ARMENTA",
+    "clave": 20
+  },
+  {
+    "id": 508,
+    "nombre": "SANTO DOMINGO CHIHUITÁN",
+    "clave": 20
+  },
+  {
+    "id": 509,
+    "nombre": "SANTO DOMINGO DE MORELOS",
+    "clave": 20
+  },
+  {
+    "id": 510,
+    "nombre": "SANTO DOMINGO IXCATLÁN",
+    "clave": 20
+  },
+  {
+    "id": 511,
+    "nombre": "SANTO DOMINGO NUXAÁ",
+    "clave": 20
+  },
+  {
+    "id": 512,
+    "nombre": "SANTO DOMINGO OZOLOTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 513,
+    "nombre": "SANTO DOMINGO PETAPA",
+    "clave": 20
+  },
+  {
+    "id": 514,
+    "nombre": "SANTO DOMINGO ROAYAGA",
+    "clave": 20
+  },
+  {
+    "id": 515,
+    "nombre": "SANTO DOMINGO TEHUANTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 516,
+    "nombre": "SANTO DOMINGO TEOJOMULCO",
+    "clave": 20
+  },
+  {
+    "id": 517,
+    "nombre": "SANTO DOMINGO TEPUXTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 518,
+    "nombre": "SANTO DOMINGO TLATAYÁPAM",
+    "clave": 20
+  },
+  {
+    "id": 519,
+    "nombre": "SANTO DOMINGO TOMALTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 520,
+    "nombre": "SANTO DOMINGO TONALÁ",
+    "clave": 20
+  },
+  {
+    "id": 521,
+    "nombre": "SANTO DOMINGO TONALTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 522,
+    "nombre": "SANTO DOMINGO XAGACÍA",
+    "clave": 20
+  },
+  {
+    "id": 523,
+    "nombre": "SANTO DOMINGO YANHUITLÁN",
+    "clave": 20
+  },
+  {
+    "id": 524,
+    "nombre": "SANTO DOMINGO YODOHINO",
+    "clave": 20
+  },
+  {
+    "id": 525,
+    "nombre": "SANTO DOMINGO ZANATEPEC",
+    "clave": 20
+  },
+  {
+    "id": 526,
+    "nombre": "SANTOS REYES NOPALA",
+    "clave": 20
+  },
+  {
+    "id": 527,
+    "nombre": "SANTOS REYES PÁPALO",
+    "clave": 20
+  },
+  {
+    "id": 528,
+    "nombre": "SANTOS REYES TEPEJILLO",
+    "clave": 20
+  },
+  {
+    "id": 529,
+    "nombre": "SANTOS REYES YUCUNÁ",
+    "clave": 20
+  },
+  {
+    "id": 530,
+    "nombre": "SANTO TOMÁS JALIEZA",
+    "clave": 20
+  },
+  {
+    "id": 531,
+    "nombre": "SANTO TOMÁS MAZALTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 532,
+    "nombre": "SANTO TOMÁS OCOTEPEC",
+    "clave": 20
+  },
+  {
+    "id": 533,
+    "nombre": "SANTO TOMÁS TAMAZULAPAN",
+    "clave": 20
+  },
+  {
+    "id": 534,
+    "nombre": "SAN VICENTE COATLÁN",
+    "clave": 20
+  },
+  {
+    "id": 535,
+    "nombre": "SAN VICENTE LACHIXÍO",
+    "clave": 20
+  },
+  {
+    "id": 536,
+    "nombre": "SAN VICENTE NUÑÚ",
+    "clave": 20
+  },
+  {
+    "id": 537,
+    "nombre": "SILACAYOÁPAM",
+    "clave": 20
+  },
+  {
+    "id": 538,
+    "nombre": "SITIO DE XITLAPEHUA",
+    "clave": 20
+  },
+  {
+    "id": 539,
+    "nombre": "SOLEDAD ETLA",
+    "clave": 20
+  },
+  {
+    "id": 540,
+    "nombre": "VILLA DE TAMAZULÁPAM DEL PROGRESO",
+    "clave": 20
+  },
+  {
+    "id": 541,
+    "nombre": "TANETZE DE ZARAGOZA",
+    "clave": 20
+  },
+  {
+    "id": 542,
+    "nombre": "TANICHE",
+    "clave": 20
+  },
+  {
+    "id": 543,
+    "nombre": "TATALTEPEC DE VALDÉS",
+    "clave": 20
+  },
+  {
+    "id": 544,
+    "nombre": "TEOCOCUILCO DE MARCOS PÉREZ",
+    "clave": 20
+  },
+  {
+    "id": 545,
+    "nombre": "TEOTITLÁN DE FLORES MAGÓN",
+    "clave": 20
+  },
+  {
+    "id": 546,
+    "nombre": "TEOTITLÁN DEL VALLE",
+    "clave": 20
+  },
+  {
+    "id": 547,
+    "nombre": "TEOTONGO",
+    "clave": 20
+  },
+  {
+    "id": 548,
+    "nombre": "TEPELMEME VILLA DE MORELOS",
+    "clave": 20
+  },
+  {
+    "id": 549,
+    "nombre": "HEROICA VILLA TEZOATLÁN DE SEGURA Y LUNA, CUNA DE LA INDEPENDENCIA DE OAXACA",
+    "clave": 20
+  },
+  {
+    "id": 550,
+    "nombre": "SAN JERÓNIMO TLACOCHAHUAYA",
+    "clave": 20
+  },
+  {
+    "id": 551,
+    "nombre": "TLACOLULA DE MATAMOROS",
+    "clave": 20
+  },
+  {
+    "id": 552,
+    "nombre": "TLACOTEPEC PLUMAS",
+    "clave": 20
+  },
+  {
+    "id": 553,
+    "nombre": "TLALIXTAC DE CABRERA",
+    "clave": 20
+  },
+  {
+    "id": 554,
+    "nombre": "TOTONTEPEC VILLA DE MORELOS",
+    "clave": 20
+  },
+  {
+    "id": 555,
+    "nombre": "TRINIDAD ZAACHILA",
+    "clave": 20
+  },
+  {
+    "id": 556,
+    "nombre": "LA TRINIDAD VISTA HERMOSA",
+    "clave": 20
+  },
+  {
+    "id": 557,
+    "nombre": "UNIÓN HIDALGO",
+    "clave": 20
+  },
+  {
+    "id": 558,
+    "nombre": "VALERIO TRUJANO",
+    "clave": 20
+  },
+  {
+    "id": 559,
+    "nombre": "SAN JUAN BAUTISTA VALLE NACIONAL",
+    "clave": 20
+  },
+  {
+    "id": 560,
+    "nombre": "VILLA DÍAZ ORDAZ",
+    "clave": 20
+  },
+  {
+    "id": 561,
+    "nombre": "YAXE",
+    "clave": 20
+  },
+  {
+    "id": 562,
+    "nombre": "MAGDALENA YODOCONO DE PORFIRIO DÍAZ",
+    "clave": 20
+  },
+  {
+    "id": 563,
+    "nombre": "YOGANA",
+    "clave": 20
+  },
+  {
+    "id": 564,
+    "nombre": "YUTANDUCHI DE GUERRERO",
+    "clave": 20
+  },
+  {
+    "id": 565,
+    "nombre": "VILLA DE ZAACHILA",
+    "clave": 20
+  },
+  {
+    "id": 566,
+    "nombre": "SAN MATEO YUCUTINDOO",
+    "clave": 20
+  },
+  {
+    "id": 567,
+    "nombre": "ZAPOTITLÁN LAGUNAS",
+    "clave": 20
+  },
+  {
+    "id": 568,
+    "nombre": "ZAPOTITLÁN PALMAS",
+    "clave": 20
+  },
+  {
+    "id": 569,
+    "nombre": "SANTA INÉS DE ZARAGOZA",
+    "clave": 20
+  },
+  {
+    "id": 570,
+    "nombre": "ZIMATLÁN DE ÁLVAREZ",
+    "clave": 20
+  },
+  {
+    "id": 999,
+    "nombre": "NO ESPECIFICADO",
+    "clave": 20
+  },
+  {
+    "id": "001",
+    "nombre": "ACAJETE",
+    "clave": 21
+  },
+  {
+    "id": "002",
+    "nombre": "ACATENO",
+    "clave": 21
+  },
+  {
+    "id": "003",
+    "nombre": "ACATLÁN",
+    "clave": 21
+  },
+  {
+    "id": "004",
+    "nombre": "ACATZINGO",
+    "clave": 21
+  },
+  {
+    "id": "005",
+    "nombre": "ACTEOPAN",
+    "clave": 21
+  },
+  {
+    "id": "006",
+    "nombre": "AHUACATLÁN",
+    "clave": 21
+  },
+  {
+    "id": "007",
+    "nombre": "AHUATLÁN",
+    "clave": 21
+  },
+  {
+    "id": "008",
+    "nombre": "AHUAZOTEPEC",
+    "clave": 21
+  },
+  {
+    "id": "009",
+    "nombre": "AHUEHUETITLA",
+    "clave": 21
+  },
+  {
+    "id": "010",
+    "nombre": "AJALPAN",
+    "clave": 21
+  },
+  {
+    "id": "011",
+    "nombre": "ALBINO ZERTUCHE",
+    "clave": 21
+  },
+  {
+    "id": "012",
+    "nombre": "ALJOJUCA",
+    "clave": 21
+  },
+  {
+    "id": "013",
+    "nombre": "ALTEPEXI",
+    "clave": 21
+  },
+  {
+    "id": "014",
+    "nombre": "AMIXTLÁN",
+    "clave": 21
+  },
+  {
+    "id": "015",
+    "nombre": "AMOZOC",
+    "clave": 21
+  },
+  {
+    "id": "016",
+    "nombre": "AQUIXTLA",
+    "clave": 21
+  },
+  {
+    "id": "017",
+    "nombre": "ATEMPAN",
+    "clave": 21
+  },
+  {
+    "id": "018",
+    "nombre": "ATEXCAL",
+    "clave": 21
+  },
+  {
+    "id": "019",
+    "nombre": "ATLIXCO",
+    "clave": 21
+  },
+  {
+    "id": "020",
+    "nombre": "ATOYATEMPAN",
+    "clave": 21
+  },
+  {
+    "id": "021",
+    "nombre": "ATZALA",
+    "clave": 21
+  },
+  {
+    "id": "022",
+    "nombre": "ATZITZIHUACÁN",
+    "clave": 21
+  },
+  {
+    "id": "023",
+    "nombre": "ATZITZINTLA",
+    "clave": 21
+  },
+  {
+    "id": "024",
+    "nombre": "AXUTLA",
+    "clave": 21
+  },
+  {
+    "id": "025",
+    "nombre": "AYOTOXCO DE GUERRERO",
+    "clave": 21
+  },
+  {
+    "id": "026",
+    "nombre": "CALPAN",
+    "clave": 21
+  },
+  {
+    "id": "027",
+    "nombre": "CALTEPEC",
+    "clave": 21
+  },
+  {
+    "id": "028",
+    "nombre": "CAMOCUAUTLA",
+    "clave": 21
+  },
+  {
+    "id": "029",
+    "nombre": "CAXHUACAN",
+    "clave": 21
+  },
+  {
+    "id": "030",
+    "nombre": "COATEPEC",
+    "clave": 21
+  },
+  {
+    "id": "031",
+    "nombre": "COATZINGO",
+    "clave": 21
+  },
+  {
+    "id": "032",
+    "nombre": "COHETZALA",
+    "clave": 21
+  },
+  {
+    "id": "033",
+    "nombre": "COHUECAN",
+    "clave": 21
+  },
+  {
+    "id": "034",
+    "nombre": "CORONANGO",
+    "clave": 21
+  },
+  {
+    "id": "035",
+    "nombre": "COXCATLÁN",
+    "clave": 21
+  },
+  {
+    "id": "036",
+    "nombre": "COYOMEAPAN",
+    "clave": 21
+  },
+  {
+    "id": "037",
+    "nombre": "COYOTEPEC",
+    "clave": 21
+  },
+  {
+    "id": "038",
+    "nombre": "CUAPIAXTLA DE MADERO",
+    "clave": 21
+  },
+  {
+    "id": "039",
+    "nombre": "CUAUTEMPAN",
+    "clave": 21
+  },
+  {
+    "id": "040",
+    "nombre": "CUAUTINCHÁN",
+    "clave": 21
+  },
+  {
+    "id": "041",
+    "nombre": "CUAUTLANCINGO",
+    "clave": 21
+  },
+  {
+    "id": "042",
+    "nombre": "CUAYUCA DE ANDRADE",
+    "clave": 21
+  },
+  {
+    "id": "043",
+    "nombre": "CUETZALAN DEL PROGRESO",
+    "clave": 21
+  },
+  {
+    "id": "044",
+    "nombre": "CUYOACO",
+    "clave": 21
+  },
+  {
+    "id": "045",
+    "nombre": "CHALCHICOMULA DE SESMA",
+    "clave": 21
+  },
+  {
+    "id": "046",
+    "nombre": "CHAPULCO",
+    "clave": 21
+  },
+  {
+    "id": "047",
+    "nombre": "CHIAUTLA",
+    "clave": 21
+  },
+  {
+    "id": "048",
+    "nombre": "CHIAUTZINGO",
+    "clave": 21
+  },
+  {
+    "id": "049",
+    "nombre": "CHICONCUAUTLA",
+    "clave": 21
+  },
+  {
+    "id": "050",
+    "nombre": "CHICHIQUILA",
+    "clave": 21
+  },
+  {
+    "id": "051",
+    "nombre": "CHIETLA",
+    "clave": 21
+  },
+  {
+    "id": "052",
+    "nombre": "CHIGMECATITLÁN",
+    "clave": 21
+  },
+  {
+    "id": "053",
+    "nombre": "CHIGNAHUAPAN",
+    "clave": 21
+  },
+  {
+    "id": "054",
+    "nombre": "CHIGNAUTLA",
+    "clave": 21
+  },
+  {
+    "id": "055",
+    "nombre": "CHILA",
+    "clave": 21
+  },
+  {
+    "id": "056",
+    "nombre": "CHILA DE LA SAL",
+    "clave": 21
+  },
+  {
+    "id": "057",
+    "nombre": "HONEY",
+    "clave": 21
+  },
+  {
+    "id": "058",
+    "nombre": "CHILCHOTLA",
+    "clave": 21
+  },
+  {
+    "id": "059",
+    "nombre": "CHINANTLA",
+    "clave": 21
+  },
+  {
+    "id": "060",
+    "nombre": "DOMINGO ARENAS",
+    "clave": 21
+  },
+  {
+    "id": "061",
+    "nombre": "ELOXOCHITLÁN",
+    "clave": 21
+  },
+  {
+    "id": "062",
+    "nombre": "EPATLÁN",
+    "clave": 21
+  },
+  {
+    "id": "063",
+    "nombre": "ESPERANZA",
+    "clave": 21
+  },
+  {
+    "id": "064",
+    "nombre": "FRANCISCO Z. MENA",
+    "clave": 21
+  },
+  {
+    "id": "065",
+    "nombre": "GENERAL FELIPE ÁNGELES",
+    "clave": 21
+  },
+  {
+    "id": "066",
+    "nombre": "GUADALUPE",
+    "clave": 21
+  },
+  {
+    "id": "067",
+    "nombre": "GUADALUPE VICTORIA",
+    "clave": 21
+  },
+  {
+    "id": "068",
+    "nombre": "HERMENEGILDO GALEANA",
+    "clave": 21
+  },
+  {
+    "id": "069",
+    "nombre": "HUAQUECHULA",
+    "clave": 21
+  },
+  {
+    "id": "070",
+    "nombre": "HUATLATLAUCA",
+    "clave": 21
+  },
+  {
+    "id": "071",
+    "nombre": "HUAUCHINANGO",
+    "clave": 21
+  },
+  {
+    "id": "072",
+    "nombre": "HUEHUETLA",
+    "clave": 21
+  },
+  {
+    "id": "073",
+    "nombre": "HUEHUETLÁN EL CHICO",
+    "clave": 21
+  },
+  {
+    "id": "074",
+    "nombre": "HUEJOTZINGO",
+    "clave": 21
+  },
+  {
+    "id": "075",
+    "nombre": "HUEYAPAN",
+    "clave": 21
+  },
+  {
+    "id": "076",
+    "nombre": "HUEYTAMALCO",
+    "clave": 21
+  },
+  {
+    "id": "077",
+    "nombre": "HUEYTLALPAN",
+    "clave": 21
+  },
+  {
+    "id": "078",
+    "nombre": "HUITZILAN DE SERDÁN",
+    "clave": 21
+  },
+  {
+    "id": "079",
+    "nombre": "HUITZILTEPEC",
+    "clave": 21
+  },
+  {
+    "id": "080",
+    "nombre": "ATLEQUIZAYAN",
+    "clave": 21
+  },
+  {
+    "id": "081",
+    "nombre": "IXCAMILPA DE GUERRERO",
+    "clave": 21
+  },
+  {
+    "id": "082",
+    "nombre": "IXCAQUIXTLA",
+    "clave": 21
+  },
+  {
+    "id": "083",
+    "nombre": "IXTACAMAXTITLÁN",
+    "clave": 21
+  },
+  {
+    "id": "084",
+    "nombre": "IXTEPEC",
+    "clave": 21
+  },
+  {
+    "id": "085",
+    "nombre": "IZÚCAR DE MATAMOROS",
+    "clave": 21
+  },
+  {
+    "id": "086",
+    "nombre": "JALPAN",
+    "clave": 21
+  },
+  {
+    "id": "087",
+    "nombre": "JOLALPAN",
+    "clave": 21
+  },
+  {
+    "id": "088",
+    "nombre": "JONOTLA",
+    "clave": 21
+  },
+  {
+    "id": "089",
+    "nombre": "JOPALA",
+    "clave": 21
+  },
+  {
+    "id": "090",
+    "nombre": "JUAN C. BONILLA",
+    "clave": 21
+  },
+  {
+    "id": "091",
+    "nombre": "JUAN GALINDO",
+    "clave": 21
+  },
+  {
+    "id": "092",
+    "nombre": "JUAN N. MÉNDEZ",
+    "clave": 21
+  },
+  {
+    "id": "093",
+    "nombre": "LAFRAGUA",
+    "clave": 21
+  },
+  {
+    "id": "094",
+    "nombre": "LIBRES",
+    "clave": 21
+  },
+  {
+    "id": "095",
+    "nombre": "LA MAGDALENA TLATLAUQUITEPEC",
+    "clave": 21
+  },
+  {
+    "id": "096",
+    "nombre": "MAZAPILTEPEC DE JUÁREZ",
+    "clave": 21
+  },
+  {
+    "id": "097",
+    "nombre": "MIXTLA",
+    "clave": 21
+  },
+  {
+    "id": "098",
+    "nombre": "MOLCAXAC",
+    "clave": 21
+  },
+  {
+    "id": "099",
+    "nombre": "CAÑADA MORELOS",
+    "clave": 21
+  },
+  {
+    "id": 100,
+    "nombre": "NAUPAN",
+    "clave": 21
+  },
+  {
+    "id": 101,
+    "nombre": "NAUZONTLA",
+    "clave": 21
+  },
+  {
+    "id": 102,
+    "nombre": "NEALTICAN",
+    "clave": 21
+  },
+  {
+    "id": 103,
+    "nombre": "NICOLÁS BRAVO",
+    "clave": 21
+  },
+  {
+    "id": 104,
+    "nombre": "NOPALUCAN",
+    "clave": 21
+  },
+  {
+    "id": 105,
+    "nombre": "OCOTEPEC",
+    "clave": 21
+  },
+  {
+    "id": 106,
+    "nombre": "OCOYUCAN",
+    "clave": 21
+  },
+  {
+    "id": 107,
+    "nombre": "OLINTLA",
+    "clave": 21
+  },
+  {
+    "id": 108,
+    "nombre": "ORIENTAL",
+    "clave": 21
+  },
+  {
+    "id": 109,
+    "nombre": "PAHUATLÁN",
+    "clave": 21
+  },
+  {
+    "id": 110,
+    "nombre": "PALMAR DE BRAVO",
+    "clave": 21
+  },
+  {
+    "id": 111,
+    "nombre": "PANTEPEC",
+    "clave": 21
+  },
+  {
+    "id": 112,
+    "nombre": "PETLALCINGO",
+    "clave": 21
+  },
+  {
+    "id": 113,
+    "nombre": "PIAXTLA",
+    "clave": 21
+  },
+  {
+    "id": 114,
+    "nombre": "PUEBLA",
+    "clave": 21
+  },
+  {
+    "id": 115,
+    "nombre": "QUECHOLAC",
+    "clave": 21
+  },
+  {
+    "id": 116,
+    "nombre": "QUIMIXTLÁN",
+    "clave": 21
+  },
+  {
+    "id": 117,
+    "nombre": "RAFAEL LARA GRAJALES",
+    "clave": 21
+  },
+  {
+    "id": 118,
+    "nombre": "LOS REYES DE JUÁREZ",
+    "clave": 21
+  },
+  {
+    "id": 119,
+    "nombre": "SAN ANDRÉS CHOLULA",
+    "clave": 21
+  },
+  {
+    "id": 120,
+    "nombre": "SAN ANTONIO CAÑADA",
+    "clave": 21
+  },
+  {
+    "id": 121,
+    "nombre": "SAN DIEGO LA MESA TOCHIMILTZINGO",
+    "clave": 21
+  },
+  {
+    "id": 122,
+    "nombre": "SAN FELIPE TEOTLALCINGO",
+    "clave": 21
+  },
+  {
+    "id": 123,
+    "nombre": "SAN FELIPE TEPATLÁN",
+    "clave": 21
+  },
+  {
+    "id": 124,
+    "nombre": "SAN GABRIEL CHILAC",
+    "clave": 21
+  },
+  {
+    "id": 125,
+    "nombre": "SAN GREGORIO ATZOMPA",
+    "clave": 21
+  },
+  {
+    "id": 126,
+    "nombre": "SAN JERÓNIMO TECUANIPAN",
+    "clave": 21
+  },
+  {
+    "id": 127,
+    "nombre": "SAN JERÓNIMO XAYACATLÁN",
+    "clave": 21
+  },
+  {
+    "id": 128,
+    "nombre": "SAN JOSÉ CHIAPA",
+    "clave": 21
+  },
+  {
+    "id": 129,
+    "nombre": "SAN JOSÉ MIAHUATLÁN",
+    "clave": 21
+  },
+  {
+    "id": 130,
+    "nombre": "SAN JUAN ATENCO",
+    "clave": 21
+  },
+  {
+    "id": 131,
+    "nombre": "SAN JUAN ATZOMPA",
+    "clave": 21
+  },
+  {
+    "id": 132,
+    "nombre": "SAN MARTÍN TEXMELUCAN",
+    "clave": 21
+  },
+  {
+    "id": 133,
+    "nombre": "SAN MARTÍN TOTOLTEPEC",
+    "clave": 21
+  },
+  {
+    "id": 134,
+    "nombre": "SAN MATÍAS TLALANCALECA",
+    "clave": 21
+  },
+  {
+    "id": 135,
+    "nombre": "SAN MIGUEL IXITLÁN",
+    "clave": 21
+  },
+  {
+    "id": 136,
+    "nombre": "SAN MIGUEL XOXTLA",
+    "clave": 21
+  },
+  {
+    "id": 137,
+    "nombre": "SAN NICOLÁS BUENOS AIRES",
+    "clave": 21
+  },
+  {
+    "id": 138,
+    "nombre": "SAN NICOLÁS DE LOS RANCHOS",
+    "clave": 21
+  },
+  {
+    "id": 139,
+    "nombre": "SAN PABLO ANICANO",
+    "clave": 21
+  },
+  {
+    "id": 140,
+    "nombre": "SAN PEDRO CHOLULA",
+    "clave": 21
+  },
+  {
+    "id": 141,
+    "nombre": "SAN PEDRO YELOIXTLAHUACA",
+    "clave": 21
+  },
+  {
+    "id": 142,
+    "nombre": "SAN SALVADOR EL SECO",
+    "clave": 21
+  },
+  {
+    "id": 143,
+    "nombre": "SAN SALVADOR EL VERDE",
+    "clave": 21
+  },
+  {
+    "id": 144,
+    "nombre": "SAN SALVADOR HUIXCOLOTLA",
+    "clave": 21
+  },
+  {
+    "id": 145,
+    "nombre": "SAN SEBASTIÁN TLACOTEPEC",
+    "clave": 21
+  },
+  {
+    "id": 146,
+    "nombre": "SANTA CATARINA TLALTEMPAN",
+    "clave": 21
+  },
+  {
+    "id": 147,
+    "nombre": "SANTA INÉS AHUATEMPAN",
+    "clave": 21
+  },
+  {
+    "id": 148,
+    "nombre": "SANTA ISABEL CHOLULA",
+    "clave": 21
+  },
+  {
+    "id": 149,
+    "nombre": "SANTIAGO MIAHUATLÁN",
+    "clave": 21
+  },
+  {
+    "id": 150,
+    "nombre": "HUEHUETLÁN EL GRANDE",
+    "clave": 21
+  },
+  {
+    "id": 151,
+    "nombre": "SANTO TOMÁS HUEYOTLIPAN",
+    "clave": 21
+  },
+  {
+    "id": 152,
+    "nombre": "SOLTEPEC",
+    "clave": 21
+  },
+  {
+    "id": 153,
+    "nombre": "TECALI DE HERRERA",
+    "clave": 21
+  },
+  {
+    "id": 154,
+    "nombre": "TECAMACHALCO",
+    "clave": 21
+  },
+  {
+    "id": 155,
+    "nombre": "TECOMATLÁN",
+    "clave": 21
+  },
+  {
+    "id": 156,
+    "nombre": "TEHUACÁN",
+    "clave": 21
+  },
+  {
+    "id": 157,
+    "nombre": "TEHUITZINGO",
+    "clave": 21
+  },
+  {
+    "id": 158,
+    "nombre": "TENAMPULCO",
+    "clave": 21
+  },
+  {
+    "id": 159,
+    "nombre": "TEOPANTLÁN",
+    "clave": 21
+  },
+  {
+    "id": 160,
+    "nombre": "TEOTLALCO",
+    "clave": 21
+  },
+  {
+    "id": 161,
+    "nombre": "TEPANCO DE LÓPEZ",
+    "clave": 21
+  },
+  {
+    "id": 162,
+    "nombre": "TEPANGO DE RODRÍGUEZ",
+    "clave": 21
+  },
+  {
+    "id": 163,
+    "nombre": "TEPATLAXCO DE HIDALGO",
+    "clave": 21
+  },
+  {
+    "id": 164,
+    "nombre": "TEPEACA",
+    "clave": 21
+  },
+  {
+    "id": 165,
+    "nombre": "TEPEMAXALCO",
+    "clave": 21
+  },
+  {
+    "id": 166,
+    "nombre": "TEPEOJUMA",
+    "clave": 21
+  },
+  {
+    "id": 167,
+    "nombre": "TEPETZINTLA",
+    "clave": 21
+  },
+  {
+    "id": 168,
+    "nombre": "TEPEXCO",
+    "clave": 21
+  },
+  {
+    "id": 169,
+    "nombre": "TEPEXI DE RODRÍGUEZ",
+    "clave": 21
+  },
+  {
+    "id": 170,
+    "nombre": "TEPEYAHUALCO",
+    "clave": 21
+  },
+  {
+    "id": 171,
+    "nombre": "TEPEYAHUALCO DE CUAUHTÉMOC",
+    "clave": 21
+  },
+  {
+    "id": 172,
+    "nombre": "TETELA DE OCAMPO",
+    "clave": 21
+  },
+  {
+    "id": 173,
+    "nombre": "TETELES DE AVILA CASTILLO",
+    "clave": 21
+  },
+  {
+    "id": 174,
+    "nombre": "TEZIUTLÁN",
+    "clave": 21
+  },
+  {
+    "id": 175,
+    "nombre": "TIANGUISMANALCO",
+    "clave": 21
+  },
+  {
+    "id": 176,
+    "nombre": "TILAPA",
+    "clave": 21
+  },
+  {
+    "id": 177,
+    "nombre": "TLACOTEPEC DE BENITO JUÁREZ",
+    "clave": 21
+  },
+  {
+    "id": 178,
+    "nombre": "TLACUILOTEPEC",
+    "clave": 21
+  },
+  {
+    "id": 179,
+    "nombre": "TLACHICHUCA",
+    "clave": 21
+  },
+  {
+    "id": 180,
+    "nombre": "TLAHUAPAN",
+    "clave": 21
+  },
+  {
+    "id": 181,
+    "nombre": "TLALTENANGO",
+    "clave": 21
+  },
+  {
+    "id": 182,
+    "nombre": "TLANEPANTLA",
+    "clave": 21
+  },
+  {
+    "id": 183,
+    "nombre": "TLAOLA",
+    "clave": 21
+  },
+  {
+    "id": 184,
+    "nombre": "TLAPACOYA",
+    "clave": 21
+  },
+  {
+    "id": 185,
+    "nombre": "TLAPANALÁ",
+    "clave": 21
+  },
+  {
+    "id": 186,
+    "nombre": "TLATLAUQUITEPEC",
+    "clave": 21
+  },
+  {
+    "id": 187,
+    "nombre": "TLAXCO",
+    "clave": 21
+  },
+  {
+    "id": 188,
+    "nombre": "TOCHIMILCO",
+    "clave": 21
+  },
+  {
+    "id": 189,
+    "nombre": "TOCHTEPEC",
+    "clave": 21
+  },
+  {
+    "id": 190,
+    "nombre": "TOTOLTEPEC DE GUERRERO",
+    "clave": 21
+  },
+  {
+    "id": 191,
+    "nombre": "TULCINGO",
+    "clave": 21
+  },
+  {
+    "id": 192,
+    "nombre": "TUZAMAPAN DE GALEANA",
+    "clave": 21
+  },
+  {
+    "id": 193,
+    "nombre": "TZICATLACOYAN",
+    "clave": 21
+  },
+  {
+    "id": 194,
+    "nombre": "VENUSTIANO CARRANZA",
+    "clave": 21
+  },
+  {
+    "id": 195,
+    "nombre": "VICENTE GUERRERO",
+    "clave": 21
+  },
+  {
+    "id": 196,
+    "nombre": "XAYACATLÁN DE BRAVO",
+    "clave": 21
+  },
+  {
+    "id": 197,
+    "nombre": "XICOTEPEC",
+    "clave": 21
+  },
+  {
+    "id": 198,
+    "nombre": "XICOTLÁN",
+    "clave": 21
+  },
+  {
+    "id": 199,
+    "nombre": "XIUTETELCO",
+    "clave": 21
+  },
+  {
+    "id": 200,
+    "nombre": "XOCHIAPULCO",
+    "clave": 21
+  },
+  {
+    "id": 201,
+    "nombre": "XOCHILTEPEC",
+    "clave": 21
+  },
+  {
+    "id": 202,
+    "nombre": "XOCHITLÁN DE VICENTE SUÁREZ",
+    "clave": 21
+  },
+  {
+    "id": 203,
+    "nombre": "XOCHITLÁN TODOS SANTOS",
+    "clave": 21
+  },
+  {
+    "id": 204,
+    "nombre": "YAONÁHUAC",
+    "clave": 21
+  },
+  {
+    "id": 205,
+    "nombre": "YEHUALTEPEC",
+    "clave": 21
+  },
+  {
+    "id": 206,
+    "nombre": "ZACAPALA",
+    "clave": 21
+  },
+  {
+    "id": 207,
+    "nombre": "ZACAPOAXTLA",
+    "clave": 21
+  },
+  {
+    "id": 208,
+    "nombre": "ZACATLÁN",
+    "clave": 21
+  },
+  {
+    "id": 209,
+    "nombre": "ZAPOTITLÁN",
+    "clave": 21
+  },
+  {
+    "id": 210,
+    "nombre": "ZAPOTITLÁN DE MÉNDEZ",
+    "clave": 21
+  },
+  {
+    "id": 211,
+    "nombre": "ZARAGOZA",
+    "clave": 21
+  },
+  {
+    "id": 212,
+    "nombre": "ZAUTLA",
+    "clave": 21
+  },
+  {
+    "id": 213,
+    "nombre": "ZIHUATEUTLA",
+    "clave": 21
+  },
+  {
+    "id": 214,
+    "nombre": "ZINACATEPEC",
+    "clave": 21
+  },
+  {
+    "id": 215,
+    "nombre": "ZONGOZOTLA",
+    "clave": 21
+  },
+  {
+    "id": 216,
+    "nombre": "ZOQUIAPAN",
+    "clave": 21
+  },
+  {
+    "id": 217,
+    "nombre": "ZOQUITLÁN",
+    "clave": 21
+  },
+  {
+    "id": 999,
+    "nombre": "NO ESPECIFICADO",
+    "clave": 21
+  },
+  {
+    "id": "001",
+    "nombre": "AMEALCO DE BONFIL",
+    "clave": 22
+  },
+  {
+    "id": "002",
+    "nombre": "PINAL DE AMOLES",
+    "clave": 22
+  },
+  {
+    "id": "003",
+    "nombre": "ARROYO SECO",
+    "clave": 22
+  },
+  {
+    "id": "004",
+    "nombre": "CADEREYTA DE MONTES",
+    "clave": 22
+  },
+  {
+    "id": "005",
+    "nombre": "COLÓN",
+    "clave": 22
+  },
+  {
+    "id": "006",
+    "nombre": "CORREGIDORA",
+    "clave": 22
+  },
+  {
+    "id": "007",
+    "nombre": "EZEQUIEL MONTES",
+    "clave": 22
+  },
+  {
+    "id": "008",
+    "nombre": "HUIMILPAN",
+    "clave": 22
+  },
+  {
+    "id": "009",
+    "nombre": "JALPAN DE SERRA",
+    "clave": 22
+  },
+  {
+    "id": "010",
+    "nombre": "LANDA DE MATAMOROS",
+    "clave": 22
+  },
+  {
+    "id": "011",
+    "nombre": "EL MARQUÉS",
+    "clave": 22
+  },
+  {
+    "id": "012",
+    "nombre": "PEDRO ESCOBEDO",
+    "clave": 22
+  },
+  {
+    "id": "013",
+    "nombre": "PEÑAMILLER",
+    "clave": 22
+  },
+  {
+    "id": "014",
+    "nombre": "QUERÉTARO",
+    "clave": 22
+  },
+  {
+    "id": "015",
+    "nombre": "SAN JOAQUÍN",
+    "clave": 22
+  },
+  {
+    "id": "016",
+    "nombre": "SAN JUAN DEL RÍO",
+    "clave": 22
+  },
+  {
+    "id": "017",
+    "nombre": "TEQUISQUIAPAN",
+    "clave": 22
+  },
+  {
+    "id": "018",
+    "nombre": "TOLIMÁN",
+    "clave": 22
+  },
+  {
+    "id": 999,
+    "nombre": "NO ESPECIFICADO",
+    "clave": 22
+  },
+  {
+    "id": "001",
+    "nombre": "COZUMEL",
+    "clave": 23
+  },
+  {
+    "id": "002",
+    "nombre": "FELIPE CARRILLO PUERTO",
+    "clave": 23
+  },
+  {
+    "id": "003",
+    "nombre": "ISLA MUJERES",
+    "clave": 23
+  },
+  {
+    "id": "004",
+    "nombre": "OTHÓN P. BLANCO",
+    "clave": 23
+  },
+  {
+    "id": "005",
+    "nombre": "BENITO JUÁREZ",
+    "clave": 23
+  },
+  {
+    "id": "006",
+    "nombre": "JOSÉ MARÍA MORELOS",
+    "clave": 23
+  },
+  {
+    "id": "007",
+    "nombre": "LÁZARO CÁRDENAS",
+    "clave": 23
+  },
+  {
+    "id": "008",
+    "nombre": "SOLIDARIDAD",
+    "clave": 23
+  },
+  {
+    "id": "009",
+    "nombre": "TULUM",
+    "clave": 23
+  },
+  {
+    "id": "010",
+    "nombre": "BACALAR",
+    "clave": 23
+  },
+  {
+    "id": "011",
+    "nombre": "PUERTO MORELOS",
+    "clave": 23
+  },
+  {
+    "id": 999,
+    "nombre": "NO ESPECIFICADO",
+    "clave": 23
+  },
+  {
+    "id": "001",
+    "nombre": "AHUALULCO",
+    "clave": 24
+  },
+  {
+    "id": "002",
+    "nombre": "ALAQUINES",
+    "clave": 24
+  },
+  {
+    "id": "003",
+    "nombre": "AQUISMÓN",
+    "clave": 24
+  },
+  {
+    "id": "004",
+    "nombre": "ARMADILLO DE LOS INFANTE",
+    "clave": 24
+  },
+  {
+    "id": "005",
+    "nombre": "CÁRDENAS",
+    "clave": 24
+  },
+  {
+    "id": "006",
+    "nombre": "CATORCE",
+    "clave": 24
+  },
+  {
+    "id": "007",
+    "nombre": "CEDRAL",
+    "clave": 24
+  },
+  {
+    "id": "008",
+    "nombre": "CERRITOS",
+    "clave": 24
+  },
+  {
+    "id": "009",
+    "nombre": "CERRO DE SAN PEDRO",
+    "clave": 24
+  },
+  {
+    "id": "010",
+    "nombre": "CIUDAD DEL MAÍZ",
+    "clave": 24
+  },
+  {
+    "id": "011",
+    "nombre": "CIUDAD FERNÁNDEZ",
+    "clave": 24
+  },
+  {
+    "id": "012",
+    "nombre": "TANCANHUITZ",
+    "clave": 24
+  },
+  {
+    "id": "013",
+    "nombre": "CIUDAD VALLES",
+    "clave": 24
+  },
+  {
+    "id": "014",
+    "nombre": "COXCATLÁN",
+    "clave": 24
+  },
+  {
+    "id": "015",
+    "nombre": "CHARCAS",
+    "clave": 24
+  },
+  {
+    "id": "016",
+    "nombre": "EBANO",
+    "clave": 24
+  },
+  {
+    "id": "017",
+    "nombre": "GUADALCÁZAR",
+    "clave": 24
+  },
+  {
+    "id": "018",
+    "nombre": "HUEHUETLÁN",
+    "clave": 24
+  },
+  {
+    "id": "019",
+    "nombre": "LAGUNILLAS",
+    "clave": 24
+  },
+  {
+    "id": "020",
+    "nombre": "MATEHUALA",
+    "clave": 24
+  },
+  {
+    "id": "021",
+    "nombre": "MEXQUITIC DE CARMONA",
+    "clave": 24
+  },
+  {
+    "id": "022",
+    "nombre": "MOCTEZUMA",
+    "clave": 24
+  },
+  {
+    "id": "023",
+    "nombre": "RAYÓN",
+    "clave": 24
+  },
+  {
+    "id": "024",
+    "nombre": "RIOVERDE",
+    "clave": 24
+  },
+  {
+    "id": "025",
+    "nombre": "SALINAS",
+    "clave": 24
+  },
+  {
+    "id": "026",
+    "nombre": "SAN ANTONIO",
+    "clave": 24
+  },
+  {
+    "id": "027",
+    "nombre": "SAN CIRO DE ACOSTA",
+    "clave": 24
+  },
+  {
+    "id": "028",
+    "nombre": "SAN LUIS POTOSÍ",
+    "clave": 24
+  },
+  {
+    "id": "029",
+    "nombre": "SAN MARTÍN CHALCHICUAUTLA",
+    "clave": 24
+  },
+  {
+    "id": "030",
+    "nombre": "SAN NICOLÁS TOLENTINO",
+    "clave": 24
+  },
+  {
+    "id": "031",
+    "nombre": "SANTA CATARINA",
+    "clave": 24
+  },
+  {
+    "id": "032",
+    "nombre": "SANTA MARÍA DEL RÍO",
+    "clave": 24
+  },
+  {
+    "id": "033",
+    "nombre": "SANTO DOMINGO",
+    "clave": 24
+  },
+  {
+    "id": "034",
+    "nombre": "SAN VICENTE TANCUAYALAB",
+    "clave": 24
+  },
+  {
+    "id": "035",
+    "nombre": "SOLEDAD DE GRACIANO SÁNCHEZ",
+    "clave": 24
+  },
+  {
+    "id": "036",
+    "nombre": "TAMASOPO",
+    "clave": 24
+  },
+  {
+    "id": "037",
+    "nombre": "TAMAZUNCHALE",
+    "clave": 24
+  },
+  {
+    "id": "038",
+    "nombre": "TAMPACÁN",
+    "clave": 24
+  },
+  {
+    "id": "039",
+    "nombre": "TAMPAMOLÓN CORONA",
+    "clave": 24
+  },
+  {
+    "id": "040",
+    "nombre": "TAMUÍN",
+    "clave": 24
+  },
+  {
+    "id": "041",
+    "nombre": "TANLAJÁS",
+    "clave": 24
+  },
+  {
+    "id": "042",
+    "nombre": "TANQUIÁN DE ESCOBEDO",
+    "clave": 24
+  },
+  {
+    "id": "043",
+    "nombre": "TIERRA NUEVA",
+    "clave": 24
+  },
+  {
+    "id": "044",
+    "nombre": "VANEGAS",
+    "clave": 24
+  },
+  {
+    "id": "045",
+    "nombre": "VENADO",
+    "clave": 24
+  },
+  {
+    "id": "046",
+    "nombre": "VILLA DE ARRIAGA",
+    "clave": 24
+  },
+  {
+    "id": "047",
+    "nombre": "VILLA DE GUADALUPE",
+    "clave": 24
+  },
+  {
+    "id": "048",
+    "nombre": "VILLA DE LA PAZ",
+    "clave": 24
+  },
+  {
+    "id": "049",
+    "nombre": "VILLA DE RAMOS",
+    "clave": 24
+  },
+  {
+    "id": "050",
+    "nombre": "VILLA DE REYES",
+    "clave": 24
+  },
+  {
+    "id": "051",
+    "nombre": "VILLA HIDALGO",
+    "clave": 24
+  },
+  {
+    "id": "052",
+    "nombre": "VILLA JUÁREZ",
+    "clave": 24
+  },
+  {
+    "id": "053",
+    "nombre": "AXTLA DE TERRAZAS",
+    "clave": 24
+  },
+  {
+    "id": "054",
+    "nombre": "XILITLA",
+    "clave": 24
+  },
+  {
+    "id": "055",
+    "nombre": "ZARAGOZA",
+    "clave": 24
+  },
+  {
+    "id": "056",
+    "nombre": "VILLA DE ARISTA",
+    "clave": 24
+  },
+  {
+    "id": "057",
+    "nombre": "MATLAPA",
+    "clave": 24
+  },
+  {
+    "id": "058",
+    "nombre": "EL NARANJO",
+    "clave": 24
+  },
+  {
+    "id": 999,
+    "nombre": "NO ESPECIFICADO",
+    "clave": 24
+  },
+  {
+    "id": "001",
+    "nombre": "AHOME",
+    "clave": 25
+  },
+  {
+    "id": "002",
+    "nombre": "ANGOSTURA",
+    "clave": 25
+  },
+  {
+    "id": "003",
+    "nombre": "BADIRAGUATO",
+    "clave": 25
+  },
+  {
+    "id": "004",
+    "nombre": "CONCORDIA",
+    "clave": 25
+  },
+  {
+    "id": "005",
+    "nombre": "COSALÁ",
+    "clave": 25
+  },
+  {
+    "id": "006",
+    "nombre": "CULIACÁN",
+    "clave": 25
+  },
+  {
+    "id": "007",
+    "nombre": "CHOIX",
+    "clave": 25
+  },
+  {
+    "id": "008",
+    "nombre": "ELOTA",
+    "clave": 25
+  },
+  {
+    "id": "009",
+    "nombre": "ESCUINAPA",
+    "clave": 25
+  },
+  {
+    "id": "010",
+    "nombre": "EL FUERTE",
+    "clave": 25
+  },
+  {
+    "id": "011",
+    "nombre": "GUASAVE",
+    "clave": 25
+  },
+  {
+    "id": "012",
+    "nombre": "MAZATLÁN",
+    "clave": 25
+  },
+  {
+    "id": "013",
+    "nombre": "MOCORITO",
+    "clave": 25
+  },
+  {
+    "id": "014",
+    "nombre": "ROSARIO",
+    "clave": 25
+  },
+  {
+    "id": "015",
+    "nombre": "SALVADOR ALVARADO",
+    "clave": 25
+  },
+  {
+    "id": "016",
+    "nombre": "SAN IGNACIO",
+    "clave": 25
+  },
+  {
+    "id": "017",
+    "nombre": "SINALOA",
+    "clave": 25
+  },
+  {
+    "id": "018",
+    "nombre": "NAVOLATO",
+    "clave": 25
+  },
+  {
+    "id": 999,
+    "nombre": "NO ESPECIFICADO",
+    "clave": 25
+  },
+  {
+    "id": "001",
+    "nombre": "ACONCHI",
+    "clave": 26
+  },
+  {
+    "id": "002",
+    "nombre": "AGUA PRIETA",
+    "clave": 26
+  },
+  {
+    "id": "003",
+    "nombre": "ALAMOS",
+    "clave": 26
+  },
+  {
+    "id": "004",
+    "nombre": "ALTAR",
+    "clave": 26
+  },
+  {
+    "id": "005",
+    "nombre": "ARIVECHI",
+    "clave": 26
+  },
+  {
+    "id": "006",
+    "nombre": "ARIZPE",
+    "clave": 26
+  },
+  {
+    "id": "007",
+    "nombre": "ATIL",
+    "clave": 26
+  },
+  {
+    "id": "008",
+    "nombre": "BACADÉHUACHI",
+    "clave": 26
+  },
+  {
+    "id": "009",
+    "nombre": "BACANORA",
+    "clave": 26
+  },
+  {
+    "id": "010",
+    "nombre": "BACERAC",
+    "clave": 26
+  },
+  {
+    "id": "011",
+    "nombre": "BACOACHI",
+    "clave": 26
+  },
+  {
+    "id": "012",
+    "nombre": "BÁCUM",
+    "clave": 26
+  },
+  {
+    "id": "013",
+    "nombre": "BANÁMICHI",
+    "clave": 26
+  },
+  {
+    "id": "014",
+    "nombre": "BAVIÁCORA",
+    "clave": 26
+  },
+  {
+    "id": "015",
+    "nombre": "BAVISPE",
+    "clave": 26
+  },
+  {
+    "id": "016",
+    "nombre": "BENJAMÍN HILL",
+    "clave": 26
+  },
+  {
+    "id": "017",
+    "nombre": "CABORCA",
+    "clave": 26
+  },
+  {
+    "id": "018",
+    "nombre": "CAJEME",
+    "clave": 26
+  },
+  {
+    "id": "019",
+    "nombre": "CANANEA",
+    "clave": 26
+  },
+  {
+    "id": "020",
+    "nombre": "CARBÓ",
+    "clave": 26
+  },
+  {
+    "id": "021",
+    "nombre": "LA COLORADA",
+    "clave": 26
+  },
+  {
+    "id": "022",
+    "nombre": "CUCURPE",
+    "clave": 26
+  },
+  {
+    "id": "023",
+    "nombre": "CUMPAS",
+    "clave": 26
+  },
+  {
+    "id": "024",
+    "nombre": "DIVISADEROS",
+    "clave": 26
+  },
+  {
+    "id": "025",
+    "nombre": "EMPALME",
+    "clave": 26
+  },
+  {
+    "id": "026",
+    "nombre": "ETCHOJOA",
+    "clave": 26
+  },
+  {
+    "id": "027",
+    "nombre": "FRONTERAS",
+    "clave": 26
+  },
+  {
+    "id": "028",
+    "nombre": "GRANADOS",
+    "clave": 26
+  },
+  {
+    "id": "029",
+    "nombre": "GUAYMAS",
+    "clave": 26
+  },
+  {
+    "id": "030",
+    "nombre": "HERMOSILLO",
+    "clave": 26
+  },
+  {
+    "id": "031",
+    "nombre": "HUACHINERA",
+    "clave": 26
+  },
+  {
+    "id": "032",
+    "nombre": "HUÁSABAS",
+    "clave": 26
+  },
+  {
+    "id": "033",
+    "nombre": "HUATABAMPO",
+    "clave": 26
+  },
+  {
+    "id": "034",
+    "nombre": "HUÉPAC",
+    "clave": 26
+  },
+  {
+    "id": "035",
+    "nombre": "IMURIS",
+    "clave": 26
+  },
+  {
+    "id": "036",
+    "nombre": "MAGDALENA",
+    "clave": 26
+  },
+  {
+    "id": "037",
+    "nombre": "MAZATÁN",
+    "clave": 26
+  },
+  {
+    "id": "038",
+    "nombre": "MOCTEZUMA",
+    "clave": 26
+  },
+  {
+    "id": "039",
+    "nombre": "NACO",
+    "clave": 26
+  },
+  {
+    "id": "040",
+    "nombre": "NÁCORI CHICO",
+    "clave": 26
+  },
+  {
+    "id": "041",
+    "nombre": "NACOZARI DE GARCÍA",
+    "clave": 26
+  },
+  {
+    "id": "042",
+    "nombre": "NAVOJOA",
+    "clave": 26
+  },
+  {
+    "id": "043",
+    "nombre": "NOGALES",
+    "clave": 26
+  },
+  {
+    "id": "044",
+    "nombre": "ONAVAS",
+    "clave": 26
+  },
+  {
+    "id": "045",
+    "nombre": "OPODEPE",
+    "clave": 26
+  },
+  {
+    "id": "046",
+    "nombre": "OQUITOA",
+    "clave": 26
+  },
+  {
+    "id": "047",
+    "nombre": "PITIQUITO",
+    "clave": 26
+  },
+  {
+    "id": "048",
+    "nombre": "PUERTO PEÑASCO",
+    "clave": 26
+  },
+  {
+    "id": "049",
+    "nombre": "QUIRIEGO",
+    "clave": 26
+  },
+  {
+    "id": "050",
+    "nombre": "RAYÓN",
+    "clave": 26
+  },
+  {
+    "id": "051",
+    "nombre": "ROSARIO",
+    "clave": 26
+  },
+  {
+    "id": "052",
+    "nombre": "SAHUARIPA",
+    "clave": 26
+  },
+  {
+    "id": "053",
+    "nombre": "SAN FELIPE DE JESÚS",
+    "clave": 26
+  },
+  {
+    "id": "054",
+    "nombre": "SAN JAVIER",
+    "clave": 26
+  },
+  {
+    "id": "055",
+    "nombre": "SAN LUIS RÍO COLORADO",
+    "clave": 26
+  },
+  {
+    "id": "056",
+    "nombre": "SAN MIGUEL DE HORCASITAS",
+    "clave": 26
+  },
+  {
+    "id": "057",
+    "nombre": "SAN PEDRO DE LA CUEVA",
+    "clave": 26
+  },
+  {
+    "id": "058",
+    "nombre": "SANTA ANA",
+    "clave": 26
+  },
+  {
+    "id": "059",
+    "nombre": "SANTA CRUZ",
+    "clave": 26
+  },
+  {
+    "id": "060",
+    "nombre": "SÁRIC",
+    "clave": 26
+  },
+  {
+    "id": "061",
+    "nombre": "SOYOPA",
+    "clave": 26
+  },
+  {
+    "id": "062",
+    "nombre": "SUAQUI GRANDE",
+    "clave": 26
+  },
+  {
+    "id": "063",
+    "nombre": "TEPACHE",
+    "clave": 26
+  },
+  {
+    "id": "064",
+    "nombre": "TRINCHERAS",
+    "clave": 26
+  },
+  {
+    "id": "065",
+    "nombre": "TUBUTAMA",
+    "clave": 26
+  },
+  {
+    "id": "066",
+    "nombre": "URES",
+    "clave": 26
+  },
+  {
+    "id": "067",
+    "nombre": "VILLA HIDALGO",
+    "clave": 26
+  },
+  {
+    "id": "068",
+    "nombre": "VILLA PESQUEIRA",
+    "clave": 26
+  },
+  {
+    "id": "069",
+    "nombre": "YÉCORA",
+    "clave": 26
+  },
+  {
+    "id": "070",
+    "nombre": "GENERAL PLUTARCO ELÍAS CALLES",
+    "clave": 26
+  },
+  {
+    "id": "071",
+    "nombre": "BENITO JUÁREZ",
+    "clave": 26
+  },
+  {
+    "id": "072",
+    "nombre": "SAN IGNACIO RÍO MUERTO",
+    "clave": 26
+  },
+  {
+    "id": 999,
+    "nombre": "NO ESPECIFICADO",
+    "clave": 26
+  },
+  {
+    "id": "001",
+    "nombre": "BALANCÁN",
+    "clave": 27
+  },
+  {
+    "id": "002",
+    "nombre": "CÁRDENAS",
+    "clave": 27
+  },
+  {
+    "id": "003",
+    "nombre": "CENTLA",
+    "clave": 27
+  },
+  {
+    "id": "004",
+    "nombre": "CENTRO",
+    "clave": 27
+  },
+  {
+    "id": "005",
+    "nombre": "COMALCALCO",
+    "clave": 27
+  },
+  {
+    "id": "006",
+    "nombre": "CUNDUACÁN",
+    "clave": 27
+  },
+  {
+    "id": "007",
+    "nombre": "EMILIANO ZAPATA",
+    "clave": 27
+  },
+  {
+    "id": "008",
+    "nombre": "HUIMANGUILLO",
+    "clave": 27
+  },
+  {
+    "id": "009",
+    "nombre": "JALAPA",
+    "clave": 27
+  },
+  {
+    "id": "010",
+    "nombre": "JALPA DE MÉNDEZ",
+    "clave": 27
+  },
+  {
+    "id": "011",
+    "nombre": "JONUTA",
+    "clave": 27
+  },
+  {
+    "id": "012",
+    "nombre": "MACUSPANA",
+    "clave": 27
+  },
+  {
+    "id": "013",
+    "nombre": "NACAJUCA",
+    "clave": 27
+  },
+  {
+    "id": "014",
+    "nombre": "PARAÍSO",
+    "clave": 27
+  },
+  {
+    "id": "015",
+    "nombre": "TACOTALPA",
+    "clave": 27
+  },
+  {
+    "id": "016",
+    "nombre": "TEAPA",
+    "clave": 27
+  },
+  {
+    "id": "017",
+    "nombre": "TENOSIQUE",
+    "clave": 27
+  },
+  {
+    "id": 999,
+    "nombre": "NO ESPECIFICADO",
+    "clave": 27
+  },
+  {
+    "id": "001",
+    "nombre": "ABASOLO",
+    "clave": 28
+  },
+  {
+    "id": "002",
+    "nombre": "ALDAMA",
+    "clave": 28
+  },
+  {
+    "id": "003",
+    "nombre": "ALTAMIRA",
+    "clave": 28
+  },
+  {
+    "id": "004",
+    "nombre": "ANTIGUO MORELOS",
+    "clave": 28
+  },
+  {
+    "id": "005",
+    "nombre": "BURGOS",
+    "clave": 28
+  },
+  {
+    "id": "006",
+    "nombre": "BUSTAMANTE",
+    "clave": 28
+  },
+  {
+    "id": "007",
+    "nombre": "CAMARGO",
+    "clave": 28
+  },
+  {
+    "id": "008",
+    "nombre": "CASAS",
+    "clave": 28
+  },
+  {
+    "id": "009",
+    "nombre": "CIUDAD MADERO",
+    "clave": 28
+  },
+  {
+    "id": "010",
+    "nombre": "CRUILLAS",
+    "clave": 28
+  },
+  {
+    "id": "011",
+    "nombre": "GÓMEZ FARÍAS",
+    "clave": 28
+  },
+  {
+    "id": "012",
+    "nombre": "GONZÁLEZ",
+    "clave": 28
+  },
+  {
+    "id": "013",
+    "nombre": "GÜÉMEZ",
+    "clave": 28
+  },
+  {
+    "id": "014",
+    "nombre": "GUERRERO",
+    "clave": 28
+  },
+  {
+    "id": "015",
+    "nombre": "GUSTAVO DÍAZ ORDAZ",
+    "clave": 28
+  },
+  {
+    "id": "016",
+    "nombre": "HIDALGO",
+    "clave": 28
+  },
+  {
+    "id": "017",
+    "nombre": "JAUMAVE",
+    "clave": 28
+  },
+  {
+    "id": "018",
+    "nombre": "JIMÉNEZ",
+    "clave": 28
+  },
+  {
+    "id": "019",
+    "nombre": "LLERA",
+    "clave": 28
+  },
+  {
+    "id": "020",
+    "nombre": "MAINERO",
+    "clave": 28
+  },
+  {
+    "id": "021",
+    "nombre": "EL MANTE",
+    "clave": 28
+  },
+  {
+    "id": "022",
+    "nombre": "MATAMOROS",
+    "clave": 28
+  },
+  {
+    "id": "023",
+    "nombre": "MÉNDEZ",
+    "clave": 28
+  },
+  {
+    "id": "024",
+    "nombre": "MIER",
+    "clave": 28
+  },
+  {
+    "id": "025",
+    "nombre": "MIGUEL ALEMÁN",
+    "clave": 28
+  },
+  {
+    "id": "026",
+    "nombre": "MIQUIHUANA",
+    "clave": 28
+  },
+  {
+    "id": "027",
+    "nombre": "NUEVO LAREDO",
+    "clave": 28
+  },
+  {
+    "id": "028",
+    "nombre": "NUEVO MORELOS",
+    "clave": 28
+  },
+  {
+    "id": "029",
+    "nombre": "OCAMPO",
+    "clave": 28
+  },
+  {
+    "id": "030",
+    "nombre": "PADILLA",
+    "clave": 28
+  },
+  {
+    "id": "031",
+    "nombre": "PALMILLAS",
+    "clave": 28
+  },
+  {
+    "id": "032",
+    "nombre": "REYNOSA",
+    "clave": 28
+  },
+  {
+    "id": "033",
+    "nombre": "RÍO BRAVO",
+    "clave": 28
+  },
+  {
+    "id": "034",
+    "nombre": "SAN CARLOS",
+    "clave": 28
+  },
+  {
+    "id": "035",
+    "nombre": "SAN FERNANDO",
+    "clave": 28
+  },
+  {
+    "id": "036",
+    "nombre": "SAN NICOLÁS",
+    "clave": 28
+  },
+  {
+    "id": "037",
+    "nombre": "SOTO LA MARINA",
+    "clave": 28
+  },
+  {
+    "id": "038",
+    "nombre": "TAMPICO",
+    "clave": 28
+  },
+  {
+    "id": "039",
+    "nombre": "TULA",
+    "clave": 28
+  },
+  {
+    "id": "040",
+    "nombre": "VALLE HERMOSO",
+    "clave": 28
+  },
+  {
+    "id": "041",
+    "nombre": "VICTORIA",
+    "clave": 28
+  },
+  {
+    "id": "042",
+    "nombre": "VILLAGRÁN",
+    "clave": 28
+  },
+  {
+    "id": "043",
+    "nombre": "XICOTÉNCATL",
+    "clave": 28
+  },
+  {
+    "id": 999,
+    "nombre": "NO ESPECIFICADO",
+    "clave": 28
+  },
+  {
+    "id": "001",
+    "nombre": "AMAXAC DE GUERRERO",
+    "clave": 29
+  },
+  {
+    "id": "002",
+    "nombre": "APETATITLÁN DE ANTONIO CARVAJAL",
+    "clave": 29
+  },
+  {
+    "id": "003",
+    "nombre": "ATLANGATEPEC",
+    "clave": 29
+  },
+  {
+    "id": "004",
+    "nombre": "ATLTZAYANCA",
+    "clave": 29
+  },
+  {
+    "id": "005",
+    "nombre": "APIZACO",
+    "clave": 29
+  },
+  {
+    "id": "006",
+    "nombre": "CALPULALPAN",
+    "clave": 29
+  },
+  {
+    "id": "007",
+    "nombre": "EL CARMEN TEQUEXQUITLA",
+    "clave": 29
+  },
+  {
+    "id": "008",
+    "nombre": "CUAPIAXTLA",
+    "clave": 29
+  },
+  {
+    "id": "009",
+    "nombre": "CUAXOMULCO",
+    "clave": 29
+  },
+  {
+    "id": "010",
+    "nombre": "CHIAUTEMPAN",
+    "clave": 29
+  },
+  {
+    "id": "011",
+    "nombre": "MUÑOZ DE DOMINGO ARENAS",
+    "clave": 29
+  },
+  {
+    "id": "012",
+    "nombre": "ESPAÑITA",
+    "clave": 29
+  },
+  {
+    "id": "013",
+    "nombre": "HUAMANTLA",
+    "clave": 29
+  },
+  {
+    "id": "014",
+    "nombre": "HUEYOTLIPAN",
+    "clave": 29
+  },
+  {
+    "id": "015",
+    "nombre": "IXTACUIXTLA DE MARIANO MATAMOROS",
+    "clave": 29
+  },
+  {
+    "id": "016",
+    "nombre": "IXTENCO",
+    "clave": 29
+  },
+  {
+    "id": "017",
+    "nombre": "MAZATECOCHCO DE JOSÉ MARÍA MORELOS",
+    "clave": 29
+  },
+  {
+    "id": "018",
+    "nombre": "CONTLA DE JUAN CUAMATZI",
+    "clave": 29
+  },
+  {
+    "id": "019",
+    "nombre": "TEPETITLA DE LARDIZÁBAL",
+    "clave": 29
+  },
+  {
+    "id": "020",
+    "nombre": "SANCTÓRUM DE LÁZARO CÁRDENAS",
+    "clave": 29
+  },
+  {
+    "id": "021",
+    "nombre": "NANACAMILPA DE MARIANO ARISTA",
+    "clave": 29
+  },
+  {
+    "id": "022",
+    "nombre": "ACUAMANALA DE MIGUEL HIDALGO",
+    "clave": 29
+  },
+  {
+    "id": "023",
+    "nombre": "NATÍVITAS",
+    "clave": 29
+  },
+  {
+    "id": "024",
+    "nombre": "PANOTLA",
+    "clave": 29
+  },
+  {
+    "id": "025",
+    "nombre": "SAN PABLO DEL MONTE",
+    "clave": 29
+  },
+  {
+    "id": "026",
+    "nombre": "SANTA CRUZ TLAXCALA",
+    "clave": 29
+  },
+  {
+    "id": "027",
+    "nombre": "TENANCINGO",
+    "clave": 29
+  },
+  {
+    "id": "028",
+    "nombre": "TEOLOCHOLCO",
+    "clave": 29
+  },
+  {
+    "id": "029",
+    "nombre": "TEPEYANCO",
+    "clave": 29
+  },
+  {
+    "id": "030",
+    "nombre": "TERRENATE",
+    "clave": 29
+  },
+  {
+    "id": "031",
+    "nombre": "TETLA DE LA SOLIDARIDAD",
+    "clave": 29
+  },
+  {
+    "id": "032",
+    "nombre": "TETLATLAHUCA",
+    "clave": 29
+  },
+  {
+    "id": "033",
+    "nombre": "TLAXCALA",
+    "clave": 29
+  },
+  {
+    "id": "034",
+    "nombre": "TLAXCO",
+    "clave": 29
+  },
+  {
+    "id": "035",
+    "nombre": "TOCATLÁN",
+    "clave": 29
+  },
+  {
+    "id": "036",
+    "nombre": "TOTOLAC",
+    "clave": 29
+  },
+  {
+    "id": "037",
+    "nombre": "ZILTLALTÉPEC DE TRINIDAD SÁNCHEZ SANTOS",
+    "clave": 29
+  },
+  {
+    "id": "038",
+    "nombre": "TZOMPANTEPEC",
+    "clave": 29
+  },
+  {
+    "id": "039",
+    "nombre": "XALOZTOC",
+    "clave": 29
+  },
+  {
+    "id": "040",
+    "nombre": "XALTOCAN",
+    "clave": 29
+  },
+  {
+    "id": "041",
+    "nombre": "PAPALOTLA DE XICOHTÉNCATL",
+    "clave": 29
+  },
+  {
+    "id": "042",
+    "nombre": "XICOHTZINCO",
+    "clave": 29
+  },
+  {
+    "id": "043",
+    "nombre": "YAUHQUEMEHCAN",
+    "clave": 29
+  },
+  {
+    "id": "044",
+    "nombre": "ZACATELCO",
+    "clave": 29
+  },
+  {
+    "id": "045",
+    "nombre": "BENITO JUÁREZ",
+    "clave": 29
+  },
+  {
+    "id": "046",
+    "nombre": "EMILIANO ZAPATA",
+    "clave": 29
+  },
+  {
+    "id": "047",
+    "nombre": "LÁZARO CÁRDENAS",
+    "clave": 29
+  },
+  {
+    "id": "048",
+    "nombre": "LA MAGDALENA TLALTELULCO",
+    "clave": 29
+  },
+  {
+    "id": "049",
+    "nombre": "SAN DAMIÁN TEXÓLOC",
+    "clave": 29
+  },
+  {
+    "id": "050",
+    "nombre": "SAN FRANCISCO TETLANOHCAN",
+    "clave": 29
+  },
+  {
+    "id": "051",
+    "nombre": "SAN JERÓNIMO ZACUALPAN",
+    "clave": 29
+  },
+  {
+    "id": "052",
+    "nombre": "SAN JOSÉ TEACALCO",
+    "clave": 29
+  },
+  {
+    "id": "053",
+    "nombre": "SAN JUAN HUACTZINCO",
+    "clave": 29
+  },
+  {
+    "id": "054",
+    "nombre": "SAN LORENZO AXOCOMANITLA",
+    "clave": 29
+  },
+  {
+    "id": "055",
+    "nombre": "SAN LUCAS TECOPILCO",
+    "clave": 29
+  },
+  {
+    "id": "056",
+    "nombre": "SANTA ANA NOPALUCAN",
+    "clave": 29
+  },
+  {
+    "id": "057",
+    "nombre": "SANTA APOLONIA TEACALCO",
+    "clave": 29
+  },
+  {
+    "id": "058",
+    "nombre": "SANTA CATARINA AYOMETLA",
+    "clave": 29
+  },
+  {
+    "id": "059",
+    "nombre": "SANTA CRUZ QUILEHTLA",
+    "clave": 29
+  },
+  {
+    "id": "060",
+    "nombre": "SANTA ISABEL XILOXOXTLA",
+    "clave": 29
+  },
+  {
+    "id": 999,
+    "nombre": "NO ESPECIFICADO",
+    "clave": 29
+  },
+  {
+    "id": "001",
+    "nombre": "ACAJETE",
+    "clave": 30
+  },
+  {
+    "id": "002",
+    "nombre": "ACATLÁN",
+    "clave": 30
+  },
+  {
+    "id": "003",
+    "nombre": "ACAYUCAN",
+    "clave": 30
+  },
+  {
+    "id": "004",
+    "nombre": "ACTOPAN",
+    "clave": 30
+  },
+  {
+    "id": "005",
+    "nombre": "ACULA",
+    "clave": 30
+  },
+  {
+    "id": "006",
+    "nombre": "ACULTZINGO",
+    "clave": 30
+  },
+  {
+    "id": "007",
+    "nombre": "CAMARÓN DE TEJEDA",
+    "clave": 30
+  },
+  {
+    "id": "008",
+    "nombre": "ALPATLÁHUAC",
+    "clave": 30
+  },
+  {
+    "id": "009",
+    "nombre": "ALTO LUCERO DE GUTIÉRREZ BARRIOS",
+    "clave": 30
+  },
+  {
+    "id": "010",
+    "nombre": "ALTOTONGA",
+    "clave": 30
+  },
+  {
+    "id": "011",
+    "nombre": "ALVARADO",
+    "clave": 30
+  },
+  {
+    "id": "012",
+    "nombre": "AMATITLÁN",
+    "clave": 30
+  },
+  {
+    "id": "013",
+    "nombre": "NARANJOS AMATLÁN",
+    "clave": 30
+  },
+  {
+    "id": "014",
+    "nombre": "AMATLÁN DE LOS REYES",
+    "clave": 30
+  },
+  {
+    "id": "015",
+    "nombre": "ANGEL R. CABADA",
+    "clave": 30
+  },
+  {
+    "id": "016",
+    "nombre": "LA ANTIGUA",
+    "clave": 30
+  },
+  {
+    "id": "017",
+    "nombre": "APAZAPAN",
+    "clave": 30
+  },
+  {
+    "id": "018",
+    "nombre": "AQUILA",
+    "clave": 30
+  },
+  {
+    "id": "019",
+    "nombre": "ASTACINGA",
+    "clave": 30
+  },
+  {
+    "id": "020",
+    "nombre": "ATLAHUILCO",
+    "clave": 30
+  },
+  {
+    "id": "021",
+    "nombre": "ATOYAC",
+    "clave": 30
+  },
+  {
+    "id": "022",
+    "nombre": "ATZACAN",
+    "clave": 30
+  },
+  {
+    "id": "023",
+    "nombre": "ATZALAN",
+    "clave": 30
+  },
+  {
+    "id": "024",
+    "nombre": "TLALTETELA",
+    "clave": 30
+  },
+  {
+    "id": "025",
+    "nombre": "AYAHUALULCO",
+    "clave": 30
+  },
+  {
+    "id": "026",
+    "nombre": "BANDERILLA",
+    "clave": 30
+  },
+  {
+    "id": "027",
+    "nombre": "BENITO JUÁREZ",
+    "clave": 30
+  },
+  {
+    "id": "028",
+    "nombre": "BOCA DEL RÍO",
+    "clave": 30
+  },
+  {
+    "id": "029",
+    "nombre": "CALCAHUALCO",
+    "clave": 30
+  },
+  {
+    "id": "030",
+    "nombre": "CAMERINO Z. MENDOZA",
+    "clave": 30
+  },
+  {
+    "id": "031",
+    "nombre": "CARRILLO PUERTO",
+    "clave": 30
+  },
+  {
+    "id": "032",
+    "nombre": "CATEMACO",
+    "clave": 30
+  },
+  {
+    "id": "033",
+    "nombre": "CAZONES DE HERRERA",
+    "clave": 30
+  },
+  {
+    "id": "034",
+    "nombre": "CERRO AZUL",
+    "clave": 30
+  },
+  {
+    "id": "035",
+    "nombre": "CITLALTÉPETL",
+    "clave": 30
+  },
+  {
+    "id": "036",
+    "nombre": "COACOATZINTLA",
+    "clave": 30
+  },
+  {
+    "id": "037",
+    "nombre": "COAHUITLÁN",
+    "clave": 30
+  },
+  {
+    "id": "038",
+    "nombre": "COATEPEC",
+    "clave": 30
+  },
+  {
+    "id": "039",
+    "nombre": "COATZACOALCOS",
+    "clave": 30
+  },
+  {
+    "id": "040",
+    "nombre": "COATZINTLA",
+    "clave": 30
+  },
+  {
+    "id": "041",
+    "nombre": "COETZALA",
+    "clave": 30
+  },
+  {
+    "id": "042",
+    "nombre": "COLIPA",
+    "clave": 30
+  },
+  {
+    "id": "043",
+    "nombre": "COMAPA",
+    "clave": 30
+  },
+  {
+    "id": "044",
+    "nombre": "CÓRDOBA",
+    "clave": 30
+  },
+  {
+    "id": "045",
+    "nombre": "COSAMALOAPAN DE CARPIO",
+    "clave": 30
+  },
+  {
+    "id": "046",
+    "nombre": "COSAUTLÁN DE CARVAJAL",
+    "clave": 30
+  },
+  {
+    "id": "047",
+    "nombre": "COSCOMATEPEC",
+    "clave": 30
+  },
+  {
+    "id": "048",
+    "nombre": "COSOLEACAQUE",
+    "clave": 30
+  },
+  {
+    "id": "049",
+    "nombre": "COTAXTLA",
+    "clave": 30
+  },
+  {
+    "id": "050",
+    "nombre": "COXQUIHUI",
+    "clave": 30
+  },
+  {
+    "id": "051",
+    "nombre": "COYUTLA",
+    "clave": 30
+  },
+  {
+    "id": "052",
+    "nombre": "CUICHAPA",
+    "clave": 30
+  },
+  {
+    "id": "053",
+    "nombre": "CUITLÁHUAC",
+    "clave": 30
+  },
+  {
+    "id": "054",
+    "nombre": "CHACALTIANGUIS",
+    "clave": 30
+  },
+  {
+    "id": "055",
+    "nombre": "CHALMA",
+    "clave": 30
+  },
+  {
+    "id": "056",
+    "nombre": "CHICONAMEL",
+    "clave": 30
+  },
+  {
+    "id": "057",
+    "nombre": "CHICONQUIACO",
+    "clave": 30
+  },
+  {
+    "id": "058",
+    "nombre": "CHICONTEPEC",
+    "clave": 30
+  },
+  {
+    "id": "059",
+    "nombre": "CHINAMECA",
+    "clave": 30
+  },
+  {
+    "id": "060",
+    "nombre": "CHINAMPA DE GOROSTIZA",
+    "clave": 30
+  },
+  {
+    "id": "061",
+    "nombre": "LAS CHOAPAS",
+    "clave": 30
+  },
+  {
+    "id": "062",
+    "nombre": "CHOCAMÁN",
+    "clave": 30
+  },
+  {
+    "id": "063",
+    "nombre": "CHONTLA",
+    "clave": 30
+  },
+  {
+    "id": "064",
+    "nombre": "CHUMATLÁN",
+    "clave": 30
+  },
+  {
+    "id": "065",
+    "nombre": "EMILIANO ZAPATA",
+    "clave": 30
+  },
+  {
+    "id": "066",
+    "nombre": "ESPINAL",
+    "clave": 30
+  },
+  {
+    "id": "067",
+    "nombre": "FILOMENO MATA",
+    "clave": 30
+  },
+  {
+    "id": "068",
+    "nombre": "FORTÍN",
+    "clave": 30
+  },
+  {
+    "id": "069",
+    "nombre": "GUTIÉRREZ ZAMORA",
+    "clave": 30
+  },
+  {
+    "id": "070",
+    "nombre": "HIDALGOTITLÁN",
+    "clave": 30
+  },
+  {
+    "id": "071",
+    "nombre": "HUATUSCO",
+    "clave": 30
+  },
+  {
+    "id": "072",
+    "nombre": "HUAYACOCOTLA",
+    "clave": 30
+  },
+  {
+    "id": "073",
+    "nombre": "HUEYAPAN DE OCAMPO",
+    "clave": 30
+  },
+  {
+    "id": "074",
+    "nombre": "HUILOAPAN DE CUAUHTÉMOC",
+    "clave": 30
+  },
+  {
+    "id": "075",
+    "nombre": "IGNACIO DE LA LLAVE",
+    "clave": 30
+  },
+  {
+    "id": "076",
+    "nombre": "ILAMATLÁN",
+    "clave": 30
+  },
+  {
+    "id": "077",
+    "nombre": "ISLA",
+    "clave": 30
+  },
+  {
+    "id": "078",
+    "nombre": "IXCATEPEC",
+    "clave": 30
+  },
+  {
+    "id": "079",
+    "nombre": "IXHUACÁN DE LOS REYES",
+    "clave": 30
+  },
+  {
+    "id": "080",
+    "nombre": "IXHUATLÁN DEL CAFÉ",
+    "clave": 30
+  },
+  {
+    "id": "081",
+    "nombre": "IXHUATLANCILLO",
+    "clave": 30
+  },
+  {
+    "id": "082",
+    "nombre": "IXHUATLÁN DEL SURESTE",
+    "clave": 30
+  },
+  {
+    "id": "083",
+    "nombre": "IXHUATLÁN DE MADERO",
+    "clave": 30
+  },
+  {
+    "id": "084",
+    "nombre": "IXMATLAHUACAN",
+    "clave": 30
+  },
+  {
+    "id": "085",
+    "nombre": "IXTACZOQUITLÁN",
+    "clave": 30
+  },
+  {
+    "id": "086",
+    "nombre": "JALACINGO",
+    "clave": 30
+  },
+  {
+    "id": "087",
+    "nombre": "XALAPA",
+    "clave": 30
+  },
+  {
+    "id": "088",
+    "nombre": "JALCOMULCO",
+    "clave": 30
+  },
+  {
+    "id": "089",
+    "nombre": "JÁLTIPAN",
+    "clave": 30
+  },
+  {
+    "id": "090",
+    "nombre": "JAMAPA",
+    "clave": 30
+  },
+  {
+    "id": "091",
+    "nombre": "JESÚS CARRANZA",
+    "clave": 30
+  },
+  {
+    "id": "092",
+    "nombre": "XICO",
+    "clave": 30
+  },
+  {
+    "id": "093",
+    "nombre": "JILOTEPEC",
+    "clave": 30
+  },
+  {
+    "id": "094",
+    "nombre": "JUAN RODRÍGUEZ CLARA",
+    "clave": 30
+  },
+  {
+    "id": "095",
+    "nombre": "JUCHIQUE DE FERRER",
+    "clave": 30
+  },
+  {
+    "id": "096",
+    "nombre": "LANDERO Y COSS",
+    "clave": 30
+  },
+  {
+    "id": "097",
+    "nombre": "LERDO DE TEJADA",
+    "clave": 30
+  },
+  {
+    "id": "098",
+    "nombre": "MAGDALENA",
+    "clave": 30
+  },
+  {
+    "id": "099",
+    "nombre": "MALTRATA",
+    "clave": 30
+  },
+  {
+    "id": 100,
+    "nombre": "MANLIO FABIO ALTAMIRANO",
+    "clave": 30
+  },
+  {
+    "id": 101,
+    "nombre": "MARIANO ESCOBEDO",
+    "clave": 30
+  },
+  {
+    "id": 102,
+    "nombre": "MARTÍNEZ DE LA TORRE",
+    "clave": 30
+  },
+  {
+    "id": 103,
+    "nombre": "MECATLÁN",
+    "clave": 30
+  },
+  {
+    "id": 104,
+    "nombre": "MECAYAPAN",
+    "clave": 30
+  },
+  {
+    "id": 105,
+    "nombre": "MEDELLÍN DE BRAVO",
+    "clave": 30
+  },
+  {
+    "id": 106,
+    "nombre": "MIAHUATLÁN",
+    "clave": 30
+  },
+  {
+    "id": 107,
+    "nombre": "LAS MINAS",
+    "clave": 30
+  },
+  {
+    "id": 108,
+    "nombre": "MINATITLÁN",
+    "clave": 30
+  },
+  {
+    "id": 109,
+    "nombre": "MISANTLA",
+    "clave": 30
+  },
+  {
+    "id": 110,
+    "nombre": "MIXTLA DE ALTAMIRANO",
+    "clave": 30
+  },
+  {
+    "id": 111,
+    "nombre": "MOLOACÁN",
+    "clave": 30
+  },
+  {
+    "id": 112,
+    "nombre": "NAOLINCO",
+    "clave": 30
+  },
+  {
+    "id": 113,
+    "nombre": "NARANJAL",
+    "clave": 30
+  },
+  {
+    "id": 114,
+    "nombre": "NAUTLA",
+    "clave": 30
+  },
+  {
+    "id": 115,
+    "nombre": "NOGALES",
+    "clave": 30
+  },
+  {
+    "id": 116,
+    "nombre": "OLUTA",
+    "clave": 30
+  },
+  {
+    "id": 117,
+    "nombre": "OMEALCA",
+    "clave": 30
+  },
+  {
+    "id": 118,
+    "nombre": "ORIZABA",
+    "clave": 30
+  },
+  {
+    "id": 119,
+    "nombre": "OTATITLÁN",
+    "clave": 30
+  },
+  {
+    "id": 120,
+    "nombre": "OTEAPAN",
+    "clave": 30
+  },
+  {
+    "id": 121,
+    "nombre": "OZULUAMA DE MASCAREÑAS",
+    "clave": 30
+  },
+  {
+    "id": 122,
+    "nombre": "PAJAPAN",
+    "clave": 30
+  },
+  {
+    "id": 123,
+    "nombre": "PÁNUCO",
+    "clave": 30
+  },
+  {
+    "id": 124,
+    "nombre": "PAPANTLA",
+    "clave": 30
+  },
+  {
+    "id": 125,
+    "nombre": "PASO DEL MACHO",
+    "clave": 30
+  },
+  {
+    "id": 126,
+    "nombre": "PASO DE OVEJAS",
+    "clave": 30
+  },
+  {
+    "id": 127,
+    "nombre": "LA PERLA",
+    "clave": 30
+  },
+  {
+    "id": 128,
+    "nombre": "PEROTE",
+    "clave": 30
+  },
+  {
+    "id": 129,
+    "nombre": "PLATÓN SÁNCHEZ",
+    "clave": 30
+  },
+  {
+    "id": 130,
+    "nombre": "PLAYA VICENTE",
+    "clave": 30
+  },
+  {
+    "id": 131,
+    "nombre": "POZA RICA DE HIDALGO",
+    "clave": 30
+  },
+  {
+    "id": 132,
+    "nombre": "LAS VIGAS DE RAMÍREZ",
+    "clave": 30
+  },
+  {
+    "id": 133,
+    "nombre": "PUEBLO VIEJO",
+    "clave": 30
+  },
+  {
+    "id": 134,
+    "nombre": "PUENTE NACIONAL",
+    "clave": 30
+  },
+  {
+    "id": 135,
+    "nombre": "RAFAEL DELGADO",
+    "clave": 30
+  },
+  {
+    "id": 136,
+    "nombre": "RAFAEL LUCIO",
+    "clave": 30
+  },
+  {
+    "id": 137,
+    "nombre": "LOS REYES",
+    "clave": 30
+  },
+  {
+    "id": 138,
+    "nombre": "RÍO BLANCO",
+    "clave": 30
+  },
+  {
+    "id": 139,
+    "nombre": "SALTABARRANCA",
+    "clave": 30
+  },
+  {
+    "id": 140,
+    "nombre": "SAN ANDRÉS TENEJAPAN",
+    "clave": 30
+  },
+  {
+    "id": 141,
+    "nombre": "SAN ANDRÉS TUXTLA",
+    "clave": 30
+  },
+  {
+    "id": 142,
+    "nombre": "SAN JUAN EVANGELISTA",
+    "clave": 30
+  },
+  {
+    "id": 143,
+    "nombre": "SANTIAGO TUXTLA",
+    "clave": 30
+  },
+  {
+    "id": 144,
+    "nombre": "SAYULA DE ALEMÁN",
+    "clave": 30
+  },
+  {
+    "id": 145,
+    "nombre": "SOCONUSCO",
+    "clave": 30
+  },
+  {
+    "id": 146,
+    "nombre": "SOCHIAPA",
+    "clave": 30
+  },
+  {
+    "id": 147,
+    "nombre": "SOLEDAD ATZOMPA",
+    "clave": 30
+  },
+  {
+    "id": 148,
+    "nombre": "SOLEDAD DE DOBLADO",
+    "clave": 30
+  },
+  {
+    "id": 149,
+    "nombre": "SOTEAPAN",
+    "clave": 30
+  },
+  {
+    "id": 150,
+    "nombre": "TAMALÍN",
+    "clave": 30
+  },
+  {
+    "id": 151,
+    "nombre": "TAMIAHUA",
+    "clave": 30
+  },
+  {
+    "id": 152,
+    "nombre": "TAMPICO ALTO",
+    "clave": 30
+  },
+  {
+    "id": 153,
+    "nombre": "TANCOCO",
+    "clave": 30
+  },
+  {
+    "id": 154,
+    "nombre": "TANTIMA",
+    "clave": 30
+  },
+  {
+    "id": 155,
+    "nombre": "TANTOYUCA",
+    "clave": 30
+  },
+  {
+    "id": 156,
+    "nombre": "TATATILA",
+    "clave": 30
+  },
+  {
+    "id": 157,
+    "nombre": "CASTILLO DE TEAYO",
+    "clave": 30
+  },
+  {
+    "id": 158,
+    "nombre": "TECOLUTLA",
+    "clave": 30
+  },
+  {
+    "id": 159,
+    "nombre": "TEHUIPANGO",
+    "clave": 30
+  },
+  {
+    "id": 160,
+    "nombre": "ÁLAMO TEMAPACHE",
+    "clave": 30
+  },
+  {
+    "id": 161,
+    "nombre": "TEMPOAL",
+    "clave": 30
+  },
+  {
+    "id": 162,
+    "nombre": "TENAMPA",
+    "clave": 30
+  },
+  {
+    "id": 163,
+    "nombre": "TENOCHTITLÁN",
+    "clave": 30
+  },
+  {
+    "id": 164,
+    "nombre": "TEOCELO",
+    "clave": 30
+  },
+  {
+    "id": 165,
+    "nombre": "TEPATLAXCO",
+    "clave": 30
+  },
+  {
+    "id": 166,
+    "nombre": "TEPETLÁN",
+    "clave": 30
+  },
+  {
+    "id": 167,
+    "nombre": "TEPETZINTLA",
+    "clave": 30
+  },
+  {
+    "id": 168,
+    "nombre": "TEQUILA",
+    "clave": 30
+  },
+  {
+    "id": 169,
+    "nombre": "JOSÉ AZUETA",
+    "clave": 30
+  },
+  {
+    "id": 170,
+    "nombre": "TEXCATEPEC",
+    "clave": 30
+  },
+  {
+    "id": 171,
+    "nombre": "TEXHUACÁN",
+    "clave": 30
+  },
+  {
+    "id": 172,
+    "nombre": "TEXISTEPEC",
+    "clave": 30
+  },
+  {
+    "id": 173,
+    "nombre": "TEZONAPA",
+    "clave": 30
+  },
+  {
+    "id": 174,
+    "nombre": "TIERRA BLANCA",
+    "clave": 30
+  },
+  {
+    "id": 175,
+    "nombre": "TIHUATLÁN",
+    "clave": 30
+  },
+  {
+    "id": 176,
+    "nombre": "TLACOJALPAN",
+    "clave": 30
+  },
+  {
+    "id": 177,
+    "nombre": "TLACOLULAN",
+    "clave": 30
+  },
+  {
+    "id": 178,
+    "nombre": "TLACOTALPAN",
+    "clave": 30
+  },
+  {
+    "id": 179,
+    "nombre": "TLACOTEPEC DE MEJÍA",
+    "clave": 30
+  },
+  {
+    "id": 180,
+    "nombre": "TLACHICHILCO",
+    "clave": 30
+  },
+  {
+    "id": 181,
+    "nombre": "TLALIXCOYAN",
+    "clave": 30
+  },
+  {
+    "id": 182,
+    "nombre": "TLALNELHUAYOCAN",
+    "clave": 30
+  },
+  {
+    "id": 183,
+    "nombre": "TLAPACOYAN",
+    "clave": 30
+  },
+  {
+    "id": 184,
+    "nombre": "TLAQUILPA",
+    "clave": 30
+  },
+  {
+    "id": 185,
+    "nombre": "TLILAPAN",
+    "clave": 30
+  },
+  {
+    "id": 186,
+    "nombre": "TOMATLÁN",
+    "clave": 30
+  },
+  {
+    "id": 187,
+    "nombre": "TONAYÁN",
+    "clave": 30
+  },
+  {
+    "id": 188,
+    "nombre": "TOTUTLA",
+    "clave": 30
+  },
+  {
+    "id": 189,
+    "nombre": "TUXPAN",
+    "clave": 30
+  },
+  {
+    "id": 190,
+    "nombre": "TUXTILLA",
+    "clave": 30
+  },
+  {
+    "id": 191,
+    "nombre": "URSULO GALVÁN",
+    "clave": 30
+  },
+  {
+    "id": 192,
+    "nombre": "VEGA DE ALATORRE",
+    "clave": 30
+  },
+  {
+    "id": 193,
+    "nombre": "VERACRUZ",
+    "clave": 30
+  },
+  {
+    "id": 194,
+    "nombre": "VILLA ALDAMA",
+    "clave": 30
+  },
+  {
+    "id": 195,
+    "nombre": "XOXOCOTLA",
+    "clave": 30
+  },
+  {
+    "id": 196,
+    "nombre": "YANGA",
+    "clave": 30
+  },
+  {
+    "id": 197,
+    "nombre": "YECUATLA",
+    "clave": 30
+  },
+  {
+    "id": 198,
+    "nombre": "ZACUALPAN",
+    "clave": 30
+  },
+  {
+    "id": 199,
+    "nombre": "ZARAGOZA",
+    "clave": 30
+  },
+  {
+    "id": 200,
+    "nombre": "ZENTLA",
+    "clave": 30
+  },
+  {
+    "id": 201,
+    "nombre": "ZONGOLICA",
+    "clave": 30
+  },
+  {
+    "id": 202,
+    "nombre": "ZONTECOMATLÁN DE LÓPEZ Y FUENTES",
+    "clave": 30
+  },
+  {
+    "id": 203,
+    "nombre": "ZOZOCOLCO DE HIDALGO",
+    "clave": 30
+  },
+  {
+    "id": 204,
+    "nombre": "AGUA DULCE",
+    "clave": 30
+  },
+  {
+    "id": 205,
+    "nombre": "EL HIGO",
+    "clave": 30
+  },
+  {
+    "id": 206,
+    "nombre": "NANCHITAL DE LÁZARO CÁRDENAS DEL RÍO",
+    "clave": 30
+  },
+  {
+    "id": 207,
+    "nombre": "TRES VALLES",
+    "clave": 30
+  },
+  {
+    "id": 208,
+    "nombre": "CARLOS A. CARRILLO",
+    "clave": 30
+  },
+  {
+    "id": 209,
+    "nombre": "TATAHUICAPAN DE JUÁREZ",
+    "clave": 30
+  },
+  {
+    "id": 210,
+    "nombre": "UXPANAPA",
+    "clave": 30
+  },
+  {
+    "id": 211,
+    "nombre": "SAN RAFAEL",
+    "clave": 30
+  },
+  {
+    "id": 212,
+    "nombre": "SANTIAGO SOCHIAPAN",
+    "clave": 30
+  },
+  {
+    "id": 999,
+    "nombre": "NO ESPECIFICADO",
+    "clave": 30
+  },
+  {
+    "id": "001",
+    "nombre": "ABALÁ",
+    "clave": 31
+  },
+  {
+    "id": "002",
+    "nombre": "ACANCEH",
+    "clave": 31
+  },
+  {
+    "id": "003",
+    "nombre": "AKIL",
+    "clave": 31
+  },
+  {
+    "id": "004",
+    "nombre": "BACA",
+    "clave": 31
+  },
+  {
+    "id": "005",
+    "nombre": "BOKOBÁ",
+    "clave": 31
+  },
+  {
+    "id": "006",
+    "nombre": "BUCTZOTZ",
+    "clave": 31
+  },
+  {
+    "id": "007",
+    "nombre": "CACALCHÉN",
+    "clave": 31
+  },
+  {
+    "id": "008",
+    "nombre": "CALOTMUL",
+    "clave": 31
+  },
+  {
+    "id": "009",
+    "nombre": "CANSAHCAB",
+    "clave": 31
+  },
+  {
+    "id": "010",
+    "nombre": "CANTAMAYEC",
+    "clave": 31
+  },
+  {
+    "id": "011",
+    "nombre": "CELESTÚN",
+    "clave": 31
+  },
+  {
+    "id": "012",
+    "nombre": "CENOTILLO",
+    "clave": 31
+  },
+  {
+    "id": "013",
+    "nombre": "CONKAL",
+    "clave": 31
+  },
+  {
+    "id": "014",
+    "nombre": "CUNCUNUL",
+    "clave": 31
+  },
+  {
+    "id": "015",
+    "nombre": "CUZAMÁ",
+    "clave": 31
+  },
+  {
+    "id": "016",
+    "nombre": "CHACSINKÍN",
+    "clave": 31
+  },
+  {
+    "id": "017",
+    "nombre": "CHANKOM",
+    "clave": 31
+  },
+  {
+    "id": "018",
+    "nombre": "CHAPAB",
+    "clave": 31
+  },
+  {
+    "id": "019",
+    "nombre": "CHEMAX",
+    "clave": 31
+  },
+  {
+    "id": "020",
+    "nombre": "CHICXULUB PUEBLO",
+    "clave": 31
+  },
+  {
+    "id": "021",
+    "nombre": "CHICHIMILÁ",
+    "clave": 31
+  },
+  {
+    "id": "022",
+    "nombre": "CHIKINDZONOT",
+    "clave": 31
+  },
+  {
+    "id": "023",
+    "nombre": "CHOCHOLÁ",
+    "clave": 31
+  },
+  {
+    "id": "024",
+    "nombre": "CHUMAYEL",
+    "clave": 31
+  },
+  {
+    "id": "025",
+    "nombre": "DZÁN",
+    "clave": 31
+  },
+  {
+    "id": "026",
+    "nombre": "DZEMUL",
+    "clave": 31
+  },
+  {
+    "id": "027",
+    "nombre": "DZIDZANTÚN",
+    "clave": 31
+  },
+  {
+    "id": "028",
+    "nombre": "DZILAM DE BRAVO",
+    "clave": 31
+  },
+  {
+    "id": "029",
+    "nombre": "DZILAM GONZÁLEZ",
+    "clave": 31
+  },
+  {
+    "id": "030",
+    "nombre": "DZITÁS",
+    "clave": 31
+  },
+  {
+    "id": "031",
+    "nombre": "DZONCAUICH",
+    "clave": 31
+  },
+  {
+    "id": "032",
+    "nombre": "ESPITA",
+    "clave": 31
+  },
+  {
+    "id": "033",
+    "nombre": "HALACHÓ",
+    "clave": 31
+  },
+  {
+    "id": "034",
+    "nombre": "HOCABÁ",
+    "clave": 31
+  },
+  {
+    "id": "035",
+    "nombre": "HOCTÚN",
+    "clave": 31
+  },
+  {
+    "id": "036",
+    "nombre": "HOMÚN",
+    "clave": 31
+  },
+  {
+    "id": "037",
+    "nombre": "HUHÍ",
+    "clave": 31
+  },
+  {
+    "id": "038",
+    "nombre": "HUNUCMÁ",
+    "clave": 31
+  },
+  {
+    "id": "039",
+    "nombre": "IXIL",
+    "clave": 31
+  },
+  {
+    "id": "040",
+    "nombre": "IZAMAL",
+    "clave": 31
+  },
+  {
+    "id": "041",
+    "nombre": "KANASÍN",
+    "clave": 31
+  },
+  {
+    "id": "042",
+    "nombre": "KANTUNIL",
+    "clave": 31
+  },
+  {
+    "id": "043",
+    "nombre": "KAUA",
+    "clave": 31
+  },
+  {
+    "id": "044",
+    "nombre": "KINCHIL",
+    "clave": 31
+  },
+  {
+    "id": "045",
+    "nombre": "KOPOMÁ",
+    "clave": 31
+  },
+  {
+    "id": "046",
+    "nombre": "MAMA",
+    "clave": 31
+  },
+  {
+    "id": "047",
+    "nombre": "MANÍ",
+    "clave": 31
+  },
+  {
+    "id": "048",
+    "nombre": "MAXCANÚ",
+    "clave": 31
+  },
+  {
+    "id": "049",
+    "nombre": "MAYAPÁN",
+    "clave": 31
+  },
+  {
+    "id": "050",
+    "nombre": "MÉRIDA",
+    "clave": 31
+  },
+  {
+    "id": "051",
+    "nombre": "MOCOCHÁ",
+    "clave": 31
+  },
+  {
+    "id": "052",
+    "nombre": "MOTUL",
+    "clave": 31
+  },
+  {
+    "id": "053",
+    "nombre": "MUNA",
+    "clave": 31
+  },
+  {
+    "id": "054",
+    "nombre": "MUXUPIP",
+    "clave": 31
+  },
+  {
+    "id": "055",
+    "nombre": "OPICHÉN",
+    "clave": 31
+  },
+  {
+    "id": "056",
+    "nombre": "OXKUTZCAB",
+    "clave": 31
+  },
+  {
+    "id": "057",
+    "nombre": "PANABÁ",
+    "clave": 31
+  },
+  {
+    "id": "058",
+    "nombre": "PETO",
+    "clave": 31
+  },
+  {
+    "id": "059",
+    "nombre": "PROGRESO",
+    "clave": 31
+  },
+  {
+    "id": "060",
+    "nombre": "QUINTANA ROO",
+    "clave": 31
+  },
+  {
+    "id": "061",
+    "nombre": "RÍO LAGARTOS",
+    "clave": 31
+  },
+  {
+    "id": "062",
+    "nombre": "SACALUM",
+    "clave": 31
+  },
+  {
+    "id": "063",
+    "nombre": "SAMAHIL",
+    "clave": 31
+  },
+  {
+    "id": "064",
+    "nombre": "SANAHCAT",
+    "clave": 31
+  },
+  {
+    "id": "065",
+    "nombre": "SAN FELIPE",
+    "clave": 31
+  },
+  {
+    "id": "066",
+    "nombre": "SANTA ELENA",
+    "clave": 31
+  },
+  {
+    "id": "067",
+    "nombre": "SEYÉ",
+    "clave": 31
+  },
+  {
+    "id": "068",
+    "nombre": "SINANCHÉ",
+    "clave": 31
+  },
+  {
+    "id": "069",
+    "nombre": "SOTUTA",
+    "clave": 31
+  },
+  {
+    "id": "070",
+    "nombre": "SUCILÁ",
+    "clave": 31
+  },
+  {
+    "id": "071",
+    "nombre": "SUDZAL",
+    "clave": 31
+  },
+  {
+    "id": "072",
+    "nombre": "SUMA",
+    "clave": 31
+  },
+  {
+    "id": "073",
+    "nombre": "TAHDZIÚ",
+    "clave": 31
+  },
+  {
+    "id": "074",
+    "nombre": "TAHMEK",
+    "clave": 31
+  },
+  {
+    "id": "075",
+    "nombre": "TEABO",
+    "clave": 31
+  },
+  {
+    "id": "076",
+    "nombre": "TECOH",
+    "clave": 31
+  },
+  {
+    "id": "077",
+    "nombre": "TEKAL DE VENEGAS",
+    "clave": 31
+  },
+  {
+    "id": "078",
+    "nombre": "TEKANTÓ",
+    "clave": 31
+  },
+  {
+    "id": "079",
+    "nombre": "TEKAX",
+    "clave": 31
+  },
+  {
+    "id": "080",
+    "nombre": "TEKIT",
+    "clave": 31
+  },
+  {
+    "id": "081",
+    "nombre": "TEKOM",
+    "clave": 31
+  },
+  {
+    "id": "082",
+    "nombre": "TELCHAC PUEBLO",
+    "clave": 31
+  },
+  {
+    "id": "083",
+    "nombre": "TELCHAC PUERTO",
+    "clave": 31
+  },
+  {
+    "id": "084",
+    "nombre": "TEMAX",
+    "clave": 31
+  },
+  {
+    "id": "085",
+    "nombre": "TEMOZÓN",
+    "clave": 31
+  },
+  {
+    "id": "086",
+    "nombre": "TEPAKÁN",
+    "clave": 31
+  },
+  {
+    "id": "087",
+    "nombre": "TETIZ",
+    "clave": 31
+  },
+  {
+    "id": "088",
+    "nombre": "TEYA",
+    "clave": 31
+  },
+  {
+    "id": "089",
+    "nombre": "TICUL",
+    "clave": 31
+  },
+  {
+    "id": "090",
+    "nombre": "TIMUCUY",
+    "clave": 31
+  },
+  {
+    "id": "091",
+    "nombre": "TINUM",
+    "clave": 31
+  },
+  {
+    "id": "092",
+    "nombre": "TIXCACALCUPUL",
+    "clave": 31
+  },
+  {
+    "id": "093",
+    "nombre": "TIXKOKOB",
+    "clave": 31
+  },
+  {
+    "id": "094",
+    "nombre": "TIXMEHUAC",
+    "clave": 31
+  },
+  {
+    "id": "095",
+    "nombre": "TIXPÉHUAL",
+    "clave": 31
+  },
+  {
+    "id": "096",
+    "nombre": "TIZIMÍN",
+    "clave": 31
+  },
+  {
+    "id": "097",
+    "nombre": "TUNKÁS",
+    "clave": 31
+  },
+  {
+    "id": "098",
+    "nombre": "TZUCACAB",
+    "clave": 31
+  },
+  {
+    "id": "099",
+    "nombre": "UAYMA",
+    "clave": 31
+  },
+  {
+    "id": 100,
+    "nombre": "UCÚ",
+    "clave": 31
+  },
+  {
+    "id": 101,
+    "nombre": "UMÁN",
+    "clave": 31
+  },
+  {
+    "id": 102,
+    "nombre": "VALLADOLID",
+    "clave": 31
+  },
+  {
+    "id": 103,
+    "nombre": "XOCCHEL",
+    "clave": 31
+  },
+  {
+    "id": 104,
+    "nombre": "YAXCABÁ",
+    "clave": 31
+  },
+  {
+    "id": 105,
+    "nombre": "YAXKUKUL",
+    "clave": 31
+  },
+  {
+    "id": 106,
+    "nombre": "YOBAÍN",
+    "clave": 31
+  },
+  {
+    "id": 999,
+    "nombre": "NO ESPECIFICADO",
+    "clave": 31
+  },
+  {
+    "id": "001",
+    "nombre": "APOZOL",
+    "clave": 32
+  },
+  {
+    "id": "002",
+    "nombre": "APULCO",
+    "clave": 32
+  },
+  {
+    "id": "003",
+    "nombre": "ATOLINGA",
+    "clave": 32
+  },
+  {
+    "id": "004",
+    "nombre": "BENITO JUÁREZ",
+    "clave": 32
+  },
+  {
+    "id": "005",
+    "nombre": "CALERA",
+    "clave": 32
+  },
+  {
+    "id": "006",
+    "nombre": "CAÑITAS DE FELIPE PESCADOR",
+    "clave": 32
+  },
+  {
+    "id": "007",
+    "nombre": "CONCEPCIÓN DEL ORO",
+    "clave": 32
+  },
+  {
+    "id": "008",
+    "nombre": "CUAUHTÉMOC",
+    "clave": 32
+  },
+  {
+    "id": "009",
+    "nombre": "CHALCHIHUITES",
+    "clave": 32
+  },
+  {
+    "id": "010",
+    "nombre": "FRESNILLO",
+    "clave": 32
+  },
+  {
+    "id": "011",
+    "nombre": "TRINIDAD GARCÍA DE LA CADENA",
+    "clave": 32
+  },
+  {
+    "id": "012",
+    "nombre": "GENARO CODINA",
+    "clave": 32
+  },
+  {
+    "id": "013",
+    "nombre": "GENERAL ENRIQUE ESTRADA",
+    "clave": 32
+  },
+  {
+    "id": "014",
+    "nombre": "GENERAL FRANCISCO R. MURGUÍA",
+    "clave": 32
+  },
+  {
+    "id": "015",
+    "nombre": "EL PLATEADO DE JOAQUÍN AMARO",
+    "clave": 32
+  },
+  {
+    "id": "016",
+    "nombre": "GENERAL PÁNFILO NATERA",
+    "clave": 32
+  },
+  {
+    "id": "017",
+    "nombre": "GUADALUPE",
+    "clave": 32
+  },
+  {
+    "id": "018",
+    "nombre": "HUANUSCO",
+    "clave": 32
+  },
+  {
+    "id": "019",
+    "nombre": "JALPA",
+    "clave": 32
+  },
+  {
+    "id": "020",
+    "nombre": "JEREZ",
+    "clave": 32
+  },
+  {
+    "id": "021",
+    "nombre": "JIMÉNEZ DEL TEUL",
+    "clave": 32
+  },
+  {
+    "id": "022",
+    "nombre": "JUAN ALDAMA",
+    "clave": 32
+  },
+  {
+    "id": "023",
+    "nombre": "JUCHIPILA",
+    "clave": 32
+  },
+  {
+    "id": "024",
+    "nombre": "LORETO",
+    "clave": 32
+  },
+  {
+    "id": "025",
+    "nombre": "LUIS MOYA",
+    "clave": 32
+  },
+  {
+    "id": "026",
+    "nombre": "MAZAPIL",
+    "clave": 32
+  },
+  {
+    "id": "027",
+    "nombre": "MELCHOR OCAMPO",
+    "clave": 32
+  },
+  {
+    "id": "028",
+    "nombre": "MEZQUITAL DEL ORO",
+    "clave": 32
+  },
+  {
+    "id": "029",
+    "nombre": "MIGUEL AUZA",
+    "clave": 32
+  },
+  {
+    "id": "030",
+    "nombre": "MOMAX",
+    "clave": 32
+  },
+  {
+    "id": "031",
+    "nombre": "MONTE ESCOBEDO",
+    "clave": 32
+  },
+  {
+    "id": "032",
+    "nombre": "MORELOS",
+    "clave": 32
+  },
+  {
+    "id": "033",
+    "nombre": "MOYAHUA DE ESTRADA",
+    "clave": 32
+  },
+  {
+    "id": "034",
+    "nombre": "NOCHISTLÁN DE MEJÍA",
+    "clave": 32
+  },
+  {
+    "id": "035",
+    "nombre": "NORIA DE ÁNGELES",
+    "clave": 32
+  },
+  {
+    "id": "036",
+    "nombre": "OJOCALIENTE",
+    "clave": 32
+  },
+  {
+    "id": "037",
+    "nombre": "PÁNUCO",
+    "clave": 32
+  },
+  {
+    "id": "038",
+    "nombre": "PINOS",
+    "clave": 32
+  },
+  {
+    "id": "039",
+    "nombre": "RÍO GRANDE",
+    "clave": 32
+  },
+  {
+    "id": "040",
+    "nombre": "SAIN ALTO",
+    "clave": 32
+  },
+  {
+    "id": "041",
+    "nombre": "EL SALVADOR",
+    "clave": 32
+  },
+  {
+    "id": "042",
+    "nombre": "SOMBRERETE",
+    "clave": 32
+  },
+  {
+    "id": "043",
+    "nombre": "SUSTICACÁN",
+    "clave": 32
+  },
+  {
+    "id": "044",
+    "nombre": "TABASCO",
+    "clave": 32
+  },
+  {
+    "id": "045",
+    "nombre": "TEPECHITLÁN",
+    "clave": 32
+  },
+  {
+    "id": "046",
+    "nombre": "TEPETONGO",
+    "clave": 32
+  },
+  {
+    "id": "047",
+    "nombre": "TEÚL DE GONZÁLEZ ORTEGA",
+    "clave": 32
+  },
+  {
+    "id": "048",
+    "nombre": "TLALTENANGO DE SÁNCHEZ ROMÁN",
+    "clave": 32
+  },
+  {
+    "id": "049",
+    "nombre": "VALPARAÍSO",
+    "clave": 32
+  },
+  {
+    "id": "050",
+    "nombre": "VETAGRANDE",
+    "clave": 32
+  },
+  {
+    "id": "051",
+    "nombre": "VILLA DE COS",
+    "clave": 32
+  },
+  {
+    "id": "052",
+    "nombre": "VILLA GARCÍA",
+    "clave": 32
+  },
+  {
+    "id": "053",
+    "nombre": "VILLA GONZÁLEZ ORTEGA",
+    "clave": 32
+  },
+  {
+    "id": "054",
+    "nombre": "VILLA HIDALGO",
+    "clave": 32
+  },
+  {
+    "id": "055",
+    "nombre": "VILLANUEVA",
+    "clave": 32
+  },
+  {
+    "id": "056",
+    "nombre": "ZACATECAS",
+    "clave": 32
+  },
+  {
+    "id": "057",
+    "nombre": "TRANCOSO",
+    "clave": 32
+  },
+  {
+    "id": "058",
+    "nombre": "SANTA MARÍA DE LA PAZ",
+    "clave": 32
+  },
+  {
+    "id": 999,
+    "nombre": "NO ESPECIFICADO",
+    "clave": 32
+  },
+  {
+    "id": 999,
+    "nombre": "NO ESPECIFICADO",
+    "clave": 36
+  },
+  {
+    "id": 997,
+    "nombre": "NO APLICA",
+    "clave": 97
+  },
+  {
+    "id": 998,
+    "nombre": "SE IGNORA",
+    "clave": 98
+  },
+  {
+    "id": 999,
+    "nombre": "NO ESPECIFICADO",
+    "clave": 99
+  }
+]

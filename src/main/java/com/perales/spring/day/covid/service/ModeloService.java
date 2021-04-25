@@ -1,8 +1,13 @@
 package com.perales.spring.day.covid.service;
 
 
+import com.fasterxml.jackson.core.type.TypeReference;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import com.google.common.collect.Iterables;
+import com.google.gson.Gson;
 import com.perales.spring.day.covid.model.Modelo;
+import com.perales.spring.day.covid.model.dto.DefuncionesMunicipio;
+import com.perales.spring.day.covid.model.dto.Municipio;
 import com.perales.spring.day.covid.repository.ModeloRepository;
 import com.perales.spring.day.covid.util.Parser;
 import lombok.extern.log4j.Log4j2;
@@ -10,6 +15,7 @@ import org.hibernate.Criteria;
 import org.hibernate.Session;
 import org.hibernate.criterion.Example;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.core.io.ClassPathResource;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
 
@@ -110,5 +116,35 @@ public class ModeloService {
     
     public Integer getSizeOfProcessingList(){
         return countModelos;
+    }
+    
+    public Integer countModeloByEntidadResidenciaAndFechaDefuncionExists(String entidadResidencia){
+        return modeloRepository.countModeloByEntidadResidenciaAndFechaDefuncionIsNotNull(entidadResidencia);
+    }
+    
+    public Integer countModeloByMunicipioResidenciaAndFechaDefuncionIsNotNull(String municipio){
+        return modeloRepository.countModeloByMunicipioResidenciaAndFechaDefuncionIsNotNull(municipio);
+    }
+    
+    public List<DefuncionesMunicipio> defuncionesAgrupadasPorMunicipio() {
+        ObjectMapper mapper = new ObjectMapper();
+        Gson gson = new Gson();
+        String jsonMunicipios = null;
+        List<Municipio> municipios = new ArrayList<>();
+        try {
+            File file = new ClassPathResource( "municipios.json").getFile();
+            municipios = mapper.readValue(file, new TypeReference<List<Municipio>>(){});
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        List<DefuncionesMunicipio> defuncionesMunicipios = new ArrayList<>();
+        for(Municipio municipio : municipios){
+            DefuncionesMunicipio defunciones = new DefuncionesMunicipio();
+            defunciones.setNombre( municipio.getNombre() );
+            defunciones.setAbreviacion( municipio.getClave() );
+            defunciones.setCantidad(countModeloByMunicipioResidenciaAndFechaDefuncionIsNotNull(municipio.getId()));
+            defuncionesMunicipios.add(defunciones);
+        }
+        return defuncionesMunicipios;
     }
 }

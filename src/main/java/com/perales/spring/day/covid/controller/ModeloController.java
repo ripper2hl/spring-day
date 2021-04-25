@@ -1,6 +1,7 @@
 package com.perales.spring.day.covid.controller;
 
 import com.perales.spring.day.covid.model.Modelo;
+import com.perales.spring.day.covid.model.dto.DefuncionesMunicipio;
 import com.perales.spring.day.covid.service.ModeloService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
@@ -29,6 +30,21 @@ public class ModeloController {
     @GetMapping("/{id}")
     public Optional<Modelo> findById(Integer id ){
         return modeloService.findById(id);
+    }
+    
+    @GetMapping("/defunciones/entidad/{entidad}")
+    public Integer defuncionesAgrupadasPorEntidad(@PathVariable String entidad ){
+        return modeloService.countModeloByEntidadResidenciaAndFechaDefuncionExists(entidad);
+    }
+    
+    @GetMapping("/defunciones/municipio/{municipio}")
+    public Integer defuncionesAgrupadasPorMunicipio(@PathVariable String municipio ){
+        return modeloService.countModeloByMunicipioResidenciaAndFechaDefuncionIsNotNull(municipio);
+    }
+    
+    @GetMapping("/defunciones/municipio/")
+    public List<DefuncionesMunicipio> defuncionesAgrupadasPorMunicipio(){
+        return modeloService.defuncionesAgrupadasPorMunicipio();
     }
     
     @GetMapping("/processing")
