@@ -6,14 +6,23 @@
 * Maven
 * Docker
 * Nodejs
+* Es necesario tener abiertos los puertos 8080, 5432, 4200
 
 ## Ejecutar el proyecto:
 
 * Levantar la base de datos: 
  
     ```bash
-    docker run -p 5432:5432 -e POSTGRES_PASSWORD=mysecretpassword -d jesusperales/spring-day-db:latest
+    docker run -p 5432:5432 -e POSTGRES_PASSWORD=mysecretpassword --name spring-day-db -d jesusperales/spring-day-db:latest
+    docker logs -f spring-day-db
     ```
+  
+  Una vez que la base de datos envie el mensaje de que puede recibir conexiones podremos proseguir.
+  mensaje como este:
+  
+      
+      2021-04-25 12:47:04.205 UTC [1] LOG:  database system is ready to accept connections
+      
 
 * Levantar backend:
   
@@ -25,13 +34,14 @@
     Podras ver la pantalla de swagger para probar algunos endpoints
     http://localhost:8080/swagger-ui/index.html
   
-     ## POR ALGUNA RAZON CHROME SIEMPRE DIRIGE A HTTPS FIREFOX NO
+     ## POR ALGUNA RAZON CHROME SIEMPRE DIRIGE A HTTPS, FIREFOX NO
 
 * Levantar frontend
 
     ```bash
     git clone git@github.com:ripper2hl/spring-day-frontend.git
     cd spring-day-frontend
+    npm i
     npm run start
     ```
 
